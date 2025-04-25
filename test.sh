@@ -1,1 +1,2 @@
 echo "HelloWorld"
+echo $pkg

@@ -1,5 +1,5 @@
 #!/system/bin/sh
-pkg=$1
+
 if [ -z "$pkg" ]; then
     echo "Bạn chưa nhập Package ( com.dts.freefireth hoặc com.dts.freefiremax, chỉ nhập 1 cái ) "
     exit 1

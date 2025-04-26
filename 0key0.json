@@ -21,6 +21,14 @@
     "serial": "427c8402",
     "android_version": "15",
     "manufacturer": "Xiaomi",
+    "price": 50
+    },
+  {
+    "key": "admin2",
+    "android_id": "d4413c631059bf25",
+    "serial": "427c8402",
+    "android_version": "15",
+    "manufacturer": "Xiaomi",
     "price": 100
     },
   {

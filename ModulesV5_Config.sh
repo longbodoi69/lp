@@ -1334,7 +1334,6 @@ apply_fps
 apply_vsync1
 apply_vsync2
 apply_vsync3
-apply_device_config
 apply_ram_plus
 
 echo "[WARNING] $(date '+%H:%M:%S'): All Tweaks Success"

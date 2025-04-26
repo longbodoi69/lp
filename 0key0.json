@@ -16,12 +16,12 @@
     "price": 50
   },
     {
-    "key": "abc3",
+    "key": "admin",
     "android_id": "d4413c631059bf25",
     "serial": "427c8402",
     "android_version": "15",
     "manufacturer": "Xiaomi",
-    "price": 250
+    "price": 50
     },
   {
     "key": "Bangdz",
@@ -29,7 +29,7 @@
     "serial": "R52R70DH5BP",
     "android_version": "14",
     "manufacturer": "samsung",
-    "price": 250
+    "price": 50
     },
   {
     "key": "GiaHuycube",
@@ -37,7 +37,7 @@
     "serial": "c0367aef",
     "android_version": "15",
     "manufacturer": "Xiaomi",
-    "price": 250
+    "price": 50
     },
   
   

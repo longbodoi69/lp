@@ -45,10 +45,18 @@
     "serial": "c0367aef",
     "android_version": "15",
     "manufacturer": "Xiaomi",
-    "price": 50
+    "price": 100
     },
   {
-    "key": "Thanhdz",
+    "key": "ThuanCute",
+    "android_id": "4e8482f6b19ba3d9",
+    "serial": "56e35d5",
+    "android_version": "11",
+    "manufacturer": "OPPO",
+    "price": 100
+    },
+  {
+    "key": "ThanhCute",
     "android_id": "641162b7cb215c75",
     "serial": "ddebd2b4",
     "android_version": "13",

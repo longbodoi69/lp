@@ -1,6 +1,5 @@
 #!/system/bin/sh
 
-echo "Đã đặt gói package là ${pkg}"
 dev=longdz
 refresh_rate=$(dumpsys SurfaceFlinger | grep "refresh-rate" | awk '{print $3}' | tr -d ' ')
 brand=$(getprop ro.product.system.brand)
@@ -701,7 +700,8 @@ if [ "$brand" != "Xiaomi" ] && ( [ "$brand" = "Samsung" ] || [ "$brand" = "vivo"
     setprop debug.sf.enable_advanced_sf_phase_offset 0
     settings put global device_idle_constants inactive_to=25000,sensing_to=0,locating_to=0,location_accuracy=20.0,motion_inactive_to=0,idle_after_inactive_to=0,idle_pending_to=60000,max_idle_pending_to=120000,idle_pending_factor=2.0,idle_to=900000,max_idle_to=21600000,idle_factor=2.0,min_time_to_alarm=600000,max_temp_app_whitelist_duration=10000,mms_temp_app_whitelist_duration=10000,sms_temp_app_whitelist_duration=10000,light_after_inactive_to=5000,light_pre_idle_to=60000,light_idle_to=180000,light_idle_factor=2.0,light_max_idle_to=240000,light_idle_maintenance_min_budget=60000,light_idle_maintenance_max_budget=180000,min_light_maintenance_time=5000,min_deep_maintenance_time=30000,notification_whitelist_duration=30000
 fi
-device_config put game_overlay "$pkg" mode=2,"$renderer"=true,fps="$refresh_rate",downscaleFactor=0.3,vsync=false,
+device_config put game_overlay com.dts.freefireth mode=2,"$renderer"=true,fps="$refresh_rate",downscaleFactor=0.3,vsync=false
+device_config put game_overlay com.dts.freefiremax mode=2,"$renderer"=true,fps="$refresh_rate",downscaleFactor=0.3,vsync=false,
 setprop debug.hwui.renderer "$renderer"
 setprop debug.renderengine.backend "$renderer"threaded
 setprop debug.composition.7x27A.type mdp

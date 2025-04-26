@@ -18,7 +18,7 @@ sleep 1
 echo ""
 echo "🛠️Project Name: V2"
 echo " 🖥️Developer: $dev"
-echo " 📄Status: No Root"
+echo " 📄Status: $(if [ $(which su) ]; then echo 'Root'; else echo 'No Root'; fi) "
 sleep 1
 echo ""
 echo " 🔥Device Information"

@@ -5,7 +5,7 @@
     "serial": "2c3297a1371d7ece",
     "android_version": "10",
     "manufacturer": "samsung",
-    "price": 50
+    "price": 250
   },
   {
     "key": "abc2",
@@ -20,7 +20,7 @@
     "android_id": "d4413c631059bf25",
     "serial": "427c8402",
     "android_version": "15",
-    "manufacturer": "xiaomi",
+    "manufacturer": "Xiaomi",
     "price": 250
     }
 ]

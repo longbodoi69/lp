@@ -22,5 +22,23 @@
     "android_version": "15",
     "manufacturer": "Xiaomi",
     "price": 250
-    }
+    },
+  {
+    "key": "Bangdz",
+    "android_id": "ed2c3d6f3e90146b",
+    "serial": "R52R70DH5BP",
+    "android_version": "14",
+    "manufacturer": "samsung",
+    "price": 250
+    },
+  {
+    "key": "GiaHuycube",
+    "android_id": "f3c8da8d59cef62c",
+    "serial": "c0367aef",
+    "android_version": "15",
+    "manufacturer": "Xiaomi",
+    "price": 250
+    },
+  
+  
 ]

@@ -6,7 +6,7 @@ hardware=$(getprop ro.hardware)
 brand=$(getprop ro.product.brand)
 sleep 1
 echo ""
-echo "🛠️Project Name: Config V1"
+echo "🛠️Project Name: V1"
 echo " 🖥️Developer: $dev"
 echo " 📄Status: No Root"
 sleep 1

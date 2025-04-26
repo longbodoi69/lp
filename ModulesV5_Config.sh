@@ -1,9 +1,5 @@
 #!/system/bin/sh
 
-if [ -z "$pkg" ]; then
-    echo "Bạn chưa nhập Package ( com.dts.freefireth hoặc com.dts.freefiremax, chỉ nhập 1 cái ) "
-    exit 1
-fi
 echo "Đã đặt gói package là ${pkg}"
 dev=longdz
 refresh_rate=$(dumpsys SurfaceFlinger | grep "refresh-rate" | awk '{print $3}' | tr -d ' ')

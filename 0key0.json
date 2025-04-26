@@ -65,10 +65,18 @@
     },
   {
     "key": "Thaingu",
-    "android_id": "1caa019022a672bf",
+    "android_id": "af317c5edcbcd787",
     "serial": "10AC8812Y0000H1",
     "android_version": "14",
     "manufacturer": "vivo",
     "price": 100
-    }
+    },
+  {
+    "key": "ThanhY",
+    "android_id": "af317c5edcbcd787",
+    "serial": "RF8R30A28ET",
+    "android_version": "13",
+    "manufacturer": "samsung",
+    "price": 50
+  }
 ]

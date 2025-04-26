@@ -1197,7 +1197,3 @@ tweaks
 echo " All Tweaks Success"
 echo " vui lòng khởi động lại để có tác dụng"
 cmd notification post -S bigtext -t 'longdz' 'Tag' '#Thanks'
-
-# Option encode/obfuscate: 8
-# https://anotepad.com/notes/eabcnj39
- ModulesV4_onservice.sh.temp1.sh 

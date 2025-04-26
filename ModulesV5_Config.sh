@@ -16,7 +16,7 @@ echo "___________                      __
                        \/     \/     \/     \/ "
 sleep 1
 echo ""
-echo "🛠️Project Name: Config V5"
+echo "🛠️Project Name: V2"
 echo " 🖥️Developer: $dev"
 echo " 📄Status: No Root"
 sleep 1

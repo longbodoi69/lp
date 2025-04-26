@@ -1,12 +1,7 @@
 [
   {
-    "tien": "50",
+    "tien": "250",
     "version": "ConfigV5",
     "link": "https://raw.githubusercontent.com/longphan1701-dz/019282qwerty019282/refs/heads/main/test.sh"
-  },
-  {
-    "tien": "100",
-    "version": "5",
-    "link": ""
   }
 ]

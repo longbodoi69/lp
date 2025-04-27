@@ -78,5 +78,13 @@
     "android_version": "14",
     "manufacturer": "samsung",
     "price": 50
-  }
+  },
+    {
+    "key": "ThanhPhat",
+    "android_id": "bbf9334ee030cae2",
+    "serial": "R5CT50ZC6MJ",
+    "android_version": "14",
+    "manufacturer": "samsung",
+    "price": 50
+  },
 ]

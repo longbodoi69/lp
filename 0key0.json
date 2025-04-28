@@ -87,4 +87,12 @@
     "manufacturer": "samsung",
     "price": 50
   },
+    {
+    "key": "VanViet",
+    "android_id": "91ad0a905b3692c0",
+    "serial": "102793735M031369",
+    "android_version": "14",
+    "manufacturer": "TECNO",
+    "price": 50
+  }
 ]

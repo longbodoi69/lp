@@ -118,5 +118,13 @@
     "android_version": "13",
     "manufacturer": "Xiaomi",
     "price": 100
-  }
+  },
+   {
+    "key": "lttn",
+    "android_id": "5d0c4c79fdc48ba1",
+    "serial": "a61a6d24",
+    "android_version": "14",
+    "manufacturer": "OPPO",
+    "price": 50
+  },
 ]

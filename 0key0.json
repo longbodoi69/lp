@@ -103,4 +103,12 @@
     "manufacturer": "TECNO",
     "price": 50
   },
+    {
+    "key": "NguyenHoang",
+    "android_id": "c47c83f48057d0d5",
+    "serial": "95Z9OBMRYT6DXSZ5",
+    "android_version": "15",
+    "manufacturer": "OPPO",
+    "price": 50
+  },
 ]

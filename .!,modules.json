@@ -1,12 +1,12 @@
 [
   {
     "name": "SensiXPatch",
-    "version": "v1",
+    "version": "V1",
     "price": 50
   },
   {
    "name": "SensiXPatch",
-    "version": "v2",
+    "version": "V2",
     "price": 100
   }
 ]

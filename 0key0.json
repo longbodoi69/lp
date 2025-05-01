@@ -111,4 +111,12 @@
     "manufacturer": "OPPO",
     "price": 50
   },
+    {
+    "key": "adminlmt",
+    "android_id": "d9bf613b348bb875",
+    "serial": "a6e81fc5",
+    "android_version": "13",
+    "manufacturer": "Xiaomi",
+    "price": 100
+  }
 ]

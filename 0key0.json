@@ -127,4 +127,12 @@
     "manufacturer": "OPPO",
     "price": 50
   },
+  {
+    "key": "HuuToan",
+    "android_id": "b1e7f534ed7ce2fe",
+    "serial": "knwo8x8plvor7hob",
+    "android_version": "15",
+    "manufacturer": "Xiaomi",
+    "price": 50
+  },
 ]

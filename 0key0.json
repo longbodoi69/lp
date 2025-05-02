@@ -135,4 +135,12 @@
     "manufacturer": "Xiaomi",
     "price": 50
   },
+  {
+    "key": "VuDuong",
+    "android_id": "1b8d3142dd711c25",
+    "serial": "2e519886",
+    "android_version": "14",
+    "manufacturer": "OPPO",
+    "price": 50
+  },
 ]

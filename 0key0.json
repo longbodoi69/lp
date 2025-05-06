@@ -151,4 +151,12 @@
     "manufacturer": "OPPO",
     "price": 100
   },
+  {
+    "key": "Son",
+    "android_id": "9da0e1b0590c709d",
+    "serial": "USJRU8OVAAHAZHRO",
+    "android_version": "15",
+    "manufacturer": "Xiaomi",
+    "price": 50
+  },
 ]

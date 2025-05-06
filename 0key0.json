@@ -167,4 +167,13 @@
     "manufacturer": "samsung",
     "price": 50
   },
+  {
+    "key": "Kien",
+    "android_id": "c1277b4c7716bb40",
+    "serial": "HA1FGKWB",
+    "android_version": "12",
+    "manufacturer": "LENOVO",
+    "price": 50
+  },
+
 ]

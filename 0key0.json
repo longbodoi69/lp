@@ -159,4 +159,12 @@
     "manufacturer": "Xiaomi",
     "price": 50
   },
+  {
+    "key": "MinhHuy",
+    "android_id": "201022c065ce4fe4",
+    "serial": "RFCX712SQZM",
+    "android_version": "14",
+    "manufacturer": "Xiaomi",
+    "price": 50
+  },
 ]

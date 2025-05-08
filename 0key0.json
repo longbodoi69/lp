@@ -175,13 +175,4 @@
     "manufacturer": "LENOVO",
     "price": 50
   },
-  {
-    "key": "LongThanh",
-    "android_id": "9a28e481b1bfcec1",
-    "serial": "R58R447YSQP",
-    "android_version": "12",
-    "manufacturer": "samsung",
-    "price": 100
-  },
-
 ]

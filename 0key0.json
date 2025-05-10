@@ -207,4 +207,12 @@
     "manufacturer": "Xiaomi",
     "price": 150
   },
+  {
+    "key": "HuuLoc",
+    "android_id": "fc2b34cea43a00a5",
+    "serial": "R58T43TEKFL",
+    "android_version": "14",
+    "manufacturer": "samsung",
+    "price": 150
+  }
 ]

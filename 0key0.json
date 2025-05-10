@@ -214,5 +214,13 @@
     "android_version": "14",
     "manufacturer": "samsung",
     "price": 150
-  }
+  },
+  {
+    "key": "abc1",
+    "android_id": "69198710b44333e5",
+    "serial": "8c08e707",
+    "android_version": "15",
+    "manufacturer": "Xiaomi",
+    "price": 150
+  },
 ]

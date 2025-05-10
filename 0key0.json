@@ -223,4 +223,12 @@
     "manufacturer": "Xiaomi",
     "price": 150
   },
+  {
+    "key": "abc1",
+    "android_id": "4a9a308f2b7dee61",
+    "serial": "EATOBY8DUCNJPB8X",
+    "android_version": "14",
+    "manufacturer": "Xiaomi",
+    "price": 150
+  },
 ]

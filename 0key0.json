@@ -231,4 +231,12 @@
     "manufacturer": "Xiaomi",
     "price": 150
   },
+  {
+    "key": "ManhDung",
+    "android_id": "ca17421924e4fe00",
+    "serial": "DYT8CA65DMJNTSYH",
+    "android_version": "11",
+    "manufacturer": "vivo",
+    "price": 50
+  },
 ]

@@ -190,5 +190,21 @@
     "android_version": "14",
     "manufacturer": "realme",
     "price": 150
-  }
+  },
+  {
+    "key": "Chon",
+    "android_id": "839230aede20f572",
+    "serial": "4d69c273",
+    "android_version": "14",
+    "manufacturer": "OPPO",
+    "price": 150
+  },
+  {
+    "key": "trongcube",
+    "android_id": "230dd6706732d932",
+    "serial": "4116fa11",
+    "android_version": "15",
+    "manufacturer": "Xiaomi",
+    "price": 150
+  },
 ]

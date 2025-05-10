@@ -183,4 +183,12 @@
     "manufacturer": "LENOVO",
     "price": 50
   },
+  {
+    "key": "Thien",
+    "android_id": "b0d8b4ad23e85c4a",
+    "serial": "0H73A21I2610644B",
+    "android_version": "14",
+    "manufacturer": "realme",
+    "price": 150
+  }
 ]

@@ -15,14 +15,14 @@
     "manufacturer": "xiaomi",
     "price": 50
   },
-    {
+  {
     "key": "admin",
     "android_id": "d4413c631059bf25",
     "serial": "427c8402",
     "android_version": "15",
     "manufacturer": "Xiaomi",
     "price": 50
-    },
+  },
   {
     "key": "admin2",
     "android_id": "d4413c631059bf25",
@@ -30,7 +30,15 @@
     "android_version": "15",
     "manufacturer": "Xiaomi",
     "price": 100
-    },
+  },
+  {
+    "key": "admin3",
+    "android_id": "d4413c631059bf25",
+    "serial": "427c8402",
+    "android_version": "15",
+    "manufacturer": "Xiaomi",
+    "price": 150
+  },
   {
     "key": "Bang",
     "android_id": "710bfe9b133749f3",

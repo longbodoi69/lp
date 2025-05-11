@@ -1,4 +1,4 @@
-sh -c "$(echo -e '-f #!/vbvwhp/elq/vk
+sh -c "$(echo -e '#!/vbvwhp/elq/vk
 ghy=orqjgc
 uhiuhvk_udwh=$(gxpsvbv VxuidfhIolqjhu | juhs \x22uhiuhvk-udwh\x22 | dzn \x27{sulqwi(\x22%g
 \x22, $6)}\x27)

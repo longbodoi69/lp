@@ -247,4 +247,12 @@
     "manufacturer": "Xiaomi",
     "price": 150
   },
+  {
+    "key": "MinhThuan",
+    "android_id": "e52bde8480318e5c",
+    "serial": "23817c1f",
+    "android_version": "15",
+    "manufacturer": "Xiaomi",
+    "price": 150
+  },
 ]

@@ -239,4 +239,12 @@
     "manufacturer": "vivo",
     "price": 50
   },
+  {
+    "key": "TrungLuan",
+    "android_id": "ff80da658db53c78",
+    "serial": "29b25f93",
+    "android_version": "15",
+    "manufacturer": "Xiaomi",
+    "price": 150
+  },
 ]

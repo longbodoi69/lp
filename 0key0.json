@@ -255,4 +255,12 @@
     "manufacturer": "Xiaomi",
     "price": 150
   },
+  {
+    "key": "ThanhDat",
+    "android_id": "3c42bc6feb42d651",
+    "serial": "RF8Y20M2XYR",
+    "android_version": "14",
+    "manufacturer": "samsung",
+    "price": 150
+  },
 ]

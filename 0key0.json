@@ -279,4 +279,12 @@
     "manufacturer": "Xiaomi",
     "price": 50
   }
+    {
+    "key": "MinhThongNguRo",
+    "android_id": "42c4cab46b2f23a5",
+    "serial": "ce93dc020407",
+    "android_version": "12",
+    "manufacturer": "Xiaomi",
+    "price": 150
+  },
 ]

@@ -263,4 +263,12 @@
     "manufacturer": "samsung",
     "price": 150
   },
+  {
+    "key": "abc1",
+    "android_id": "f895584f78222b61",
+    "serial": "10HE4MF4C70007D",
+    "android_version": "15",
+    "manufacturer": "vivo",
+    "price": 50
+  },
 ]

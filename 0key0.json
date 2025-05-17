@@ -13,7 +13,7 @@
     "serial": "987654321ZYXWVU",
     "android_version": "11",
     "manufacturer": "xiaomi",
-    "price": 50
+    "price": "50"
   },
   {
     "key": "admin",
@@ -21,7 +21,7 @@
     "serial": "427c8402",
     "android_version": "15",
     "manufacturer": "Xiaomi",
-    "price": 50
+    "price": "50"
   },
   {
     "key": "admin2",
@@ -29,7 +29,7 @@
     "serial": "427c8402",
     "android_version": "15",
     "manufacturer": "Xiaomi",
-    "price": 100
+    "price": "100"
   },
   {
     "key": "admin3",
@@ -37,7 +37,7 @@
     "serial": "427c8402",
     "android_version": "15",
     "manufacturer": "Xiaomi",
-    "price": 150
+    "price": "150"
   },
   {
     "key": "Bang",
@@ -45,7 +45,7 @@
     "serial": "R52R70DH5BP",
     "android_version": "14",
     "manufacturer": "samsung",
-    "price": 150
+    "price": "150"
     },
   {
     "key": "GiaHuycube",
@@ -53,7 +53,7 @@
     "serial": "c0367aef",
     "android_version": "15",
     "manufacturer": "Xiaomi",
-    "price": 100
+    "price": "100"
     },
   {
     "key": "ThuanCute",
@@ -61,7 +61,7 @@
     "serial": "56e35d5",
     "android_version": "11",
     "manufacturer": "OPPO",
-    "price": 100
+    "price": "100"
     },
   {
     "key": "ThanhCute",
@@ -69,7 +69,7 @@
     "serial": "ddebd2b4",
     "android_version": "13",
     "manufacturer": "Xiaomi",
-    "price": 100
+    "price": "100"
     },
   {
     "key": "Thaingu",
@@ -77,7 +77,7 @@
     "serial": "10AC8812Y0000H1",
     "android_version": "14",
     "manufacturer": "vivo",
-    "price": 150
+    "price": "150"
     },
   {
     "key": "HoaiKhanh",
@@ -85,7 +85,7 @@
     "serial": "R8YX80RJR1M",
     "android_version": "14",
     "manufacturer": "samsung",
-    "price": 50
+    "price": "50"
   },
     {
     "key": "ThanhPhat",
@@ -93,7 +93,7 @@
     "serial": "R5CT50ZC6MJ",
     "android_version": "14",
     "manufacturer": "samsung",
-    "price": 50
+    "price": "50"
   },
     {
     "key": "duchan",
@@ -101,7 +101,7 @@
     "serial": "356657111250301",
     "android_version": "13",
     "manufacturer": "SHARP",
-    "price": 100
+    "price": "100"
   },
     {
     "key": "viethh",
@@ -109,7 +109,7 @@
     "serial": "102793735M031369",
     "android_version": "14",
     "manufacturer": "TECNO",
-    "price": 50
+    "price": "50"
   },
     {
     "key": "NguyenHoang",
@@ -117,7 +117,7 @@
     "serial": "95Z9OBMRYT6DXSZ5",
     "android_version": "15",
     "manufacturer": "OPPO",
-    "price": 50
+    "price": "50"
   },
     {
     "key": "adminlmt",
@@ -125,7 +125,7 @@
     "serial": "a6e81fc5",
     "android_version": "13",
     "manufacturer": "Xiaomi",
-    "price": 100
+    "price": "100"
   },
    {
     "key": "lttn",
@@ -133,7 +133,7 @@
     "serial": "a61a6d24",
     "android_version": "14",
     "manufacturer": "OPPO",
-    "price": 50
+    "price": "50"
   },
   {
     "key": "HuuToan",
@@ -141,7 +141,7 @@
     "serial": "knwo8x8plvor7hob",
     "android_version": "15",
     "manufacturer": "Xiaomi",
-    "price": 50
+    "price": "50"
   },
   {
     "key": "VuDuong",
@@ -149,7 +149,7 @@
     "serial": "2e519886",
     "android_version": "14",
     "manufacturer": "OPPO",
-    "price": 150
+    "price": "150"
   },
   {
     "key": "HaMinh",
@@ -157,7 +157,7 @@
     "serial": "90559d30",
     "android_version": "11",
     "manufacturer": "OPPO",
-    "price": 150
+    "price": "150"
   },
   {
     "key": "Son",
@@ -165,7 +165,7 @@
     "serial": "USJRU8OVAAHAZHRO",
     "android_version": "15",
     "manufacturer": "Xiaomi",
-    "price": 50
+    "price": "50"
   },
   {
     "key": "MinhHuy",
@@ -173,7 +173,7 @@
     "serial": "RFCX712SQZM",
     "android_version": "14",
     "manufacturer": "samsung",
-    "price": 50
+    "price": "50"
   },
   {
     "key": "Kien",
@@ -181,7 +181,7 @@
     "serial": "HA1FGKWB",
     "android_version": "12",
     "manufacturer": "LENOVO",
-    "price": 50
+    "price": "50"
   },
   {
     "key": "Thien",
@@ -189,7 +189,7 @@
     "serial": "0H73A21I2610644B",
     "android_version": "14",
     "manufacturer": "realme",
-    "price": 150
+    "price": "150"
   },
   {
     "key": "Chon",
@@ -197,7 +197,7 @@
     "serial": "4d69c273",
     "android_version": "14",
     "manufacturer": "OPPO",
-    "price": 150
+    "price": "150"
   },
   {
     "key": "trongcube",
@@ -205,7 +205,7 @@
     "serial": "4116fa11",
     "android_version": "15",
     "manufacturer": "Xiaomi",
-    "price": 150
+    "price": "150"
   },
   {
     "key": "HuuLoc",
@@ -213,7 +213,7 @@
     "serial": "R58T43TEKFL",
     "android_version": "14",
     "manufacturer": "samsung",
-    "price": 150
+    "price": "150"
   },
   {
     "key": "Duyanh",
@@ -221,7 +221,7 @@
     "serial": "8c08e707",
     "android_version": "15",
     "manufacturer": "Xiaomi",
-    "price": 150
+    "price": "150"
   },
   {
     "key": "APhenh",
@@ -229,7 +229,7 @@
     "serial": "EATOBY8DUCNJPB8X",
     "android_version": "14",
     "manufacturer": "Xiaomi",
-    "price": 150
+    "price": "150"
   },
   {
     "key": "ManhDung",
@@ -237,7 +237,7 @@
     "serial": "DYT8CA65DMJNTSYH",
     "android_version": "11",
     "manufacturer": "vivo",
-    "price": 50
+    "price": "50"
   },
   {
     "key": "TrungLuan",
@@ -245,7 +245,7 @@
     "serial": "29b25f93",
     "android_version": "15",
     "manufacturer": "Xiaomi",
-    "price": 150
+    "price": "150"
   },
   {
     "key": "MinhThuan",
@@ -253,7 +253,7 @@
     "serial": "23817c1f",
     "android_version": "15",
     "manufacturer": "Xiaomi",
-    "price": 150
+    "price": "150"
   },
   {
     "key": "ThanhDat",
@@ -261,7 +261,7 @@
     "serial": "RF8Y20M2XYR",
     "android_version": "14",
     "manufacturer": "samsung",
-    "price": 150
+    "price": "150"
   },
   {
     "key": "HieuDien",
@@ -269,7 +269,7 @@
     "serial": "10HE4MF4C70007D",
     "android_version": "15",
     "manufacturer": "vivo",
-    "price": 50
+    "price": "50"
   },
   {
     "key": "MINHTRI",
@@ -277,7 +277,7 @@
     "serial": "zd6tq4wwtwaqiryd",
     "android_version": "14",
     "manufacturer": "Xiaomi",
-    "price": 50
+    "price": "50"
   },
     {
     "key": "MinhThongNguRo",
@@ -285,7 +285,7 @@
     "serial": "ce93dc020407",
     "android_version": "12",
     "manufacturer": "Xiaomi",
-    "price": 150
+    "price": "150"
   },
   {
     "key": "bachacu",
@@ -293,6 +293,6 @@
     "serial": "RWJR9LROZXHYKFCU",
     "android_version": "15",
     "manufacturer": "Xiaomi",
-    "price": 150
+    "price": "150"
   }
 ]

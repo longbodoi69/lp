@@ -294,5 +294,13 @@
     "android_version": "15",
     "manufacturer": "Xiaomi",
     "price": "150"
-  }
+  },
+  {
+    "key": "ndn",
+    "android_id": "cc7aaffd2b084517",
+    "serial": "RFCT30FKSDR",
+    "android_version": "14",
+    "manufacturer": "samsung",
+    "price": 50
+  },
 ]

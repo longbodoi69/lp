@@ -301,7 +301,7 @@
     "serial": "34002873860014S",
     "android_version": "12",
     "manufacturer": "Vivo",
-    "price": 50
+    "price": "50"
   },
   {
     "key": "GiaBao",
@@ -309,6 +309,14 @@
     "serial": "d88d02267d75",
     "android_version": "15",
     "manufacturer": "Xiaomi",
-    "price": 50
-  }
+    "price": "50"
+  },
+    {
+    "key": "QuocKhanh",
+    "android_id": "a56d76ec3646d822",
+    "serial": "xwd6du7tydcmtwnr",
+    "android_version": "14",
+    "manufacturer": "Xiaomi",
+    "price": "50"
+  },
 ]

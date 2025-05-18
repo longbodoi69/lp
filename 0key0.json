@@ -302,5 +302,13 @@
     "android_version": "12",
     "manufacturer": "Vivo",
     "price": 50
+  },
+  {
+    "key": "GiaBao",
+    "android_id": "3f7f34ce3c180751",
+    "serial": "d88d02267d75",
+    "android_version": "15",
+    "manufacturer": "Xiaomi",
+    "price": 50
   }
 ]

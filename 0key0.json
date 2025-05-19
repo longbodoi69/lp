@@ -319,4 +319,12 @@
     "manufacturer": "Xiaomi",
     "price": "50"
   },
+  {
+    "key": "QuocMinh",
+    "android_id": "5c5de67e153c61d",
+    "serial": "d2ab4303",
+    "android_version": "11",
+    "manufacturer": "OPPO",
+    "price": 50
+  },
 ]

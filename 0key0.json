@@ -333,6 +333,14 @@
     "serial": "10HEC9F0YS000A1",
     "android_version": "14",
     "manufacturer": "vivo",
-    "price": 50
+    "price": "50"
+  },
+  {
+    "key": "BangMb",
+    "android_id": "7bbe2f35c6ee9870",
+    "serial": "0I52115S",
+    "android_version": "13",
+    "manufacturer": "realme",
+    "price": "150"
   },
 ]

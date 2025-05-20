@@ -301,7 +301,7 @@
     "serial": "34002873860014S",
     "android_version": "12",
     "manufacturer": "Vivo",
-    "price": "50"
+    "price": "150"
   },
   {
     "key": "GiaBao",
@@ -325,6 +325,6 @@
     "serial": "d2ab4303",
     "android_version": "11",
     "manufacturer": "OPPO",
-    "price": 50
+    "price": "50"
   },
 ]

@@ -327,4 +327,12 @@
     "manufacturer": "OPPO",
     "price": "50"
   },
+  {
+    "key": "AnhKiet",
+    "android_id": "7229e45e2fe2a475",
+    "serial": "10HEC9F0YS000A1",
+    "android_version": "14",
+    "manufacturer": "vivo",
+    "price": 50
+  },
 ]

@@ -13,5 +13,10 @@
    "name": "SensiXPatch",
     "version": "V3",
     "price": 150
+  },
+  {
+   "name": "SensiXPatch",
+    "version": "V4",
+    "price": 200
   }
 ]

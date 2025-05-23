@@ -359,4 +359,12 @@
     "manufacturer": "realme",
     "price": "100"
   },
+   {
+    "key": "VyHoang",
+    "android_id": "774714b81c7ae4a3",
+    "serial": "RFCW301JHQP",
+    "android_version": "14",
+    "manufacturer": "samsung",
+    "price": "150"
+  },  
 ]

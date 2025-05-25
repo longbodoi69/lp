@@ -374,13 +374,5 @@
     "android_version": "12",
     "manufacturer": "samsung",
     "price": "200"
-  },
-  {
-    "key": "MinhDuc",
-    "android_id": "3204b88a8c1e44d4",
-    "serial": "320336992606",
-    "android_version": "11",
-    "manufacturer": "ZTE",
-    "price": "50"
-  } 
+  }
 ]

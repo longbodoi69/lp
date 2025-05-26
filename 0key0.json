@@ -48,6 +48,14 @@
     "price": "200"
   },
   {
+    "key": "admin5",
+    "android_id": "492aede86e4525bc",
+    "serial": "427c8402",
+    "android_version": "15",
+    "manufacturer": "Xiaomi",
+    "price": "250"
+  },
+  {
     "key": "Bang",
     "android_id": "710bfe9b133749f3",
     "serial": "R52R70DH5BP",

@@ -391,4 +391,12 @@
     "manufacturer": "OPPO",
     "price": "150"
   },
+  {
+    "key": "ductrong",
+    "android_id": "3ccaa12e5739759c",
+    "serial": "R9HRC09JQWK",
+    "android_version": "13",
+    "manufacturer": "samsung",
+    "price": "20"
+  },
 ]

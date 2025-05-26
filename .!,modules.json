@@ -23,5 +23,11 @@
    "name": "SensiXPatch",
     "version": "V5",
     "price": 250
-  }
+  },
+  {
+   "name": "AndroidLiteXOptimal",
+    "version": "V1",
+    "price": 20
+  },
+  
 ]

@@ -464,4 +464,12 @@
     "manufacturer": "Xiaomi",
     "price": "20"
   },
+  {
+    "key": "TheTung",
+    "android_id": "a44896a46cbfc7d8",
+    "serial": "69AIWK6LAILRNJIZ",
+    "android_version": "13",
+    "manufacturer": "OPPO",
+    "price": "20"
+  },
 ]

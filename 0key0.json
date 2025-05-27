@@ -479,4 +479,12 @@
     "manufacturer": "vivo",
     "price": "20"
   },
+  {
+    "key": "HoangKhang",
+    "android_id": "b6ee4f3c6d6a58eb",
+    "serial": "10HC8R0A1F00069",
+    "android_version": "12",
+    "manufacturer": "Vivo",
+    "price": "50"
+  }
 ]

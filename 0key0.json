@@ -398,5 +398,13 @@
     "android_version": "13",
     "manufacturer": "samsung",
     "price": "20"
-  }
+  },
+  {
+    "key": "KhanhDuy",
+    "android_id": "39df0ba7db303908",
+    "serial": "PFDIWO45QOEIX8JV",
+    "android_version": "15",
+    "manufacturer": "OPPO",
+    "price": "100"
+  }  
 ]

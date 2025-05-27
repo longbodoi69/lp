@@ -422,5 +422,13 @@
     "android_version": "15",
     "manufacturer": "vivo",
     "price": "20"
-  },  
+  },
+  {
+    "key": "MinhNhat",
+    "android_id": "83c8e5ffc0f4dc00",
+    "serial": "f837316a",
+    "android_version": "14",
+    "manufacturer": "OPPO",
+    "price": "20"
+  },
 ]

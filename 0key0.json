@@ -375,6 +375,14 @@
     "manufacturer": "samsung",
     "price": "200"
   },
+  {
+    "key": "LongThanh",
+    "android_id": "9a28e481b1bfcec1",
+    "serial": "R58R447YSQP",
+    "android_version": "12",
+    "manufacturer": "samsung",
+    "price": "20"
+  },
    {
     "key": "Khanhdz",
     "android_id": "a0ab66121aa8edc8",

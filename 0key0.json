@@ -478,5 +478,13 @@
     "android_version": "11",
     "manufacturer": "OPPO",
     "price": "20"
-  }
+  },
+  {
+    "key": "BaLong",
+    "android_id": "43f7114533ec8dfa",
+    "serial": "4113bafd",
+    "android_version": "11",
+    "manufacturer": "vivo",
+    "price": "20"
+  },
 ]

@@ -406,5 +406,13 @@
     "android_version": "15",
     "manufacturer": "OPPO",
     "price": "100"
-  }  
+  },
+  {
+    "key": "MinhTuyen",
+    "android_id": "de55331dbf520f1d",
+    "serial": "1153337455008692",
+    "android_version": "14",
+    "manufacturer": "TECNO",
+    "price": "20"
+  },
 ]

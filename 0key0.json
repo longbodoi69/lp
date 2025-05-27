@@ -181,7 +181,7 @@
     "serial": "RFCX712SQZM",
     "android_version": "14",
     "manufacturer": "samsung",
-    "price": "50"
+    "price": "20"
   },
    {
     "key": "Kien",
@@ -375,7 +375,7 @@
     "manufacturer": "samsung",
     "price": "200"
   },
-  {
+   {
     "key": "LongThanh",
     "android_id": "9a28e481b1bfcec1",
     "serial": "R58R447YSQP",
@@ -478,5 +478,5 @@
     "android_version": "11",
     "manufacturer": "OPPO",
     "price": "20"
-  },
+  }
 ]

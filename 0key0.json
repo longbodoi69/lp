@@ -415,4 +415,12 @@
     "manufacturer": "TECNO",
     "price": "20"
   },
+  {
+    "key": "TranVuong",
+    "android_id": "8c3982b7dd4fa377",
+    "serial": "10AE9B2L2C000F9",
+    "android_version": "15",
+    "manufacturer": "vivo",
+    "price": "20"
+  },  
 ]

@@ -575,4 +575,12 @@
     "manufacturer": "samsung",
     "price": "20"
   },
+  {
+    "key": "TuanKiet",
+    "android_id": "4c9b4dd5a4d2c0bb",
+    "serial": "3400019565001IC",
+    "android_version": "12",
+    "manufacturer": "vivo",
+    "price": "20"
+  },
 ]

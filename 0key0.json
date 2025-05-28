@@ -511,4 +511,12 @@
     "manufacturer": "Xiaomi",
     "price": "50"
   },
+  {
+    "key": "BaoLong",
+    "android_id": "f33c4a86bfce751e",
+    "serial": "R7AXA06ACVB",
+    "android_version": "14",
+    "manufacturer": "samsung",
+    "price": "20"
+  },
 ]

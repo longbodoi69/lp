@@ -381,7 +381,7 @@
     "serial": "R58R447YSQP",
     "android_version": "12",
     "manufacturer": "samsung",
-    "price": "20"
+    "price": "60"
   },
    {
     "key": "Khanhdz",
@@ -518,5 +518,13 @@
     "android_version": "14",
     "manufacturer": "samsung",
     "price": "20"
+  },
+  {
+    "key": "DucTai",
+    "android_id": "79015cf25ec54d50",
+    "serial": "hidqy5jjqowc5t59",
+    "android_version": "15",
+    "manufacturer": "Xiaomi",
+    "price": "60"
   },
 ]

@@ -606,5 +606,13 @@
     "android_version": "13",
     "manufacturer": "OPPO",
     "price": "20"
+  },  
+   {
+    "key": "TanTai",
+    "android_id": "2807875453594ee9",
+    "serial": "R58RB2GFR9B",
+    "android_version": "13",
+    "manufacturer": "samsung",
+    "price": "20"
   },
 ]

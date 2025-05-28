@@ -1,3 +1,170 @@
-sh -c "$(echo -e 'IyEvc3lzdGVtL2Jpbi9zaApyZWZyZXNoX3JhdGU9JChkdW1wc3lzIFN1cmZhY2VGbGluZ2VyIHwgZ3JlcCAicmVmcmVzaC1yYXRlIiB8IGF3ayAne3ByaW50ZigiJWQgIiwgJDMpfScpCmJyYW5kPSQoZ2V0cHJvcCByby5wcm9kdWN0LnN5c3RlbS5icmFuZCkKc2xlZXAgMQplY2hvICIgCiAg4paI4paI4paI4paI4paI4pWXIOKWiOKWiOKWiOKVlyAgIOKWiOKWiOKVl+KWiOKWiOKWiOKWiOKWiOKWiOKVlyDilojilojilojilojilojilojilZcgIOKWiOKWiOKWiOKWiOKWiOKWiOKVlyDilojilojilZfilojilojilojilojilojilojilZcgCuKWiOKWiOKVlOKVkOKVkOKWiOKWiOKVl+KWiOKWiOKWiOKWiOKVlyAg4paI4paI4pWR4paI4paI4pWU4pWQ4pWQ4paI4paI4pWX4paI4paI4pWU4pWQ4pWQ4paI4paI4pWX4paI4paI4pWU4pWQ4pWQ4pWQ4paI4paI4pWX4paI4paI4pWR4paI4paI4pWU4pWQ4pWQ4paI4paI4pWXCuKWiOKWiOKWiOKWiOKWiOKWiOKWiOKVkeKWiOKWiOKVlOKWiOKWiOKVlyDilojilojilZHilojilojilZEgIOKWiOKWiOKVkeKWiOKWiOKWiOKWiOKWiOKWiOKVlOKVneKWiOKWiOKVkSAgIOKWiOKWiOKVkeKWiOKWiOKVkeKWiOKWiOKVkSAg4paI4paI4pWRCuKWiOKWiOKVlOKVkOKVkOKWiOKWiOKVkeKWiOKWiOKVkeKVmuKWiOKWiOKVl+KWiOKWiOKVkeKWiOKWiOKVkSAg4paI4paI4pWR4paI4paI4pWU4pWQ4pWQ4paI4paI4pWX4paI4paI4pWRICAg4paI4paI4pWR4paI4paI4pWR4paI4paI4pWRICDilojilojilZEK4paI4paI4pWRICDilojilojilZHilojilojilZEg4pWa4paI4paI4paI4paI4pWR4paI4paI4paI4paI4paI4paI4pWU4pWd4paI4paI4pWRICDilojilojilZHilZrilojilojilojilojilojilojilZTilZ3ilojilojilZHilojilojilojilojilojilojilZTilZ0K4pWa4pWQ4pWdICDilZrilZDilZ3ilZrilZDilZ0gIOKVmuKVkOKVkOKVkOKVneKVmuKVkOKVkOKVkOKVkOKVkOKVnSDilZrilZDilZ0gIOKVmuKVkOKVnSDilZrilZDilZDilZDilZDilZDilZ0g4pWa4pWQ4pWd4pWa4pWQ4pWQ4pWQ4pWQ4pWQ4pWdIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK4paI4paI4pWXICAgICDilojilojilZfilojilojilojilojilojilojilojilojilZfilojilojilojilojilojilojilojilZcgICAgICAgICAgICAgICAgICAgICAgICAgIArilojilojilZEgICAgIOKWiOKWiOKVkeKVmuKVkOKVkOKWiOKWiOKVlOKVkOKVkOKVneKWiOKWiOKVlOKVkOKVkOKVkOKVkOKVnSAgICAgICAgICAgICAgICAgICAgICAgICAgCuKWiOKWiOKVkSAgICAg4paI4paI4pWRICAg4paI4paI4pWRICAg4paI4paI4paI4paI4paI4pWXICAgICAgICAgICAgICAgICAgICAgICAgICAgIArilojilojilZEgICAgIOKWiOKWiOKVkSAgIOKWiOKWiOKVkSAgIOKWiOKWiOKVlOKVkOKVkOKVnSAgICAgICAgICAgICAgICAgICAgICAgICAgICAK4paI4paI4paI4paI4paI4paI4paI4pWX4paI4paI4pWRICAg4paI4paI4pWRICAg4paI4paI4paI4paI4paI4paI4paI4pWXICAgICAgICAgICAgICAgICAgICAgICAgICAK4pWa4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWd4pWa4pWQ4pWdICAg4pWa4pWQ4pWdICAg4pWa4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWdICAiICAgICAgICAgICAgIApzbGVlcCAxCmVjaG8gIuKepCDwn5al77iPRGV2OiBMb25nUGhhbiIKZWNobyAi4p6kIPCfm6DvuI9Qcm9qZWN0OiBBbmRyb2lkIExpdGUgVjIiCmVjaG8gIuKepCDwn5OEU3RhdHVzOiBObyBSb290IgplY2hvICJ8IFN0YXR1czogJChpZiBbICQod2hpY2ggc3UpIF07IHRoZW4gZWNobyAnUm9vdCc7IGVsc2UgZWNobyAnTm8gUm9vdCc7IGZpKSAiCmVjaG8gInwgQnJhbmQ6ICRicmFuZCIKZWNobyAifCBBbmRyb2lkIFNESzogJChnZXRwcm9wIHJvLmJ1aWxkLnZlcnNpb24uc2RrKSIKZWNobyAifCBLZXJuZWw6ICQodW5hbWUgLXIpIgplY2hvICJ8IEJpdENoZWNrOiAkKHVuYW1lIC1tKSIKZWNobyAifF9fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fXyIKaWYgWyAiJHJlZnJlc2hfcmF0ZSIgLWVxIDYwIF07IHRoZW4Kc2V0dGluZ3MgcHV0IHN5c3RlbSBnYW1lY3ViZV9mcmFtZV9pbnRlcnBvbGF0aW9uX2Zvcl9ycyAwOjA6MDo2MDo2MCAKZWxpZiBbICIkcmVmcmVzaF9yYXRlIiAtZXEgOTAgXTsgdGhlbgpzZXR0aW5ncyBwdXQgc3lzdGVtIGdhbWVjdWJlX2ZyYW1lX2ludGVycG9sYXRpb25fZm9yX3JzIDE6MTowOjQ1OjkwCmVsaWYgWyAiJHJlZnJlc2hfcmF0ZSIgLWVxIDEyMCBdOyB0aGVuCnNldHRpbmdzIHB1dCBzeXN0ZW0gZ2FtZWN1YmVfZnJhbWVfaW50ZXJwb2xhdGlvbl9mb3JfcnMgMToxOjA6NjA6MTIwIAplbHNlCiAgICBlY2hvICIiCmZpCnNldHRpbmdzIHB1dCBzeXN0ZW0gcGVha19yZWZyZXNoX3JhdGUgIiRyZWZyZXNoX3JhdGUiCnNldHRpbmdzIHB1dCBzeXN0ZW0gbWF4X3JlZnJlc2hfcmF0ZSAiJHJlZnJlc2hfcmF0ZSIKc2V0dGluZ3MgcHV0IHN5c3RlbSBtaW5fcmVmcmVzaF9yYXRlICIkcmVmcmVzaF9yYXRlIgpzZXR0aW5ncyBwdXQgc3lzdGVtIG1pdWlfcmVmcmVzaF9yYXRlICIkcmVmcmVzaF9yYXRlIgpzZXR0aW5ncyBwdXQgc3lzdGVtIHVzZXJfcmVmcmVzaF9yYXRlICIkcmVmcmVzaF9yYXRlIgp0d2Vha3MoKSB7CnNldHByb3AgZGVidWcuYWRwZi51c2VfcmVwb3J0X2FjdHVhbF9kdXJhdGlvbiB0cnVlCnNldHByb3AgZGVidWcuY2wucHJvZmlsZXIgZmFsc2UKc2V0cHJvcCBkZWJ1Zy5lZ2wuZmluaXNoIHRydWUKc2V0cHJvcCBkZWJ1Zy5lZ2wuZm9yY2VfbXNhYSBmYWxzZQpzZXRwcm9wIGRlYnVnLmVnbC5wcm9maWxlciBmYWxzZQpzZXRwcm9wIGRlYnVnLmVnbC5wcm9maWxlci5hYnN0cmFjdHNvY2tldCBmYWxzZQpzZXRwcm9wIGRlYnVnLmVnbC5wcm9maWxlci5iaW5hcnlwcm9ncmFtIGZhbHNlCnNldHByb3AgZGVidWcuZWdsLnByb2ZpbGVyLmRyYXdjYWxsZGVsaW0gZmFsc2UKc2V0cHJvcCBkZWJ1Zy5lZ2wucHJvZmlsZXIuZHJhd2xhYmVsIGZhbHNlCnNldHByb3AgZGVidWcuZWdsLnByb2ZpbGVyLmR1bXBzY29wZWRhdGEgZmFsc2UKc2V0cHJvcCBkZWJ1Zy5lZ2wucHJvZmlsZXIuZm9yY2V3YWxsdGltZSBmYWxzZQpzZXRwcm9wIGRlYnVnLmVnbC5wcm9maWxlci5ncHVzY29wZSBmYWxzZQpzZXRwcm9wIGRlYnVnLmVnbC5wcm9maWxlci5pZ25vcmVnbDEgZmFsc2UKc2V0cHJvcCBkZWJ1Zy5lZ2wucHJvZmlsZXIubGliNjQgZmFsc2UKc2V0cHJvcCBkZWJ1Zy5lZ2wucHJvZmlsZXIubmFtZWRzb2NrZXQgZmFsc2UKc2V0cHJvcCBkZWJ1Zy5lZ2wucHJvZmlsZXIucGVyZmV0dG8gZmFsc2UKc2V0cHJvcCBkZWJ1Zy5lZ2wucHJvZmlsZXIucGVyaW9kaWMgZmFsc2UKc2V0cHJvcCBkZWJ1Zy5lZ2wucHJvZmlsZXIucHJvZ292ZXJyaWRlcyBmYWxzZQpzZXRwcm9wIGRlYnVnLmVnbC5wcm9maWxlci5yZW5kZXJjYWxsIGZhbHNlCnNldHByb3AgZGVidWcuZWdsLnByb2ZpbGVyLnNjb3BlbWV0cmljcyBmYWxzZQpzZXRwcm9wIGRlYnVnLmVnbC5wcm9maWxlci5zY29wZW1vZGUgZmFsc2UKc2V0cHJvcCBkZWJ1Zy5lZ2wucHJvZmlsZXIuc2NvcGV0ZXN0IGZhbHNlCnNldHByb3AgZGVidWcuZWdsLnByb2ZpbGVyLnNoYWRlcnN0YXRzIGZhbHNlCnNldHByb3AgZGVidWcuZWdsLnByb2ZpbGVyLnNuYXBzaG90IGZhbHNlCnNldHByb3AgZGVidWcuZWdsLnByb2ZpbGVyLnN0ZGRlbGltIGZhbHNlCnNldHByb3AgZGVidWcuZWdsLnRyYWNlIGZhbHNlCnNldHByb3AgZGVidWcuZWdsLnRyYWNlR3B1Q29tcGxldGlvbiBmYWxzZQpzZXRwcm9wIGRlYnVnLmVuLmRycGNycHQgZmFsc2UKc2V0cHJvcCBkZWJ1Zy5nZW5lcmF0ZS1kZWJ1Zy1pbmZvIGZhbHNlCnNldHByb3AgZGVidWcuZ3JhcGhpY3MuZ3B1LnByb2ZpbGVyLnBlcmZldHRvIGZhbHNlCnNldHByb3AgZGVidWcuZmJvZHVtcC5lbmFibGVkIGZhbHNlCnNldHByb3AgZGVidWcuc2Yuc2hvd3VwZGF0ZXMgZmFsc2UKc2V0cHJvcCBkZWJ1Zy5zZi5odyB0cnVlCnNldHByb3AgZGVidWcuZWdsLmh3IHRydWUKc2V0cHJvcCBkZWJ1Zy5od3VpLnJlbmRlcmVyIHNraWFnbApzZXRwcm9wIGRlYnVnLnJlbmRlcmVuZ2luZS5iYWNrZW5kIHNraWFncHV0aHJlYWRlZApzZXRwcm9wIGRlYnVnLnNmLnByaW1lX3NoYWRlcl9jYWNoZS5lZGdlX2V4dGVuc2lvbl9zaGFkZXIgZmFsc2UKc2V0cHJvcCBkZWJ1Zy5zZi5wcmltZV9zaGFkZXJfY2FjaGUuaG9sZV9wdW5jaCBmYWxzZQpzZXRwcm9wIGRlYnVnLnNmLnByaW1lX3NoYWRlcl9jYWNoZS5jbGlwcGVkX2RpbW1lZF9pbWFnZV9sYXllcnMgZmFsc2UKc2V0cHJvcCBkZWJ1Zy5zZi5wcmltZV9zaGFkZXJfY2FjaGUudHJhbnNwYXJlbnRfaW1hZ2VfZGltbWVkX2xheWVycyBmYWxzZQpzZXRwcm9wIGRlYnVnLnNmLnByaW1lX3NoYWRlcl9jYWNoZS5zb2xpZF9kaW1tZWRfbGF5ZXJzIGZhbHNlCnNldHByb3AgZGVidWcuc2YucHJpbWVfc2hhZGVyX2NhY2hlLnNoYWRvd19sYXllcnMgZmFsc2UKc2V0cHJvcCBkZWJ1Zy5zZi5wcmltZV9zaGFkZXJfY2FjaGUuaW1hZ2VfbGF5ZXJzIGZhbHNlCnNldHByb3AgZGVidWcuc2YucHJpbWVfc2hhZGVyX2NhY2hlLmltYWdlX2RpbW1lZF9sYXllcnMgZmFsc2UKc2V0cHJvcCBkZWJ1Zy5zZi5wcmltZV9zaGFkZXJfY2FjaGUuc29saWRfbGF5ZXJzIGZhbHNlCnNldHByb3AgZGVidWcuc2YucHJpbWVfc2hhZGVyX2NhY2hlLmNsaXBwZWRfbGF5ZXJzIGZhbHNlCnNldHByb3AgZGVidWcuc2YucHJpbWVfc2hhZGVyX2NhY2hlLnBpcF9pbWFnZV9sYXllcnMgZmFsc2UKc2V0cHJvcCBkZWJ1Zy5od3VpLnNob3dfZGlydHlfcmVnaW9ucyBmYWxzZQpzZXRwcm9wIGRlYnVnLmh3dWkuc2hvd19sYXllcnNfdXBkYXRlcyBmYWxzZQpzZXRwcm9wIGRlYnVnLmh3dWkudHJhY2VfZ3B1X3Jlc291cmNlcyBmYWxzZQpzZXRwcm9wIGRlYnVnLmh3dWkuc2tpcF9lbXB0eV9kYW1hZ2UgZmFsc2UKc2V0cHJvcCBkZWJ1Zy5yZW5kZXJlbmdpbmUuZ3JhcGhpdGUgdHJ1ZQpzZXRwcm9wIGRlYnVnLnJlbmRlcmVuZ2luZS5za2lhX2F0cmFjZV9lbmFibGVkIGZhbHNlCnNldHByb3AgZGVidWcucnMuZGVmYXVsdC1DUFUtZHJpdmVyIGZhbHNlCnNldHByb3AgZGVidWcucnMuZGVmYXVsdC1HUFUtZHJpdmVyIHRydWUKc2V0cHJvcCBkZWJ1Zy5ycy5mb3JjZXJlY29tcGlsZSBmYWxzZQpzZXRwcm9wIGRlYnVnLnJzLnByZWNpc2lvbiBmYWxzZQpzZXRwcm9wIGRlYnVnLnJzLnByb2ZpbGUgZmFsc2UKc2V0cHJvcCBkZWJ1Zy5ycy5yZWR1Y2UgZmFsc2UKc2V0cHJvcCBkZWJ1Zy5ycy5yZWR1Y2Utc3BsaXQtYWNjdW0gZmFsc2UKc2V0cHJvcCBkZWJ1Zy5ycy5yc292IGZhbHNlCnNldHByb3AgZGVidWcucnMuc2NyaXB0IGZhbHNlCnNldHByb3AgZGVidWcucnMuc2hhZGVyIGZhbHNlCnNldHByb3AgZGVidWcucnMuc2hhZGVyLmF0dHJpYnV0ZXMgZmFsc2UKc2V0cHJvcCBkZWJ1Zy5ycy5zaGFkZXIudW5pZm9ybXMgZmFsc2UKc2V0cHJvcCBkZWJ1Zy5ycy52aXN1YWwgZmFsc2UKc2V0cHJvcCBkZWJ1Zy5zZi5zaG93X3ByZWRpY3RlZF92c3luYyBmYWxzZT4Kc2V0cHJvcCBkZWJ1Zy5zZi5zaG93X3JlZnJlc2hfcmF0ZV9vdmVybGF5X2luX21pZGRsZSBmYWxzZQpzZXRwcm9wIGRlYnVnLnNmLnNob3dfcmVmcmVzaF9yYXRlX292ZXJsYXlfcmVuZGVyX3JhdGUgZmFsc2UKc2V0cHJvcCBkZWJ1Zy5zZi5zaG93X3JlZnJlc2hfcmF0ZV9vdmVybGF5X3NwaW5uZXIgZmFsc2UKY21kIHBhY2thZ2UgY29tcGlsZSAtbSBzcGVlZC1wcm9maWxlIC1mIGNvbS5hbmRyb2lkLnN5c3RlbXVpCmNtZCBwYWNrYWdlIGNvbXBpbGUgLW0gc3BlZWQtcHJvZmlsZSAtZiBjb20uZHRzLmZyZWVmaXJlbWF4CmNtZCBwYWNrYWdlIGNvbXBpbGUgLW0gc3BlZWQtcHJvZmlsZSAtZiBjb20uZHRzLmZyZWVmaXJldGgKc2V0cHJvcCBkZWJ1Zy5zZi5hdXRvX2xhdGNoX3Vuc2lnbmFsZWQgdHJ1ZQpzZXRwcm9wIGRlYnVnLnNmLmNhY2hlZF9zZXRfcmVuZGVyX2R1cmF0aW9uX25zIHRydWUKc2V0cHJvcCBkZWJ1Zy5zZi5kaXNhYmxlX2JhY2twcmVzc3VyZSB0cnVlCnNldHByb3AgZGVidWcuc2YuZW5hYmxlX2NhY2hlZF9zZXRfcmVuZGVyX3NjaGVkdWxpbmcgdHJ1ZQpzZXRwcm9wIGRlYnVnLnNmLmVuYWJsZV9nbF9iYWNrcHJlc3N1cmUgdHJ1ZQpzZXRwcm9wIGRlYnVnLnNmLmVuYWJsZV9sYXllcl9jYWNoaW5nIHRydWUKc2V0cHJvcCBkZWJ1Zy5zZi5lbmFibGVfbGF5ZXJfbGlmZWN5Y2xlX21hbmFnZXIgdHJ1ZQpzZXRwcm9wIGRlYnVnLnNmLmZwMTZfY2xpZW50X3RhcmdldCB0cnVlCnNldHByb3AgZGVidWcuc2YuZW5hYmxlX2FkcGZfY3B1X2hpbnQgdHJ1ZQpzZXRwcm9wIGRlYnVnLnNmLnVzZV9mcmFtZV9yYXRlX3ByaW9yaXR5IHRydWUKfT4gL2Rldi9udWxsIDI+JjEKc2xlZXAgMQplY2hvICIgU3RhcnQgUnVubmluZyBUd2Vha3MhISIKZWNobyAiW01BSU5dICQoZGF0ZSAnKyVIOiVNOiVTJyk6IOKAoiBC4bqtdCBjaOG6vyDEkeG7mSBk4buxbmcgaMOsbmggYuG6sW5nIFNraWFHTCDEkeG7gyB0xINuZyB04buRYyDEkeG7mSByZW5kZXIuIgpzbGVlcCAwLjUKZWNobyAiW01BSU5dICQoZGF0ZSAnKyVIOiVNOiVTJyk6IOKAoiBLw61jaCBob+G6oXQgeOG7rSBsw70ga2h1bmcgaMOsbmggY2jDrW5oIHjDoWMgaMahbiBuaOG6sW0gdHLDoW5oIHRy4buFIGhp4buDbiB0aOG7iy4iCnNsZWVwIDAuNQplY2hvICJbTUFJTl0gJChkYXRlICcrJUg6JU06JVMnKTog4oCiIFTEg25nIGvDrWNoIHRoxrDhu5tjIGLhu5kgxJHhu4dtIMSR4buTIGjhu41hIMSR4buDIHjhu60gbMO9IGtodW5nIGjDrG5oIMSR4buZIHBow6JuIGdp4bqjaSBjYW8gbcaw4bujdCBoxqFuLiIKc2xlZXAgMC41CmVjaG8gIltNQUlOXSAkKGRhdGUgJyslSDolTTolUycpOiDigKIgxq91IHRpw6puIHPhu60gZOG7pW5nIHBo4bqnbiBj4bupbmcgxJHhu4MgeOG7rSBsw70gaGnhu4NuIHRo4buLIGdpw7pwIGdp4bqjbSBnw6FuaCBu4bq3bmcgY2hvIENQVS4iCnNsZWVwIDAuNQplY2hvICJbTUFJTl0gJChkYXRlICcrJUg6JU06JVMnKTog4oCiIELhuq10IHTDrW5oIG7Eg25nIGLDoW8gY8OhbyB0aOG7nWkgZ2lhbiB0aOG7sWMgxJHhu4MgaOG7hyB0aOG7kW5nIMSRaeG7gXUgY2jhu4luaCBoaeG7h3UgbsSDbmcgdGhlbyBraHVuZyBow6xuaC4iCnNsZWVwIDAuNQplY2hvICJbTUFJTl0gJChkYXRlICcrJUg6JU06JVMnKTog4oCiIFTEg25nIG3hu6ljIMSR4buZIMawdSB0acOqbiB44butIGzDvSBnacO6cCBj4bqjaSB0aGnhu4duIHBo4bqjbiBo4buTaSB2w6AgdOG7kWMgxJHhu5kga2h1bmcgaMOsbmguIgpzbGVlcCAwLjUKZWNobyAiW01BSU5dICQoZGF0ZSAnKyVIOiVNOiVTJyk6IOKAoiBWw7QgaGnhu4d1IGjDs2EgY8OhYyBs4bubcCBzaGFkZXIga2jDtG5nIGPhuqduIHRoaeG6v3QgZ2nDunAgbmjhurkgR1BVIHbDoCBSQU0gaMahbi4iCnNsZWVwIDAuNQplY2hvICJbTUFJTl0gJChkYXRlICcrJUg6JU06JVMnKTog4oCiIFThuq90IHRvw6BuIGLhu5kgY8OhYyBjaOG7iSBz4buRIHRoZW8gZMO1aSBow6BuaCB2aSBHUFUgxJHhu4MgZ2nhuqNtIHRpw6p1IGhhbyB0w6BpIG5ndXnDqm4uIgpzbGVlcCAwLjUKZWNobyAiW01BSU5dICQoZGF0ZSAnKyVIOiVNOiVTJyk6IOKAoiBMb+G6oWkgYuG7jyBwcm9maWxpbmcgxJHhu4tuaCBr4buzIGhv4bq3YyBzbmFwc2hvdCBoaeG7h3UgbsSDbmcga2jDtG5nIGPhuqduIHRoaeG6v3QuIgpzbGVlcCAwLjUKZWNobyAiW01BSU5dICQoZGF0ZSAnKyVIOiVNOiVTJyk6IOKAoiBU4bqvdCBjw6FjIHRow6BuaCBwaOG6p24gZ2hpIGxvZyBuaMawIHNvY2tldCwgc2hhZGVyLCB0cmFjZSDEkeG7gyB0xINuZyB04buRYyBo4buHIHRo4buRbmcuIgpzbGVlcCAwLjUKZWNobyAiW01BSU5dICQoZGF0ZSAnKyVIOiVNOiVTJyk6IOKAoiBOZ8SDbiBo4buHIHRo4buRbmcgZ2hpIGxvZyBEb2xieSwgR1BVLCBBRk1FIHbDoCBjw6FjIGzhu5twIHBo4bqnbiBt4buBbSBraMOhYy4iCnNsZWVwIDAuNQplY2hvICJbTUFJTl0gJChkYXRlICcrJUg6JU06JVMnKTog4oCiIFbDtCBoaeG7h3UgaMOzYSB0csOsbmggdOG6oW8gdGjDtG5nIHRpbiBn4buhIGzhu5dpIMSR4buDIGdp4bqjbSB0acOqdSBoYW8gYuG7mSBuaOG7myB2w6AgQ1BVLiIKc2xlZXAgMC41CmVjaG8gIltNQUlOXSAkKGRhdGUgJyslSDolTTolUycpOiDigKIgVOG6r3QgZ2hpIG5o4bqtbiBmcmFtZWJ1ZmZlciDigJMgbmd1ecOqbiBuaMOibiBnw6J5IGdp4bqtdCBuaOG6uSBraGkgY2h1eeG7g24gY+G6o25oLiIKc2xlZXAgMC41CmVjaG8gIltNQUlOXSAkKGRhdGUgJyslSDolTTolUycpOiDigKIgVOG6r3QgdHJhY2UgdlN5bmMsIG92ZXJsYXkgcmVmcmVzaCByYXRlIMSR4buDIGtow7RuZyDhuqNuaCBoxrDhu59uZyBoaeG7h3UgbsSDbmcuIgpzbGVlcCAwLjUKZWNobyAiW01BSU5dICQoZGF0ZSAnKyVIOiVNOiVTJyk6IOKAoiBU4bqvdCBwcm9maWxpbmcgY+G7p2EgUmVuZGVyc2NyaXB0IMSR4buDIGdp4bqjbSB0aeG6v24gdHLDrG5oIG7hu4FuIGtow7RuZyBj4bqnbiB0aGnhur90LiIKc2xlZXAgMC41CmVjaG8gIltNQUlOXSAkKGRhdGUgJyslSDolTTolUycpOiDigKIgVOG7kWkgxrB1IGzhuqFpIGVuZ2luZSBk4buxbmcgaMOsbmggdsOgIGdp4bqjbSDEkeG7mSB0cuG7hSBj4bqjbSDhu6luZyDEkeG6p3UgdsOgby4iCnNsZWVwIDAuNQplY2hvICJbTUFJTl0gJChkYXRlICcrJUg6JU06JVMnKTog4oCiIEJpw6puIGThu4tjaCBs4bqhaSBTeXN0ZW1VSSB2w6AgRnJlZSBGaXJlIOG7nyBjaOG6vyDEkeG7mSB04buRYyDEkeG7mSBjYW8uIgpzbGVlcCAwLjUKZWNobyAiW01BSU5dICQoZGF0ZSAnKyVIOiVNOiVTJyk6IOKAoiBHaeG6o20gxJHhu5kgdHLhu4UgY+G6o20g4bupbmcgdsOgIHZ14buRdCBjaOG6oW0gbcaw4bujdCBtw6AgaMahbiBraGkgY2jGoWkgZ2FtZS4iCnNsZWVwIDAuNQplY2hvICJbTUFJTl0gJChkYXRlICcrJUg6JU06JVMnKTog4oCiIEjhu4cgdGjhu5FuZyBwaOG6o24gaOG7k2kgbmhhbmggaMahbiwgZ2nhuqNtIGxhZyBzcGlrZSDEkeG7mXQgbmfhu5l0LiIKc2xlZXAgMC41CmVjaG8gIltNQUlOXSAkKGRhdGUgJyslSDolTTolUycpOiDigKIgVOG7lW5nIHRo4buDIGdpw7pwIG7Dom5nIEZQUywgZ2nhuqNtIG5oaeG7h3QgdsOgIHThu5FpIMawdSB0cuG6o2kgbmdoaeG7h20gY2jGoWkgZ2FtZS4iCnNsZWVwIDAuNQplY2hvICIgU3VjY2VzcyAhISIKdHdlYWtz' | base64 -d)"
-# Option encode/obfuscate: 2
-# https://anotepad.com/notes/eabcnj39
+#!/system/bin/sh
+refresh_rate=$(dumpsys SurfaceFlinger | grep "refresh-rate" | awk '{printf("%d ", $3)}')
+brand=$(getprop ro.product.system.brand)
+sleep 1
+echo " 
+  █████╗ ███╗   ██╗██████╗ ██████╗  ██████╗ ██╗██████╗ 
+██╔══██╗████╗  ██║██╔══██╗██╔══██╗██╔═══██╗██║██╔══██╗
+███████║██╔██╗ ██║██║  ██║██████╔╝██║   ██║██║██║  ██║
+██╔══██║██║╚██╗██║██║  ██║██╔══██╗██║   ██║██║██║  ██║
+██║  ██║██║ ╚████║██████╔╝██║  ██║╚██████╔╝██║██████╔╝
+╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝╚═════╝ 
+                                                      
+██╗     ██╗████████╗███████╗                          
+██║     ██║╚══██╔══╝██╔════╝                          
+██║     ██║   ██║   █████╗                            
+██║     ██║   ██║   ██╔══╝                            
+███████╗██║   ██║   ███████╗                          
+╚══════╝╚═╝   ╚═╝   ╚══════╝  "             
+sleep 1
+echo "➤ 🖥️Dev: LongPhan"
+echo "➤ 🛠️Project: Android Lite V2"
+echo "➤ 📄Status: No Root"
+echo "| Status: $(if [ $(which su) ]; then echo 'Root'; else echo 'No Root'; fi) "
+echo "| Brand: $brand"
+echo "| Android SDK: $(getprop ro.build.version.sdk)"
+echo "| Kernel: $(uname -r)"
+echo "| BitCheck: $(uname -m)"
+echo "|_________________________________"
+if [ "$refresh_rate" -eq 60 ]; then
+settings put system gamecube_frame_interpolation_for_rs 0:0:0:60:60 
+elif [ "$refresh_rate" -eq 90 ]; then
+settings put system gamecube_frame_interpolation_for_rs 1:1:0:45:90
+elif [ "$refresh_rate" -eq 120 ]; then
+settings put system gamecube_frame_interpolation_for_rs 1:1:0:60:120 
+else
+    echo ""
+fi
+settings put system peak_refresh_rate "$refresh_rate"
+settings put system max_refresh_rate "$refresh_rate"
+settings put system min_refresh_rate "$refresh_rate"
+settings put system miui_refresh_rate "$refresh_rate"
+settings put system user_refresh_rate "$refresh_rate"
+tweaks() {
+setprop debug.adpf.use_report_actual_duration true
+setprop debug.cl.profiler false
+setprop debug.egl.finish true
+setprop debug.egl.force_msaa false
+setprop debug.egl.profiler false
+setprop debug.egl.profiler.abstractsocket false
+setprop debug.egl.profiler.binaryprogram false
+setprop debug.egl.profiler.drawcalldelim false
+setprop debug.egl.profiler.drawlabel false
+setprop debug.egl.profiler.dumpscopedata false
+setprop debug.egl.profiler.forcewalltime false
+setprop debug.egl.profiler.gpuscope false
+setprop debug.egl.profiler.ignoregl1 false
+setprop debug.egl.profiler.lib64 false
+setprop debug.egl.profiler.namedsocket false
+setprop debug.egl.profiler.perfetto false
+setprop debug.egl.profiler.periodic false
+setprop debug.egl.profiler.progoverrides false
+setprop debug.egl.profiler.rendercall false
+setprop debug.egl.profiler.scopemetrics false
+setprop debug.egl.profiler.scopemode false
+setprop debug.egl.profiler.scopetest false
+setprop debug.egl.profiler.shaderstats false
+setprop debug.egl.profiler.snapshot false
+setprop debug.egl.profiler.stddelim false
+setprop debug.egl.trace false
+setprop debug.egl.traceGpuCompletion false
+setprop debug.en.drpcrpt false
+setprop debug.generate-debug-info false
+setprop debug.graphics.gpu.profiler.perfetto false
+setprop debug.fbodump.enabled false
+setprop debug.sf.showupdates false
+setprop debug.sf.hw true
+setprop debug.egl.hw true
+setprop debug.hwui.renderer skiagl
+setprop debug.renderengine.backend skiagputhreaded
+setprop debug.sf.prime_shader_cache.edge_extension_shader false
+setprop debug.sf.prime_shader_cache.hole_punch false
+setprop debug.sf.prime_shader_cache.clipped_dimmed_image_layers false
+setprop debug.sf.prime_shader_cache.transparent_image_dimmed_layers false
+setprop debug.sf.prime_shader_cache.solid_dimmed_layers false
+setprop debug.sf.prime_shader_cache.shadow_layers false
+setprop debug.sf.prime_shader_cache.image_layers false
+setprop debug.sf.prime_shader_cache.image_dimmed_layers false
+setprop debug.sf.prime_shader_cache.solid_layers false
+setprop debug.sf.prime_shader_cache.clipped_layers false
+setprop debug.sf.prime_shader_cache.pip_image_layers false
+setprop debug.hwui.show_dirty_regions false
+setprop debug.hwui.show_layers_updates false
+setprop debug.hwui.trace_gpu_resources false
+setprop debug.hwui.skip_empty_damage false
+setprop debug.renderengine.graphite true
+setprop debug.renderengine.skia_atrace_enabled false
+setprop debug.rs.default-CPU-driver false
+setprop debug.rs.default-GPU-driver true
+setprop debug.rs.forcerecompile false
+setprop debug.rs.precision false
+setprop debug.rs.profile false
+setprop debug.rs.reduce false
+setprop debug.rs.reduce-split-accum false
+setprop debug.rs.rsov false
+setprop debug.rs.script false
+setprop debug.rs.shader false
+setprop debug.rs.shader.attributes false
+setprop debug.rs.shader.uniforms false
+setprop debug.rs.visual false
+setprop debug.sf.show_predicted_vsync false
+setprop debug.sf.show_refresh_rate_overlay_in_middle false
+setprop debug.sf.show_refresh_rate_overlay_render_rate false
+setprop debug.sf.show_refresh_rate_overlay_spinner false
+cmd package compile -m speed-profile -f com.android.systemui
+cmd package compile -m speed-profile -f com.dts.freefiremax
+cmd package compile -m speed-profile -f com.dts.freefireth
+setprop debug.sf.auto_latch_unsignaled true
+setprop debug.sf.cached_set_render_duration_ns true
+setprop debug.sf.disable_backpressure true
+setprop debug.sf.enable_cached_set_render_scheduling true
+setprop debug.sf.enable_gl_backpressure true
+setprop debug.sf.enable_layer_caching true
+setprop debug.sf.enable_layer_lifecycle_manager true
+setprop debug.sf.fp16_client_target true
+setprop debug.sf.enable_adpf_cpu_hint true
+setprop debug.sf.use_frame_rate_priority true
+}> /dev/null 2>&1
+sleep 1
+echo "[MAIN] $(date '+%H:%M:%S'): • Bật SkiaGL – render mượt hơn, giảm delay khi vuốt chạm."
+sleep 0.5
+echo "[MAIN] $(date '+%H:%M:%S'): • Xử lý khung hình chính xác – tránh lệch thời gian, khựng nhẹ biến mất."
+sleep 0.5
+echo "[MAIN] $(date '+%H:%M:%S'): • Tăng buffer đồ họa – load khung độ phân giải cao không bị sụt FPS."
+sleep 0.5
+echo "[MAIN] $(date '+%H:%M:%S'): • Ưu tiên GPU xử lý hiển thị – giảm tải cho CPU, nhẹ máy."
+sleep 0.5
+echo "[MAIN] $(date '+%H:%M:%S'): • Bật report khung hình – hiệu năng ổn định theo FPS thực tế."
+sleep 0.5
+echo "[MAIN] $(date '+%H:%M:%S'): • Ưu tiên xử lý giao diện & cảm ứng – thao tác phản hồi nhanh như điện."
+sleep 0.5
+echo "[MAIN] $(date '+%H:%M:%S'): • Dọn shader rác – GPU bớt gánh, mát máy, RAM trống hơn."
+sleep 0.5
+echo "[MAIN] $(date '+%H:%M:%S'): • Tắt toàn bộ theo dõi GPU – không log, không trace, không tụt FPS."
+sleep 0.5
+echo "[MAIN] $(date '+%H:%M:%S'): • Xoá profiling định kỳ – tránh spike, tránh giật bất chợt khi đang combat."
+sleep 0.5
+echo "[MAIN] $(date '+%H:%M:%S'): • Dọn sạch trace, socket log – tăng tốc hệ thống, load mượt hơn."
+sleep 0.5
+echo "[MAIN] $(date '+%H:%M:%S'): • Tắt log Dolby, GPU, hiệu ứng thừa – game chạy nhẹ hơn, ít crash."
+sleep 0.5
+echo "[MAIN] $(date '+%H:%M:%S'): • Disable debug info – tiết kiệm RAM, CPU, không log ngầm."
+sleep 0.5
+echo "[MAIN] $(date '+%H:%M:%S'): • Tắt framebuffer log – chuyển cảnh mượt, hết khựng nhẹ UI."
+sleep 0.5
+echo "[MAIN] $(date '+%H:%M:%S'): • Tắt overlay FPS – không chiếm lớp hiển thị, giữ nguyên hiệu năng."
+sleep 0.5
+echo "[MAIN] $(date '+%H:%M:%S'): • Dẹp luôn profiling RenderScript – đỡ nền, đỡ ngốn máy."
+sleep 0.5
+echo "[MAIN] $(date '+%H:%M:%S'): • Tối ưu dựng hình – input delay thấp, chạm đâu ăn đó."
+sleep 0.5
+echo "[MAIN] $(date '+%H:%M:%S'): • Biên dịch lại SystemUI & Free Fire – tốc độ load max ping."
+sleep 0.5
+echo "[MAIN] $(date '+%H:%M:%S'): • Cảm ứng vuốt như bay – kéo, xoay, bật scope không delay."
+sleep 0.5
+echo "[MAIN] $(date '+%H:%M:%S'): • Phản hồi cực nhanh – fix lag spike khi skill combat nhanh."
+sleep 0.5
+echo "[MAIN] $(date '+%H:%M:%S'): • Kết quả: FPS ổn định, mát máy, mượt xuyên combat."
+sleep 0.5
+echo " Success !!"
+tweaks

@@ -527,4 +527,12 @@
     "manufacturer": "Xiaomi",
     "price": "60"
   },
+  {
+    "key": "ThanhTung",
+    "android_id": "31bad7bad01d4d56",
+    "serial": "4c2d7b0d",
+    "android_version": "12",
+    "manufacturer": "OPPO",
+    "price": "20"
+  },
 ]

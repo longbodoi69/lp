@@ -435,7 +435,7 @@
     "key": "MinhNhat",
     "android_id": "83c8e5ffc0f4dc00",
     "serial": "f837316a",
-    "android_version": "14",
+    "android_version": "15",
     "manufacturer": "OPPO",
     "price": "20"
   },
@@ -551,4 +551,5 @@
     "manufacturer": "samsung",
     "price": "20"
   },
+  
 ]

@@ -584,11 +584,19 @@
     "price": "20"
   },
   {
-    "key": "GiaBao",
+    "key": "GiaBaodz",
     "android_id": "10744d6686985c4a",
     "serial": "faees4jzgyfe59gm",
     "android_version": "14",
     "manufacturer": "Xiaomi",
     "price": "100"
-  }  
+  },
+    {
+    "key": "TienThanh",
+    "android_id": "7833712531528a2e",
+    "serial": "10HBBL040Y000S0",
+    "android_version": "12",
+    "manufacturer": "vivo",
+    "price": "50"
+  }
 ]

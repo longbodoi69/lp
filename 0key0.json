@@ -494,5 +494,13 @@
     "android_version": "12",
     "manufacturer": "Samsung",
     "price": "60"
-  }
+  },
+  {
+    "key": "HoangHai",
+    "android_id": "a46596e8ef21a32b",
+    "serial": "7548aabe",
+    "android_version": "15",
+    "manufacturer": "Xiaomi",
+    "price": "20"
+  },
 ]

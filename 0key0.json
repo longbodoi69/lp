@@ -503,4 +503,12 @@
     "manufacturer": "Xiaomi",
     "price": "20"
   },
+  {
+    "key": "Xuyen",
+    "android_id": "707dfea5ef393589",
+    "serial": "jf75sc6tr8ssba4d",
+    "android_version": "14",
+    "manufacturer": "Xiaomi",
+    "price": "50"
+  },
 ]

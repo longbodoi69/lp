@@ -567,4 +567,12 @@
     "manufacturer": "Xiaomi",
     "price": "20"
   },
+  {
+    "key": "MinhKhoa",
+    "android_id": "fd3989e8150d201f",
+    "serial": "R7ST51V7XEH",
+    "android_version": "13",
+    "manufacturer": "samsung",
+    "price": "20"
+  },
 ]

@@ -559,4 +559,12 @@
     "manufacturer": "samsung",
     "price": "20"
   },
+  {
+    "key": "ThienPhu",
+    "android_id": "ce535a7b6c227123",
+    "serial": "334c459b7d72",
+    "android_version": "15",
+    "manufacturer": "Xiaomi",
+    "price": "20"
+  },
 ]

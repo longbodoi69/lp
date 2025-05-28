@@ -543,4 +543,12 @@
     "manufacturer": "vivo",
     "price": "20"
   },
+  {
+    "key": "HoangChinh",
+    "android_id": "c1e0ffd02a057d8b",
+    "serial": "R58R81EVGSJ",
+    "android_version": "13",
+    "manufacturer": "samsung",
+    "price": "20"
+  },
 ]

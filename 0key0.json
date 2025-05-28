@@ -598,5 +598,13 @@
     "android_version": "12",
     "manufacturer": "vivo",
     "price": "50"
-  }
+  },
+    {
+    "key": "GKhanh",
+    "android_id": "f1ada568f6827128",
+    "serial": "55PFUSSOKJWO7XXG",
+    "android_version": "13",
+    "manufacturer": "OPPO",
+    "price": "20"
+  },
 ]

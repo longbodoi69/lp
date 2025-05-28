@@ -551,5 +551,12 @@
     "manufacturer": "samsung",
     "price": "20"
   },
-  
+  {
+    "key": "CaoThien",
+    "android_id": "74b485571b11c923",
+    "serial": "R52R4038SRJ",
+    "android_version": "11",
+    "manufacturer": "samsung",
+    "price": "20"
+  },
 ]

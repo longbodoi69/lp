@@ -639,4 +639,12 @@
     "manufacturer": "samsung",
     "price": "50"
   },
+    {
+    "key": "ThanhTuong",
+    "android_id": "74216b64ecc9f563",
+    "serial": "SKORY555PBP79PTC",
+    "android_version": "14",
+    "manufacturer": "OPPO",
+    "price": "20"
+  },
 ]

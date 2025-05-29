@@ -623,4 +623,12 @@
     "manufacturer": "Sony",
     "price": "60"
   },
+    {
+    "key": "NgocSon",
+    "android_id": "6093cbc589aa532e",
+    "serial": "R58R941DVPA",
+    "android_version": "12",
+    "manufacturer": "samsung",
+    "price": "50"
+  },
 ]

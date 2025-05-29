@@ -615,4 +615,12 @@
     "manufacturer": "samsung",
     "price": "20"
   },
+    {
+    "key": "PhamNam",
+    "android_id": "f1d5e6da95121f12",
+    "serial": "HQ61BQ127D",
+    "android_version": "13",
+    "manufacturer": "Sony",
+    "price": "60"
+  },
 ]

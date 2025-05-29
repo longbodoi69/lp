@@ -647,4 +647,12 @@
     "manufacturer": "OPPO",
     "price": "20"
   },
+    {
+    "key": "NamPhong",
+    "android_id": "fe35d3629866af15",
+    "serial": "R9PRC0LDP1N",
+    "android_version": "14",
+    "manufacturer": "samsung",
+    "price": "20"
+  },
 ]

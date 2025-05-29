@@ -653,6 +653,14 @@
     "serial": "R9PRC0LDP1N",
     "android_version": "14",
     "manufacturer": "samsung",
+    "price": "60"
+  },
+    {
+    "key": "LyPhan",
+    "android_id": "abf9f74916e17c35",
+    "serial": "83daff4f",
+    "android_version": "15",
+    "manufacturer": "Xiaomi",
     "price": "20"
   },
 ]

@@ -663,4 +663,12 @@
     "manufacturer": "Xiaomi",
     "price": "20"
   },
+    {
+    "key": "DangPhu",
+    "android_id": "316cfd2913198e90",
+    "serial": "EMSWGIHAJFSKJZAU",
+    "android_version": "11",
+    "manufacturer": "realme",
+    "price": "20"
+  },
 ]

@@ -679,4 +679,12 @@
     "manufacturer": "realme",
     "price": "20"
   },
+    {
+    "key": "GiaHuy",
+    "android_id": "6127d494367266e0",
+    "serial": "R5CX92PCY7B",
+    "android_version": "15",
+    "manufacturer": "samsung",
+    "price": "20"
+  },
 ]

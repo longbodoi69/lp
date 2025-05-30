@@ -687,4 +687,12 @@
     "manufacturer": "samsung",
     "price": "20"
   },
+    {
+    "key": "BaoPhan",
+    "android_id": "54c42057e9d4e16",
+    "serial": "qoobamt45tovojm7",
+    "android_version": "15",
+    "manufacturer": "Xiaomi",
+    "price": "20"
+  },
 ]

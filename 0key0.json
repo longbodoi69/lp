@@ -695,4 +695,12 @@
     "manufacturer": "Xiaomi",
     "price": "20"
   },
+    {
+    "key": "VanChi",
+    "android_id": "a1b9fa0734b7fb62",
+    "serial": "S4BYSKGEWSFMDIDA",
+    "android_version": "13",
+    "manufacturer": "Xiaomi",
+    "price": "20"
+  },
 ]

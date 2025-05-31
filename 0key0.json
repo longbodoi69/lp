@@ -703,4 +703,28 @@
     "manufacturer": "Xiaomi",
     "price": "20"
   },
+    {
+    "key": "ThanhNhan",
+    "android_id": "861c1b1a05d36565",
+    "serial": "R58R63V5HKN",
+    "android_version": "12",
+    "manufacturer": "samsung",
+    "price": "20"
+  },
+    {
+    "key": "BaoNam",
+    "android_id": "4e614adb2fa2c303",
+    "serial": "RF8X101X2QK",
+    "android_version": "14",
+    "manufacturer": "samsung",
+    "price": "20"
+  },
+    {
+    "key": "MinhNhat",
+    "android_id": "83c8e5ffc0f4dc00",
+    "serial": "f837316a",
+    "android_version": "15",
+    "manufacturer": "OPPO",
+    "price": "60"
+  },
 ]

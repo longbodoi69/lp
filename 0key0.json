@@ -743,4 +743,12 @@
     "manufacturer": "Xiaomi",
     "price": "250"
   },
+    {
+    "key": "NguyenHuy",
+    "android_id": "9cb919c801a933dd",
+    "serial": "10HBCP07Z40027R",
+    "android_version": "12",
+    "manufacturer": "vivo",
+    "price": "20"
+  },
 ]

@@ -743,4 +743,12 @@
     "manufacturer": "Xiaomi",
     "price": "250"
   },
+    {
+    "key": "QuocBao",
+    "android_id": "a2fa9639cdb352fa",
+    "serial": "CI6TLZQ49TQO5LDI",
+    "android_version": "11",
+    "manufacturer": "OPPO",
+    "price": "20"
+  },
 ]

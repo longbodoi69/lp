@@ -767,4 +767,12 @@
     "manufacturer": "OPPO",
     "price": "20"
   },
+    {
+    "key": "AnhQuan",
+    "android_id": "9c3186ffbb938a1f",
+    "serial": "hqm7wofy8xe6ypzt",
+    "android_version": "14",
+    "manufacturer": "Xiaomi",
+    "price": "20"
+  },
 ]

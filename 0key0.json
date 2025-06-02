@@ -775,4 +775,12 @@
     "manufacturer": "Xiaomi",
     "price": "20"
   },
+    {
+    "key": "VanKha",
+    "android_id": "4ac0fb0f9f7d8452",
+    "serial": "AQJV6PT4ZH6D4PX4",
+    "android_version": "13",
+    "manufacturer": "OPPO",
+    "price": "20"
+  },
 ]

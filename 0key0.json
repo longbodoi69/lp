@@ -751,4 +751,12 @@
     "manufacturer": "OPPO",
     "price": "20"
   },
+    {
+    "key": "MinhHoang",
+    "android_id": "327b95abe4194ff2",
+    "serial": "10HBB70DPS000CR",
+    "android_version": "12",
+    "manufacturer": "vivo",
+    "price": "20"
+  },
 ]

@@ -791,4 +791,12 @@
     "manufacturer": "Xiaomi",
     "price": "50"
   },
+  {
+    "key": "AnhQuan",
+    "android_id": "3f374c86fc144cbd",
+    "serial": "R58RC2WVLBT",
+    "android_version": "13",
+    "manufacturer": "samsung",
+    "price": "50"
+  },
 ]

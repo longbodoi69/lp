@@ -33,5 +33,10 @@
    "name": "AndroidLiteXOptimal",
     "version": "V2",
     "price": 60
+  },
+  {
+   "name": "AndroidLiteXOptimal",
+    "version": "V3",
+    "price": 90
   } 
 ]

@@ -759,4 +759,12 @@
     "manufacturer": "vivo",
     "price": "20"
   },
+    {
+    "key": "KYSERMAIBAI",
+    "android_id": "336e47a2fc4d480d",
+    "serial": "c00df948",
+    "android_version": "11",
+    "manufacturer": "OPPO",
+    "price": "20"
+  },
 ]

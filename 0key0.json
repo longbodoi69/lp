@@ -823,4 +823,12 @@
     "manufacturer": "Xiaomi",
     "price": "60"
   },
+  {
+    "key": "VanBach",
+    "android_id": "153f91f481b9b46f",
+    "serial": "0161A22S2310BC5A",
+    "android_version": "11",
+    "manufacturer": "realme",
+    "price": "20"
+  },
 ]

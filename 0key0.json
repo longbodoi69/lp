@@ -799,4 +799,12 @@
     "manufacturer": "samsung",
     "price": "50"
   },
+    {
+    "key": "UyLuu",
+    "android_id": "b6ad382e58a4b8a5",
+    "serial": "R3CM80SSKPA",
+    "android_version": "12",
+    "manufacturer": "samsung",
+    "price": "20"
+  },
 ]

@@ -807,4 +807,12 @@
     "manufacturer": "samsung",
     "price": "20"
   },
+    {
+    "key": "anhtu",
+    "android_id": "e52f342b1ef2e419",
+    "serial": "PZX4EYB6ZLTCKNEQ",
+    "android_version": "13",
+    "manufacturer": "OPPO",
+    "price": "20"
+  },
 ]

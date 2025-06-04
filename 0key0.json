@@ -839,4 +839,12 @@
   "manufacturer": "Xiaomi",
   "price": "50"
 },
+  {
+  "key": "DuongGiaHuy",
+  "android_id": "a5fff64e2acc4fe5",
+  "serial": "ee27ca74",
+  "android_version": "11",
+  "manufacturer": "OPPO",
+  "price": "20"
+},
 ]

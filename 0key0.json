@@ -847,4 +847,12 @@
   "manufacturer": "OPPO",
   "price": "20"
 },
+  {
+  "key": "NhatLong",
+  "android_id": "1604c277fc9fd485",
+  "serial": "R58T43M4E9L",
+  "android_version": "14",
+  "manufacturer": "samsung",
+  "price": "20"
+},
 ]

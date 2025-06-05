@@ -863,4 +863,12 @@
   "manufacturer": "Xiaomi",
   "price": "50"
 },
+  {
+  "key": "Truong",
+  "android_id": "7bd037b8904f4eac",
+  "serial": "jnuocmwg9hq4dip7",
+  "android_version": "15",
+  "manufacturer": "Xiaomi",
+  "price": "20"
+},
 ]

@@ -855,4 +855,12 @@
   "manufacturer": "samsung",
   "price": "20"
 },
+  {
+  "key": "DuyBaoPhan",
+  "android_id": "8389645a4204382f",
+  "serial": "S4XCGIOJ9T896P8H",
+  "android_version": "15",
+  "manufacturer": "Xiaomi",
+  "price": "50"
+},
 ]

@@ -24,6 +24,14 @@
     "price": "90"
   },
   {
+  "key": "bongu",
+  "android_id": "49d261da8f4a0db5",
+  "serial": "a6e81fc5",
+  "android_version": "13",
+  "manufacturer": "Xiaomi",
+  "price": "250"
+},
+  {
     "key": "admin2",
     "android_id": "492aede86e4525bc",
     "serial": "427c8402",

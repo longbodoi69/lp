@@ -173,7 +173,7 @@
     "serial": "90559d30",
     "android_version": "11",
     "manufacturer": "OPPO",
-    "price": "20"
+    "price": "200"
   },
    {
     "key": "Son",
@@ -879,4 +879,5 @@
   "manufacturer": "Xiaomi",
   "price": "20"
 },
+
 ]

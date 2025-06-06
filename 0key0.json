@@ -879,5 +879,12 @@
   "manufacturer": "Xiaomi",
   "price": "20"
 },
-
+{
+  "key": "LongCac",
+  "android_id": "fadd033bdad26349",
+  "serial": "c6skkjtw89pzdmzx",
+  "android_version": "15",
+  "manufacturer": "Xiaomi",
+  "price": "250"
+},
 ]

@@ -902,5 +902,13 @@
   "android_version": "11",
   "manufacturer": "Xiaomi",
   "price": "90"
-}
+},
+  {
+  "key": "MinhKha",
+  "android_id": "6a55151de1903403",
+  "serial": "4ac8b673",
+  "android_version": "15",
+  "manufacturer": "OPPO",
+  "price": "50"
+},
 ]

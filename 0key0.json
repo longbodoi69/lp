@@ -895,12 +895,12 @@
   "manufacturer": "vivo",
   "price": "20"
 },
-{
-  "key": "khanh",
+  {
+  "key": "Khanhll",
   "android_id": "9f862cd9aae5696b",
   "serial": "12c57d80",
   "android_version": "11",
-  "manufacturer": "Xiaomi"
+  "manufacturer": "Xiaomi",
   "price": "90"
-},
+}
 ]

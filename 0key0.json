@@ -887,4 +887,12 @@
   "manufacturer": "Xiaomi",
   "price": "250"
 },
+  {
+  "key": "HungThuan",
+  "android_id": "a309e4b9517c5c14",
+  "serial": "VKUOKFEYKZZDDYPV",
+  "android_version": "12",
+  "manufacturer": "vivo",
+  "price": "20"
+},
 ]

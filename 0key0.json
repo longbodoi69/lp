@@ -24,13 +24,13 @@
     "price": "90"
   },
   {
-  "key": "bongu",
-  "android_id": "49d261da8f4a0db5",
-  "serial": "a6e81fc5",
-  "android_version": "13",
-  "manufacturer": "Xiaomi",
-  "price": "250"
-},
+    "key": "bongu",
+    "android_id": "49d261da8f4a0db5",
+    "serial": "a6e81fc5",
+    "android_version": "13",
+    "manufacturer": "Xiaomi",
+    "price": "250"
+  },
   {
     "key": "admin2",
     "android_id": "492aede86e4525bc",
@@ -70,7 +70,7 @@
     "android_version": "14",
     "manufacturer": "samsung",
     "price": "250"
-    },
+  },
   {
     "key": "GiaHuycube",
     "android_id": "f3c8da8d59cef62c",
@@ -78,7 +78,7 @@
     "android_version": "15",
     "manufacturer": "Xiaomi",
     "price": "100"
-    },
+  },
   {
     "key": "ThuanCute",
     "android_id": "4e8482f6b19ba3d9",
@@ -86,7 +86,7 @@
     "android_version": "11",
     "manufacturer": "OPPO",
     "price": "100"
-    },
+  },
   {
     "key": "ThanhCute",
     "android_id": "641162b7cb215c75",
@@ -94,7 +94,7 @@
     "android_version": "13",
     "manufacturer": "Xiaomi",
     "price": "100"
-    },
+  },
   {
     "key": "Thaingu",
     "android_id": "596202a6fa95d1ae",
@@ -102,7 +102,7 @@
     "android_version": "14",
     "manufacturer": "vivo",
     "price": "250"
-    },
+  },
   {
     "key": "HoaiKhanh",
     "android_id": "bab3256b66478444",
@@ -111,7 +111,7 @@
     "manufacturer": "samsung",
     "price": "50"
   },
-    {
+  {
     "key": "ThanhPhat",
     "android_id": "bbf9334ee030cae2",
     "serial": "R5CT50ZC6MJ",
@@ -119,7 +119,7 @@
     "manufacturer": "samsung",
     "price": "50"
   },
-    {
+  {
     "key": "duchan",
     "android_id": "f19c1584b185f01",
     "serial": "356657111250301",
@@ -127,7 +127,7 @@
     "manufacturer": "SHARP",
     "price": "150"
   },
-    {
+  {
     "key": "viethh",
     "android_id": "91ad0a905b3692c0",
     "serial": "102793735M031369",
@@ -135,7 +135,7 @@
     "manufacturer": "TECNO",
     "price": "50"
   },
-    {
+  {
     "key": "NguyenHoang",
     "android_id": "c47c83f48057d0d5",
     "serial": "95Z9OBMRYT6DXSZ5",
@@ -143,7 +143,7 @@
     "manufacturer": "OPPO",
     "price": "50"
   },
-   {
+  {
     "key": "lttn",
     "android_id": "5d0c4c79fdc48ba1",
     "serial": "a61a6d24",
@@ -151,7 +151,7 @@
     "manufacturer": "OPPO",
     "price": "50"
   },
-   {
+  {
     "key": "HuuToan",
     "android_id": "b1e7f534ed7ce2fe",
     "serial": "knwo8x8plvor7hob",
@@ -159,7 +159,7 @@
     "manufacturer": "Xiaomi",
     "price": "50"
   },
-   {
+  {
     "key": "VuDuong",
     "android_id": "1b8d3142dd711c25",
     "serial": "2e519886",
@@ -167,7 +167,7 @@
     "manufacturer": "OPPO",
     "price": "20"
   },
-   {
+  {
     "key": "HaMinh",
     "android_id": "4c18424c747490c8",
     "serial": "90559d30",
@@ -175,7 +175,7 @@
     "manufacturer": "OPPO",
     "price": "200"
   },
-   {
+  {
     "key": "MinhHuy",
     "android_id": "cbb80311bc05b07f",
     "serial": "USJRU8OVAAHAZHRO",
@@ -183,15 +183,15 @@
     "manufacturer": "Xiaomi",
     "price": "50"
   },
-   {
-  "key": "?",
-  "android_id": "201022c065ce4fe4",
-  "serial": "RFCX712SQZM",
-  "android_version": "15",
-  "manufacturer": "samsung",
-  "price": "?"
-},
-   {
+  {
+    "key": "?",
+    "android_id": "201022c065ce4fe4",
+    "serial": "RFCX712SQZM",
+    "android_version": "15",
+    "manufacturer": "samsung",
+    "price": "?"
+  },
+  {
     "key": "Kien",
     "android_id": "c1277b4c7716bb40",
     "serial": "HA1FGKWB",
@@ -199,7 +199,7 @@
     "manufacturer": "LENOVO",
     "price": "50"
   },
-   {
+  {
     "key": "Thien",
     "android_id": "b0d8b4ad23e85c4a",
     "serial": "0H73A21I2610644B",
@@ -207,7 +207,7 @@
     "manufacturer": "realme",
     "price": "150"
   },
-   {
+  {
     "key": "Chon",
     "android_id": "839230aede20f572",
     "serial": "4d69c273",
@@ -215,7 +215,7 @@
     "manufacturer": "OPPO",
     "price": "150"
   },
-   {
+  {
     "key": "trongcube",
     "android_id": "230dd6706732d932",
     "serial": "4116fa11",
@@ -223,7 +223,7 @@
     "manufacturer": "Xiaomi",
     "price": "150"
   },
-   {
+  {
     "key": "HuuLoc",
     "android_id": "fc2b34cea43a00a5",
     "serial": "R58T43TEKFL",
@@ -231,7 +231,7 @@
     "manufacturer": "samsung",
     "price": "60"
   },
-   {
+  {
     "key": "Duyanh",
     "android_id": "69198710b44333e5",
     "serial": "8c08e707",
@@ -239,7 +239,7 @@
     "manufacturer": "Xiaomi",
     "price": "150"
   },
-   {
+  {
     "key": "APhenh",
     "android_id": "4a9a308f2b7dee61",
     "serial": "EATOBY8DUCNJPB8X",
@@ -247,7 +247,7 @@
     "manufacturer": "Xiaomi",
     "price": "150"
   },
-   {
+  {
     "key": "ManhDung",
     "android_id": "ca17421924e4fe00",
     "serial": "DYT8CA65DMJNTSYH",
@@ -255,7 +255,7 @@
     "manufacturer": "vivo",
     "price": "50"
   },
-   {
+  {
     "key": "TrungLuan",
     "android_id": "ff80da658db53c78",
     "serial": "29b25f93",
@@ -263,7 +263,7 @@
     "manufacturer": "Xiaomi",
     "price": "150"
   },
-   {
+  {
     "key": "MinhThuan",
     "android_id": "e52bde8480318e5c",
     "serial": "23817c1f",
@@ -271,7 +271,7 @@
     "manufacturer": "Xiaomi",
     "price": "150"
   },
-   {
+  {
     "key": "ThanhDat",
     "android_id": "3c42bc6feb42d651",
     "serial": "RF8Y20M2XYR",
@@ -279,7 +279,7 @@
     "manufacturer": "samsung",
     "price": "150"
   },
-   {
+  {
     "key": "HieuDien",
     "android_id": "f895584f78222b61",
     "serial": "10HE4MF4C70007D",
@@ -287,7 +287,7 @@
     "manufacturer": "vivo",
     "price": "50"
   },
-   {
+  {
     "key": "MINHTRI",
     "android_id": "6a0546cbfef6a529",
     "serial": "zd6tq4wwtwaqiryd",
@@ -295,7 +295,7 @@
     "manufacturer": "Xiaomi",
     "price": "50"
   },
-    {
+  {
     "key": "MinhThongNguRo",
     "android_id": "42c4cab46b2f23a5",
     "serial": "ce93dc020407",
@@ -303,7 +303,7 @@
     "manufacturer": "Xiaomi",
     "price": "250"
   },
-   {
+  {
     "key": "bachacu",
     "android_id": "b398388dd637fbbf",
     "serial": "RWJR9LROZXHYKFCU",
@@ -311,7 +311,7 @@
     "manufacturer": "Xiaomi",
     "price": "150"
   },
-   {
+  {
     "key": "VuThiQuyen",
     "android_id": "94c49ab35fac81d9",
     "serial": "34002873860014S",
@@ -327,7 +327,7 @@
     "manufacturer": "Vivo",
     "price": "20"
   },
-   {
+  {
     "key": "GiaBao",
     "android_id": "3f7f34ce3c180751",
     "serial": "d88d02267d75",
@@ -335,7 +335,7 @@
     "manufacturer": "Xiaomi",
     "price": "50"
   },
-    {
+  {
     "key": "QuocKhanh",
     "android_id": "a56d76ec3646d822",
     "serial": "xwd6du7tydcmtwnr",
@@ -343,7 +343,7 @@
     "manufacturer": "Xiaomi",
     "price": "50"
   },
-   {
+  {
     "key": "QuocMinh",
     "android_id": "5c5de67e153c61d",
     "serial": "d2ab4303",
@@ -351,7 +351,7 @@
     "manufacturer": "OPPO",
     "price": "50"
   },
-   {
+  {
     "key": "AnhKiet",
     "android_id": "6ae334cba70ebdfa",
     "serial": "10HEC9F0YS000A1",
@@ -359,7 +359,7 @@
     "manufacturer": "vivo",
     "price": "100"
   },
-   {
+  {
     "key": "BangMb",
     "android_id": "7bbe2f35c6ee9870",
     "serial": "0152S2810380B",
@@ -367,7 +367,7 @@
     "manufacturer": "realme",
     "price": "150"
   },
-   {
+  {
     "key": "ThanhGayCuBe",
     "android_id": "b003843f9629a8f0",
     "serial": "cbb5b9c3",
@@ -375,7 +375,7 @@
     "manufacturer": "realme",
     "price": "100"
   },
-   {
+  {
     "key": "VyHoang",
     "android_id": "774714b81c7ae4a3",
     "serial": "RFCW301JHQP",
@@ -383,7 +383,7 @@
     "manufacturer": "samsung",
     "price": "250"
   },
-   {
+  {
     "key": "LongThanhOcLol",
     "android_id": "9a28e481b1bfcec1",
     "serial": "R58R447YSQP",
@@ -391,7 +391,7 @@
     "manufacturer": "samsung",
     "price": "200"
   },
-   {
+  {
     "key": "LongThanh",
     "android_id": "9a28e481b1bfcec1",
     "serial": "R58R447YSQP",
@@ -399,7 +399,7 @@
     "manufacturer": "samsung",
     "price": "60"
   },
-   {
+  {
     "key": "Khanhdz",
     "android_id": "a0ab66121aa8edc8",
     "serial": "6289ffc2",
@@ -407,7 +407,7 @@
     "manufacturer": "OPPO",
     "price": "150"
   },
-   {
+  {
     "key": "ductrong",
     "android_id": "3ccaa12e5739759c",
     "serial": "R9HRC09JQWK",
@@ -415,7 +415,7 @@
     "manufacturer": "samsung",
     "price": "20"
   },
-   {
+  {
     "key": "ductrong2",
     "android_id": "f9b8ba9ad8f1430f",
     "serial": "8HP7UWVCS48TR87P",
@@ -423,7 +423,7 @@
     "manufacturer": "Xiaomi",
     "price": "60"
   },
-   {
+  {
     "key": "KhanhDuy",
     "android_id": "39df0ba7db303908",
     "serial": "PFDIWO45QOEIX8JV",
@@ -431,7 +431,7 @@
     "manufacturer": "OPPO",
     "price": "150"
   },
-   {
+  {
     "key": "MinhTuyen",
     "android_id": "de55331dbf520f1d",
     "serial": "1153337455008692",
@@ -439,7 +439,7 @@
     "manufacturer": "TECNO",
     "price": "20"
   },
-   {
+  {
     "key": "TranVuong",
     "android_id": "8c3982b7dd4fa377",
     "serial": "10AE9B2L2C000F9",
@@ -447,7 +447,7 @@
     "manufacturer": "vivo",
     "price": "20"
   },
-   {
+  {
     "key": "MinhNhat",
     "android_id": "83c8e5ffc0f4dc00",
     "serial": "f837316a",
@@ -455,7 +455,7 @@
     "manufacturer": "OPPO",
     "price": "20"
   },
-   {
+  {
     "key": "ThanhPhuoc",
     "android_id": "78875d54fef3be4f",
     "serial": "0bac71937d77",
@@ -463,7 +463,7 @@
     "manufacturer": "Xiaomi",
     "price": "20"
   },
-   {
+  {
     "key": "NhanNguyen",
     "android_id": "7a8784a220f8c9d8",
     "serial": "7x5lz9skmb6ltg45",
@@ -471,7 +471,7 @@
     "manufacturer": "Xiaomi",
     "price": "20"
   },
-   {
+  {
     "key": "TheTung",
     "android_id": "a44896a46cbfc7d8",
     "serial": "69AIWK6LAILRNJIZ",
@@ -479,7 +479,7 @@
     "manufacturer": "OPPO",
     "price": "20"
   },
-   {
+  {
     "key": "NgocPhu",
     "android_id": "7cece051d70b66fb",
     "serial": "f42eda7d",
@@ -487,7 +487,7 @@
     "manufacturer": "OPPO",
     "price": "20"
   },
-   {
+  {
     "key": "BaLong",
     "android_id": "43f7114533ec8dfa",
     "serial": "4113bafd",
@@ -495,7 +495,7 @@
     "manufacturer": "vivo",
     "price": "20"
   },
-   {
+  {
     "key": "HoangKhang",
     "android_id": "b6ee4f3c6d6a58eb",
     "serial": "10HC8R0A1F00069",
@@ -503,7 +503,7 @@
     "manufacturer": "Vivo",
     "price": "150"
   },
-   {
+  {
     "key": "Sunny",
     "android_id": "c73d6efcab4c25f0",
     "serial": "RF8M813NYFA",
@@ -511,7 +511,7 @@
     "manufacturer": "Samsung",
     "price": "60"
   },
-   {
+  {
     "key": "HoangHai",
     "android_id": "a46596e8ef21a32b",
     "serial": "7548aabe",
@@ -519,7 +519,7 @@
     "manufacturer": "Xiaomi",
     "price": "20"
   },
-   {
+  {
     "key": "Xuyen",
     "android_id": "707dfea5ef393589",
     "serial": "jf75sc6tr8ssba4d",
@@ -527,7 +527,7 @@
     "manufacturer": "Xiaomi",
     "price": "50"
   },
-   {
+  {
     "key": "BaoLong",
     "android_id": "f33c4a86bfce751e",
     "serial": "R7AXA06ACVB",
@@ -535,7 +535,7 @@
     "manufacturer": "samsung",
     "price": "20"
   },
-   {
+  {
     "key": "DucTai",
     "android_id": "79015cf25ec54d50",
     "serial": "hidqy5jjqowc5t59",
@@ -543,7 +543,7 @@
     "manufacturer": "Xiaomi",
     "price": "60"
   },
-   {
+  {
     "key": "ThanhTung",
     "android_id": "31bad7bad01d4d56",
     "serial": "4c2d7b0d",
@@ -551,7 +551,7 @@
     "manufacturer": "OPPO",
     "price": "20"
   },
-   {
+  {
     "key": "DucHung",
     "android_id": "94fbd8c522a186d0",
     "serial": "10CF2K0DNC002NQ",
@@ -559,7 +559,7 @@
     "manufacturer": "vivo",
     "price": "20"
   },
-   {
+  {
     "key": "HoangChinh",
     "android_id": "c1e0ffd02a057d8b",
     "serial": "R58R81EVGSJ",
@@ -567,7 +567,7 @@
     "manufacturer": "samsung",
     "price": "20"
   },
-   {
+  {
     "key": "CaoThien",
     "android_id": "74b485571b11c923",
     "serial": "R52R4038SRJ",
@@ -575,7 +575,7 @@
     "manufacturer": "samsung",
     "price": "20"
   },
-   {
+  {
     "key": "ThienPhu",
     "android_id": "ce535a7b6c227123",
     "serial": "334c459b7d72",
@@ -583,7 +583,7 @@
     "manufacturer": "Xiaomi",
     "price": "50"
   },
-   {
+  {
     "key": "MinhKhoa",
     "android_id": "fd3989e8150d201f",
     "serial": "R7ST51V7XEH",
@@ -591,7 +591,7 @@
     "manufacturer": "samsung",
     "price": "20"
   },
-   {
+  {
     "key": "TuanKiet",
     "android_id": "4c9b4dd5a4d2c0bb",
     "serial": "3400019565001IC",
@@ -599,7 +599,7 @@
     "manufacturer": "vivo",
     "price": "20"
   },
-   {
+  {
     "key": "GiaBaodz",
     "android_id": "c15519f9c7fe9199",
     "serial": "faees4jzgyfe59gm",
@@ -615,7 +615,7 @@
     "manufacturer": "Xiaomi",
     "price": "60"
   },
-    {
+  {
     "key": "TienThanh",
     "android_id": "7833712531528a2e",
     "serial": "10HBBL040Y000S0",
@@ -623,15 +623,15 @@
     "manufacturer": "vivo",
     "price": "50"
   },
-    {
+  {
     "key": "GKhanh",
     "android_id": "f1ada568f6827128",
     "serial": "55PFUSSOKJWO7XXG",
     "android_version": "13",
     "manufacturer": "OPPO",
     "price": "20"
-  },  
-   {
+  },
+  {
     "key": "TanTai",
     "android_id": "2807875453594ee9",
     "serial": "R58RB2GFR9B",
@@ -639,7 +639,7 @@
     "manufacturer": "samsung",
     "price": "20"
   },
-    {
+  {
     "key": "PhamNam",
     "android_id": "f1d5e6da95121f12",
     "serial": "HQ61BQ127D",
@@ -647,7 +647,7 @@
     "manufacturer": "Sony",
     "price": "60"
   },
-    {
+  {
     "key": "NgocSon",
     "android_id": "6093cbc589aa532e",
     "serial": "R58R941DVPA",
@@ -655,7 +655,7 @@
     "manufacturer": "samsung",
     "price": "50"
   },
-    {
+  {
     "key": "ThanhTuong",
     "android_id": "74216b64ecc9f563",
     "serial": "SKORY555PBP79PTC",
@@ -663,7 +663,7 @@
     "manufacturer": "OPPO",
     "price": "20"
   },
-    {
+  {
     "key": "NamPhong",
     "android_id": "fe35d3629866af15",
     "serial": "R9PRC0LDP1N",
@@ -671,7 +671,7 @@
     "manufacturer": "samsung",
     "price": "60"
   },
-    {
+  {
     "key": "LyPhan",
     "android_id": "abf9f74916e17c35",
     "serial": "83daff4f",
@@ -679,7 +679,7 @@
     "manufacturer": "Xiaomi",
     "price": "20"
   },
-    {
+  {
     "key": "DangPhu",
     "android_id": "316cfd2913198e90",
     "serial": "EMSWGIHAJFSKJZAU",
@@ -687,7 +687,7 @@
     "manufacturer": "realme",
     "price": "20"
   },
-    {
+  {
     "key": "GiaHuy",
     "android_id": "6127d494367266e0",
     "serial": "R5CX92PCY7B",
@@ -695,7 +695,7 @@
     "manufacturer": "samsung",
     "price": "20"
   },
-    {
+  {
     "key": "BaoPhan",
     "android_id": "54c42057e9d4e16",
     "serial": "qoobamt45tovojm7",
@@ -703,7 +703,7 @@
     "manufacturer": "Xiaomi",
     "price": "60"
   },
-    {
+  {
     "key": "VanChi",
     "android_id": "a1b9fa0734b7fb62",
     "serial": "S4BYSKGEWSFMDIDA",
@@ -711,7 +711,7 @@
     "manufacturer": "Xiaomi",
     "price": "20"
   },
-    {
+  {
     "key": "ThanhNhan",
     "android_id": "861c1b1a05d36565",
     "serial": "R58R63V5HKN",
@@ -719,7 +719,7 @@
     "manufacturer": "samsung",
     "price": "20"
   },
-    {
+  {
     "key": "BaoNam",
     "android_id": "4e614adb2fa2c303",
     "serial": "RF8X101X2QK",
@@ -727,7 +727,7 @@
     "manufacturer": "samsung",
     "price": "20"
   },
-    {
+  {
     "key": "MinhNhat2",
     "android_id": "83c8e5ffc0f4dc00",
     "serial": "f837316a",
@@ -735,7 +735,7 @@
     "manufacturer": "OPPO",
     "price": "60"
   },
-    {
+  {
     "key": "LongThanh14",
     "android_id": "fadd033bdad26349",
     "serial": "c6skkjtw89pzdmzx",
@@ -743,7 +743,7 @@
     "manufacturer": "Xiaomi",
     "price": "60"
   },
-     {
+  {
     "key": "LongThanhKk",
     "android_id": "fadd033bdad26349",
     "serial": "c6skkjtw89pzdmzx",
@@ -751,7 +751,7 @@
     "manufacturer": "Xiaomi",
     "price": "250"
   },
-    {
+  {
     "key": "QuocBao",
     "android_id": "a2fa9639cdb352fa",
     "serial": "CI6TLZQ49TQO5LDI",
@@ -759,7 +759,7 @@
     "manufacturer": "OPPO",
     "price": "20"
   },
-    {
+  {
     "key": "MinhHoang",
     "android_id": "327b95abe4194ff2",
     "serial": "10HBB70DPS000CR",
@@ -767,7 +767,7 @@
     "manufacturer": "vivo",
     "price": "20"
   },
-    {
+  {
     "key": "KYSERMAIBAI",
     "android_id": "336e47a2fc4d480d",
     "serial": "c00df948",
@@ -775,7 +775,7 @@
     "manufacturer": "OPPO",
     "price": "20"
   },
-    {
+  {
     "key": "AnhQuan",
     "android_id": "9c3186ffbb938a1f",
     "serial": "hqm7wofy8xe6ypzt",
@@ -783,7 +783,7 @@
     "manufacturer": "Xiaomi",
     "price": "20"
   },
-    {
+  {
     "key": "VanKha",
     "android_id": "4ac0fb0f9f7d8452",
     "serial": "AQJV6PT4ZH6D4PX4",
@@ -791,7 +791,7 @@
     "manufacturer": "OPPO",
     "price": "20"
   },
-    {
+  {
     "key": "AnhKhoi",
     "android_id": "497000ed79622e56",
     "serial": "vcqgojder8r8auxc",
@@ -807,7 +807,7 @@
     "manufacturer": "samsung",
     "price": "50"
   },
-    {
+  {
     "key": "UyLuu",
     "android_id": "b6ad382e58a4b8a5",
     "serial": "R3CM80SSKPA",
@@ -815,7 +815,7 @@
     "manufacturer": "samsung",
     "price": "20"
   },
-    {
+  {
     "key": "anhtu",
     "android_id": "e52f342b1ef2e419",
     "serial": "PZX4EYB6ZLTCKNEQ",
@@ -823,7 +823,7 @@
     "manufacturer": "OPPO",
     "price": "20"
   },
-    {
+  {
     "key": "DuongNguyen",
     "android_id": "3863724f9774efea",
     "serial": "e206ae19",
@@ -840,91 +840,91 @@
     "price": "20"
   },
   {
-  "key": "QuangNek",
-  "android_id": "8eded9eb2f912ad1",
-  "serial": "1076fe9e7d72",
-  "android_version": "14",
-  "manufacturer": "Xiaomi",
-  "price": "50"
-},
+    "key": "QuangNek",
+    "android_id": "8eded9eb2f912ad1",
+    "serial": "1076fe9e7d72",
+    "android_version": "14",
+    "manufacturer": "Xiaomi",
+    "price": "50"
+  },
   {
-  "key": "DuongGiaHuy",
-  "android_id": "a5fff64e2acc4fe5",
-  "serial": "ee27ca74",
-  "android_version": "11",
-  "manufacturer": "OPPO",
-  "price": "20"
-},
+    "key": "DuongGiaHuy",
+    "android_id": "a5fff64e2acc4fe5",
+    "serial": "ee27ca74",
+    "android_version": "11",
+    "manufacturer": "OPPO",
+    "price": "20"
+  },
   {
-  "key": "NhatLong",
-  "android_id": "1604c277fc9fd485",
-  "serial": "R58T43M4E9L",
-  "android_version": "14",
-  "manufacturer": "samsung",
-  "price": "20"
-},
+    "key": "NhatLong",
+    "android_id": "1604c277fc9fd485",
+    "serial": "R58T43M4E9L",
+    "android_version": "14",
+    "manufacturer": "samsung",
+    "price": "20"
+  },
   {
-  "key": "DuyBaoPhan",
-  "android_id": "8389645a4204382f",
-  "serial": "S4XCGIOJ9T896P8H",
-  "android_version": "15",
-  "manufacturer": "Xiaomi",
-  "price": "50"
-},
+    "key": "DuyBaoPhan",
+    "android_id": "8389645a4204382f",
+    "serial": "S4XCGIOJ9T896P8H",
+    "android_version": "15",
+    "manufacturer": "Xiaomi",
+    "price": "50"
+  },
   {
-  "key": "Truong",
-  "android_id": "7bd037b8904f4eac",
-  "serial": "jnuocmwg9hq4dip7",
-  "android_version": "15",
-  "manufacturer": "Xiaomi",
-  "price": "20"
-},
-{
-  "key": "LongCac",
-  "android_id": "fadd033bdad26349",
-  "serial": "c6skkjtw89pzdmzx",
-  "android_version": "15",
-  "manufacturer": "Xiaomi",
-  "price": "250"
-},
+    "key": "Truong",
+    "android_id": "7bd037b8904f4eac",
+    "serial": "jnuocmwg9hq4dip7",
+    "android_version": "15",
+    "manufacturer": "Xiaomi",
+    "price": "20"
+  },
   {
-  "key": "HungThuan",
-  "android_id": "a309e4b9517c5c14",
-  "serial": "VKUOKFEYKZZDDYPV",
-  "android_version": "12",
-  "manufacturer": "vivo",
-  "price": "20"
-},
+    "key": "LongCac",
+    "android_id": "fadd033bdad26349",
+    "serial": "c6skkjtw89pzdmzx",
+    "android_version": "15",
+    "manufacturer": "Xiaomi",
+    "price": "250"
+  },
   {
-  "key": "Khanhll",
-  "android_id": "9f862cd9aae5696b",
-  "serial": "12c57d80",
-  "android_version": "11",
-  "manufacturer": "Xiaomi",
-  "price": "90"
-},
+    "key": "HungThuan",
+    "android_id": "a309e4b9517c5c14",
+    "serial": "VKUOKFEYKZZDDYPV",
+    "android_version": "12",
+    "manufacturer": "vivo",
+    "price": "20"
+  },
   {
-  "key": "MinhKha",
-  "android_id": "6a55151de1903403",
-  "serial": "4ac8b673",
-  "android_version": "15",
-  "manufacturer": "OPPO",
-  "price": "50"
-},
+    "key": "Khanhll",
+    "android_id": "9f862cd9aae5696b",
+    "serial": "12c57d80",
+    "android_version": "11",
+    "manufacturer": "Xiaomi",
+    "price": "90"
+  },
   {
-  "key": "HoaiBaoNe",
-  "android_id": "afdeb146af523ec0",
-  "serial": "af8a5f23",
-  "android_version": "15",
-  "manufacturer": "OPPO",
-  "price": "50"
-},
+    "key": "MinhKha",
+    "android_id": "6a55151de1903403",
+    "serial": "4ac8b673",
+    "android_version": "15",
+    "manufacturer": "OPPO",
+    "price": "50"
+  },
   {
-  "key": "PhuongHuuLoc",
-  "android_id": "fc2b34cea43a00a5",
-  "serial": "R58T43TEKFL",
-  "android_version": "14",
-  "manufacturer": "samsung",
-  "price": "250"
-},
+    "key": "HoaiBaoNe",
+    "android_id": "afdeb146af523ec0",
+    "serial": "af8a5f23",
+    "android_version": "15",
+    "manufacturer": "OPPO",
+    "price": "50"
+  },
+  {
+    "key": "PhuongHuuLoc",
+    "android_id": "fc2b34cea43a00a5",
+    "serial": "R58T43TEKFL",
+    "android_version": "14",
+    "manufacturer": "samsung",
+    "price": "250"
+  }
 ]

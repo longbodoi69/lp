@@ -895,4 +895,20 @@
   "manufacturer": "realme",
   "price": "20"
   },
+  {
+  "key": "MinhHuyll",
+  "android_id": "201022c065ce4fe4",
+  "serial": "RFCX712SQZM",
+  "android_version": "15",
+  "manufacturer": "samsung",
+  "price": "?"
+  },
+  {
+  "key": "longnhat",
+  "android_id": "719b12fce7b424b5",
+  "serial": "B6LRIJBQDISKI759",
+  "android_version": "14",
+  "manufacturer": "OPPO",
+  "price": "20"
+  },
 ]

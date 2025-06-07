@@ -16,12 +16,12 @@
     "price": "50"
   },
   {
-  "key": "admin",
-  "android_id": "50bf191109b7b24c",
-  "serial": "427c8402",
-  "android_version": "15",
-  "manufacturer": "Xiaomi",
-  "price": "90"
+    "key": "admin",
+    "android_id": "a8bb43db278fd01f",
+    "serial": "427c8402",
+    "android_version": "15",
+    "manufacturer": "Xiaomi",
+    "price": "90"
   },
   {
     "key": "bongu",
@@ -150,14 +150,6 @@
     "android_version": "15",
     "manufacturer": "Xiaomi",
     "price": "50"
-  },
-  {
-    "key": "?",
-    "android_id": "201022c065ce4fe4",
-    "serial": "RFCX712SQZM",
-    "android_version": "15",
-    "manufacturer": "samsung",
-    "price": "?"
   },
   {
     "key": "Kien",

@@ -919,4 +919,12 @@
   "manufacturer": "OPPO",
   "price": "50"
 },
+  {
+  "key": "PhuongHuuLoc",
+  "android_id": "fc2b34cea43a00a5",
+  "serial": "R58T43TEKFL",
+  "android_version": "14",
+  "manufacturer": "samsung",
+  "price": "250"
+},
 ]

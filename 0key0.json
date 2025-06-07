@@ -886,5 +886,13 @@
     "android_version": "14",
     "manufacturer": "samsung",
     "price": "250"
-  }
+  },
+  {
+  "key": "AnhTai",
+  "android_id": "4fe57a3c508be52d",
+  "serial": "d177b63",
+  "android_version": "11",
+  "manufacturer": "realme",
+  "price": "20"
+  },
 ]

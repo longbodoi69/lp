@@ -16,50 +16,18 @@
     "price": "50"
   },
   {
-    "key": "admin",
-    "android_id": "a8bb43db278fd01f",
-    "serial": "427c8402",
-    "android_version": "15",
-    "manufacturer": "Xiaomi",
-    "price": "90"
-  },
+  "key": "admin",
+  "android_id": "50bf191109b7b24c",
+  "serial": "427c8402",
+  "android_version": "15",
+  "manufacturer": "Xiaomi",
+  "price": "?"
+},
   {
     "key": "bongu",
     "android_id": "49d261da8f4a0db5",
     "serial": "a6e81fc5",
     "android_version": "13",
-    "manufacturer": "Xiaomi",
-    "price": "250"
-  },
-  {
-    "key": "admin2",
-    "android_id": "492aede86e4525bc",
-    "serial": "427c8402",
-    "android_version": "15",
-    "manufacturer": "Xiaomi",
-    "price": "20"
-  },
-  {
-    "key": "admin3",
-    "android_id": "492aede86e4525bc",
-    "serial": "427c8402",
-    "android_version": "15",
-    "manufacturer": "Xiaomi",
-    "price": "150"
-  },
-  {
-    "key": "admin4",
-    "android_id": "492aede86e4525bc",
-    "serial": "427c8402",
-    "android_version": "15",
-    "manufacturer": "Xiaomi",
-    "price": "200"
-  },
-  {
-    "key": "admin5",
-    "android_id": "492aede86e4525bc",
-    "serial": "427c8402",
-    "android_version": "15",
     "manufacturer": "Xiaomi",
     "price": "250"
   },

@@ -911,4 +911,12 @@
   "manufacturer": "OPPO",
   "price": "20"
   },
+  {
+  "key": "hau",
+  "android_id": "1bec0ca20221f251",
+  "serial": "10ACBA184J001PL",
+  "android_version": "14",
+  "manufacturer": "vivo",
+  "price": "20"
+},
 ]

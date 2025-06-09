@@ -927,4 +927,12 @@
   "manufacturer": "OPPO",
   "price": "20"
   },
+  {
+  "key": "HoangLiem",
+  "android_id": "5d19f57ffcbd9391",
+  "serial": "BU55OZDYIJ9PB649",
+  "android_version": "9",
+  "manufacturer": "OPPO",
+  "price": "20"
+},
 ]

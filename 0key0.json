@@ -934,7 +934,7 @@
   "android_version": "9",
   "manufacturer": "OPPO",
   "price": "20"
-},
+  },
   {
   "key": "HoangAnh",
   "android_id": "9de51d2dad33329f",
@@ -942,5 +942,13 @@
   "android_version": "13",
   "manufacturer": "OPPO",
   "price": "50"
+  },
+  {
+  "key": "DucManh",
+  "android_id": "667605409c2be007",
+  "serial": "iv4tr4jbd6irdmci",
+  "android_version": "15",
+  "manufacturer": "Xiaomi",
+  "price": "20"
 },
 ]

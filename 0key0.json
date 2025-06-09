@@ -959,4 +959,12 @@
   "manufacturer": "realme",
   "price": "20"
   },
+  {
+  "key": "DuyLap",
+  "android_id": "918c194c358660b3",
+  "serial": "0B53804I311000F2",
+  "android_version": "14",
+  "manufacturer": "realme",
+  "price": "50"
+},
 ]

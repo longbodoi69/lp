@@ -918,5 +918,13 @@
   "android_version": "14",
   "manufacturer": "vivo",
   "price": "20"
-},
+  },
+  {
+  "key": "khangxyz",
+  "android_id": "a4b126ce980b0be5",
+  "serial": "NVZHWKTCZLDEM7EM",
+  "android_version": "13",
+  "manufacturer": "OPPO",
+  "price": "20"
+  },
 ]

@@ -935,4 +935,12 @@
   "manufacturer": "OPPO",
   "price": "20"
 },
+  {
+  "key": "HoangAnh",
+  "android_id": "9de51d2dad33329f",
+  "serial": "M7HIEIH6KN6L4XFI",
+  "android_version": "13",
+  "manufacturer": "OPPO",
+  "price": "50"
+},
 ]

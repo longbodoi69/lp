@@ -950,5 +950,13 @@
   "android_version": "15",
   "manufacturer": "Xiaomi",
   "price": "20"
-},
+  },
+  {
+  "key": "Ha",
+  "android_id": "db7e65c36d1c36d9",
+  "serial": "GYXWSS7XWCKRGIMV",
+  "android_version": "14",
+  "manufacturer": "realme",
+  "price": "20"
+  },
 ]

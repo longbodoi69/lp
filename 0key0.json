@@ -975,4 +975,12 @@
   "manufacturer": "Xiaomi",
   "price": "50"
   },
+  {
+  "key": "LamHy",
+  "android_id": "4a471f96edd5541e",
+  "serial": "VKQSH6VKAAWCFE4P",
+  "android_version": "15",
+  "manufacturer": "Xiaomi",
+  "price": "20"
+  },
 ]

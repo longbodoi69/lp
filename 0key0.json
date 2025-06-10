@@ -958,5 +958,13 @@
   "android_version": "14",
   "manufacturer": "realme",
   "price": "50"
-},
+  },
+  {
+  "key": "HoangQuan",
+  "android_id": "e01bf4defb8b14f0",
+  "serial": "R58NC1WJGKA",
+  "android_version": "12",
+  "manufacturer": "samsung",
+  "price": "50"
+  },
 ]

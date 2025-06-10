@@ -967,4 +967,12 @@
   "manufacturer": "samsung",
   "price": "50"
   },
+  {
+  "key": "Lien",
+  "android_id": "a261a03466dff96a",
+  "serial": "HM4DG69LIZTC69ZH",
+  "android_version": "13",
+  "manufacturer": "Xiaomi",
+  "price": "50"
+  },
 ]

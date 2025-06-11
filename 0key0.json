@@ -983,4 +983,12 @@
   "manufacturer": "Xiaomi",
   "price": "20"
   },
+  {
+  "key": "DucThinh",
+  "android_id": "5432dd3cd5abd9ca",
+  "serial": "320437149306",
+  "android_version": "13",
+  "manufacturer": "ZTE",
+  "price": "20"
+},
 ]

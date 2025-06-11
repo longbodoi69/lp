@@ -1006,5 +1006,13 @@
   "android_version": "13",
   "manufacturer": "realme",
   "price": "50"
+  },
+  {
+  "key": "phucxyz",
+  "android_id": "1386cda7230f5f5b",
+  "serial": "R7AX914VVZJ",
+  "android_version": "14",
+  "manufacturer": "samsung",
+  "price": "20"
 },
 ]

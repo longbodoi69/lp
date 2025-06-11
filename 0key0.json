@@ -990,7 +990,7 @@
   "android_version": "13",
   "manufacturer": "ZTE",
   "price": "20"
-},
+  },
   {
   "key": "HoangPhuc",
   "android_id": "9776eca10a3aad12",
@@ -998,5 +998,13 @@
   "android_version": "14",
   "manufacturer": "OPPO",
   "price": "20"
+  },
+  {
+  "key": "BaoPhuc",
+  "android_id": "2c5135f39c6e902c",
+  "serial": "2830293910DA07K2",
+  "android_version": "13",
+  "manufacturer": "realme",
+  "price": "50"
 },
 ]

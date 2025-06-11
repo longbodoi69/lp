@@ -991,4 +991,12 @@
   "manufacturer": "ZTE",
   "price": "20"
 },
+  {
+  "key": "HoangPhuc",
+  "android_id": "9776eca10a3aad12",
+  "serial": "7aa53986",
+  "android_version": "14",
+  "manufacturer": "OPPO",
+  "price": "20"
+},
 ]

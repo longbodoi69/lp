@@ -1,3 +1,169 @@
-sh -c "$(echo -e 'IyEvc3lzdGVtL2Jpbi9zaApyZWZyZXNoX3JhdGU9JChkdW1wc3lzIFN1cmZhY2VGbGluZ2VyIHwgZ3JlcCAicmVmcmVzaC1yYXRlIiB8IGF3ayAne3ByaW50ZigiJWQgIiwgJDMpfScpCmJyYW5kPSQoZ2V0cHJvcCByby5wcm9kdWN0LnN5c3RlbS5icmFuZCkKc2xlZXAgMQplY2hvICIgCiAg4paI4paI4paI4paI4paI4pWXIOKWiOKWiOKWiOKVlyAgIOKWiOKWiOKVl+KWiOKWiOKWiOKWiOKWiOKWiOKVlyDilojilojilojilojilojilojilZcgIOKWiOKWiOKWiOKWiOKWiOKWiOKVlyDilojilojilZfilojilojilojilojilojilojilZcgCuKWiOKWiOKVlOKVkOKVkOKWiOKWiOKVl+KWiOKWiOKWiOKWiOKVlyAg4paI4paI4pWR4paI4paI4pWU4pWQ4pWQ4paI4paI4pWX4paI4paI4pWU4pWQ4pWQ4paI4paI4pWX4paI4paI4pWU4pWQ4pWQ4pWQ4paI4paI4pWX4paI4paI4pWR4paI4paI4pWU4pWQ4pWQ4paI4paI4pWXCuKWiOKWiOKWiOKWiOKWiOKWiOKWiOKVkeKWiOKWiOKVlOKWiOKWiOKVlyDilojilojilZHilojilojilZEgIOKWiOKWiOKVkeKWiOKWiOKWiOKWiOKWiOKWiOKVlOKVneKWiOKWiOKVkSAgIOKWiOKWiOKVkeKWiOKWiOKVkeKWiOKWiOKVkSAg4paI4paI4pWRCuKWiOKWiOKVlOKVkOKVkOKWiOKWiOKVkeKWiOKWiOKVkeKVmuKWiOKWiOKVl+KWiOKWiOKVkeKWiOKWiOKVkSAg4paI4paI4pWR4paI4paI4pWU4pWQ4pWQ4paI4paI4pWX4paI4paI4pWRICAg4paI4paI4pWR4paI4paI4pWR4paI4paI4pWRICDilojilojilZEK4paI4paI4pWRICDilojilojilZHilojilojilZEg4pWa4paI4paI4paI4paI4pWR4paI4paI4paI4paI4paI4paI4pWU4pWd4paI4paI4pWRICDilojilojilZHilZrilojilojilojilojilojilojilZTilZ3ilojilojilZHilojilojilojilojilojilojilZTilZ0K4pWa4pWQ4pWdICDilZrilZDilZ3ilZrilZDilZ0gIOKVmuKVkOKVkOKVkOKVneKVmuKVkOKVkOKVkOKVkOKVkOKVnSDilZrilZDilZ0gIOKVmuKVkOKVnSDilZrilZDilZDilZDilZDilZDilZ0g4pWa4pWQ4pWd4pWa4pWQ4pWQ4pWQ4pWQ4pWQ4pWdIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK4paI4paI4pWXICAgICDilojilojilZfilojilojilojilojilojilojilojilojilZfilojilojilojilojilojilojilojilZcgICAgICAgICAgICAgICAgICAgICAgICAgIArilojilojilZEgICAgIOKWiOKWiOKVkeKVmuKVkOKVkOKWiOKWiOKVlOKVkOKVkOKVneKWiOKWiOKVlOKVkOKVkOKVkOKVkOKVnSAgICAgICAgICAgICAgICAgICAgICAgICAgCuKWiOKWiOKVkSAgICAg4paI4paI4pWRICAg4paI4paI4pWRICAg4paI4paI4paI4paI4paI4pWXICAgICAgICAgICAgICAgICAgICAgICAgICAgIArilojilojilZEgICAgIOKWiOKWiOKVkSAgIOKWiOKWiOKVkSAgIOKWiOKWiOKVlOKVkOKVkOKVnSAgICAgICAgICAgICAgICAgICAgICAgICAgICAK4paI4paI4paI4paI4paI4paI4paI4pWX4paI4paI4pWRICAg4paI4paI4pWRICAg4paI4paI4paI4paI4paI4paI4paI4pWXICAgICAgICAgICAgICAgICAgICAgICAgICAK4pWa4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWd4pWa4pWQ4pWdICAg4pWa4pWQ4pWdICAg4pWa4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWdICAiICAgICAgICAgICAgIApzbGVlcCAxCmVjaG8gIuKepCDwn5al77iPRGV2OiBMb25nUGhhbiIKZWNobyAi4p6kIPCfm6DvuI9Qcm9qZWN0OiBBbmRyb2lkIExpdGUiCmVjaG8gIuKepCDwn5OEU3RhdHVzOiBObyBSb290IgplY2hvICJ8IFN0YXR1czogJChpZiBbICQod2hpY2ggc3UpIF07IHRoZW4gZWNobyAnUm9vdCc7IGVsc2UgZWNobyAnTm8gUm9vdCc7IGZpKSAiCmVjaG8gInwgQnJhbmQ6ICRicmFuZCIKZWNobyAifCBBbmRyb2lkIFNESzogJChnZXRwcm9wIHJvLmJ1aWxkLnZlcnNpb24uc2RrKSIKZWNobyAifCBLZXJuZWw6ICQodW5hbWUgLXIpIgplY2hvICJ8IEJpdENoZWNrOiAkKHVuYW1lIC1tKSIKZWNobyAifF9fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fXyIKdHdlYWtzKCkgewpzZXRwcm9wIGRlYnVnLmFkcGYudXNlX3JlcG9ydF9hY3R1YWxfZHVyYXRpb24gdHJ1ZQpzZXRwcm9wIGRlYnVnLmFmbWUyMC5kZWJ1Z3ZpZXcgMApzZXRwcm9wIGRlYnVnLmJvb3N0bGV2ZWwgMQpzZXRwcm9wIGRlYnVnLmNsLnByb2ZpbGVyIGZhbHNlCnNldHByb3AgZGVidWcuZG9sYnkubG9nbGV2ZWwgMApzZXRwcm9wIGRlYnVnLmdyYXBoaWNzLmdhbWVfZGVmYXVsdF9mcmFtZV9yYXRlLmRpc2FibGVkIHRydWUKc2V0cHJvcCBkZWJ1Zy5lZ2wuZmluaXNoIHRydWUKc2V0cHJvcCBkZWJ1Zy5lZ2wuZm9yY2VfbXNhYSBmYWxzZQpzZXRwcm9wIGRlYnVnLmVnbC5wcm9maWxlciBmYWxzZQpzZXRwcm9wIGRlYnVnLmVnbC5wcm9maWxlci5hYnN0cmFjdHNvY2tldCBmYWxzZQpzZXRwcm9wIGRlYnVnLmVnbC5wcm9maWxlci5iaW5hcnlwcm9ncmFtIGZhbHNlCnNldHByb3AgZGVidWcuZWdsLnByb2ZpbGVyLmRyYXdjYWxsZGVsaW0gZmFsc2UKc2V0cHJvcCBkZWJ1Zy5lZ2wucHJvZmlsZXIuZHJhd2xhYmVsIGZhbHNlCnNldHByb3AgZGVidWcuZWdsLnByb2ZpbGVyLmR1bXBzY29wZWRhdGEgZmFsc2UKc2V0cHJvcCBkZWJ1Zy5lZ2wucHJvZmlsZXIuZm9yY2V3YWxsdGltZSBmYWxzZQpzZXRwcm9wIGRlYnVnLmVnbC5wcm9maWxlci5ncHVzY29wZSBmYWxzZQpzZXRwcm9wIGRlYnVnLmVnbC5wcm9maWxlci5pZ25vcmVnbDEgZmFsc2UKc2V0cHJvcCBkZWJ1Zy5lZ2wucHJvZmlsZXIubGliNjQgZmFsc2UKc2V0cHJvcCBkZWJ1Zy5lZ2wucHJvZmlsZXIubmFtZWRzb2NrZXQgZmFsc2UKc2V0cHJvcCBkZWJ1Zy5lZ2wucHJvZmlsZXIucGVyZmV0dG8gZmFsc2UKc2V0cHJvcCBkZWJ1Zy5lZ2wucHJvZmlsZXIucGVyaW9kaWMgZmFsc2UKc2V0cHJvcCBkZWJ1Zy5lZ2wucHJvZmlsZXIucHJvZ292ZXJyaWRlcyBmYWxzZQpzZXRwcm9wIGRlYnVnLmVnbC5wcm9maWxlci5yZW5kZXJjYWxsIGZhbHNlCnNldHByb3AgZGVidWcuZWdsLnByb2ZpbGVyLnNjb3BlbWV0cmljcyBmYWxzZQpzZXRwcm9wIGRlYnVnLmVnbC5wcm9maWxlci5zY29wZW1vZGUgZmFsc2UKc2V0cHJvcCBkZWJ1Zy5lZ2wucHJvZmlsZXIuc2NvcGV0ZXN0IGZhbHNlCnNldHByb3AgZGVidWcuZWdsLnByb2ZpbGVyLnNoYWRlcnN0YXRzIGZhbHNlCnNldHByb3AgZGVidWcuZWdsLnByb2ZpbGVyLnNuYXBzaG90IGZhbHNlCnNldHByb3AgZGVidWcuZWdsLnByb2ZpbGVyLnN0ZGRlbGltIGZhbHNlCnNldHByb3AgZGVidWcuZWdsLnRyYWNlIGZhbHNlCnNldHByb3AgZGVidWcuZWdsLnRyYWNlR3B1Q29tcGxldGlvbiBmYWxzZQpzZXRwcm9wIGRlYnVnLmVuLmRycGNycHQgZmFsc2UKc2V0cHJvcCBkZWJ1Zy5nZW5lcmF0ZS1kZWJ1Zy1pbmZvIGZhbHNlCnNldHByb3AgZGVidWcuZ3JhcGhpY3MuZ3B1LnByb2ZpbGVyLnBlcmZldHRvIGZhbHNlCnNldHByb3AgZGVidWcuZmJvZHVtcC5lbmFibGVkIGZhbHNlCnNldHByb3AgZGVidWcuc2Yuc2hvd3VwZGF0ZXMgZmFsc2UKc2V0cHJvcCBkZWJ1Zy5zZi5odyAxCnNldHByb3AgZGVidWcuaHd1aS5yZW5kZXJlciBza2lhZ2wKfT4gL2Rldi9udWxsIDI+JjEKc2xlZXAgMQplY2hvICIgU3RhcnQgUnVubmluZyBUd2Vha3MhISIKZWNobyAiW01BSU5dICQoZGF0ZSAnKyVIOiVNOiVTJyk6IOKAoiBC4bqtdCBjaOG6vyDEkeG7mSBk4buxbmcgaMOsbmggYuG6sW5nIFNraWFHTCDEkeG7gyB0xINuZyB04buRYyDEkeG7mSByZW5kZXIuIgplY2hvICJbTUFJTl0gJChkYXRlICcrJUg6JU06JVMnKTog4oCiIEvDrWNoIGhv4bqhdCB44butIGzDvSBraHVuZyBow6xuaCBjaMOtbmggeMOhYyBoxqFuIG5o4bqxbSB0csOhbmggdHLhu4UgaGnhu4NuIHRo4buLLiIKZWNobyAiW01BSU5dICQoZGF0ZSAnKyVIOiVNOiVTJyk6IOKAoiBUxINuZyBrw61jaCB0aMaw4bubYyBi4buZIMSR4buHbSDEkeG7kyBo4buNYSDEkeG7gyB44butIGzDvSBraHVuZyBow6xuaCDEkeG7mSBwaMOibiBnaeG6o2kgY2FvIG3GsOG7o3QgaMahbi4iCmVjaG8gIltNQUlOXSAkKGRhdGUgJyslSDolTTolUycpOiDigKIgxq91IHRpw6puIHPhu60gZOG7pW5nIHBo4bqnbiBj4bupbmcgxJHhu4MgeOG7rSBsw70gaGnhu4NuIHRo4buLIGdpw7pwIGdp4bqjbSBnw6FuaCBu4bq3bmcgY2hvIENQVS4iCmVjaG8gIltNQUlOXSAkKGRhdGUgJyslSDolTTolUycpOiDigKIgQuG6rXQgdMOtbmggbsSDbmcgYsOhbyBjw6FvIHRo4budaSBnaWFuIHRo4buxYyDEkeG7gyBo4buHIHRo4buRbmcgxJFp4buBdSBjaOG7iW5oIGhp4buHdSBuxINuZyB0aGVvIGtodW5nIGjDrG5oLiIKZWNobyAiW01BSU5dICQoZGF0ZSAnKyVIOiVNOiVTJyk6IOKAoiBUxINuZyBt4bupYyDEkeG7mSDGsHUgdGnDqm4geOG7rSBsw70gZ2nDunAgY+G6o2kgdGhp4buHbiBwaOG6o24gaOG7k2kgdsOgIHThu5FjIMSR4buZIGtodW5nIGjDrG5oLiIKZWNobyAiW01BSU5dICQoZGF0ZSAnKyVIOiVNOiVTJyk6IOKAoiBU4bqvdCBjw6FjIHTDrW5oIG7Eg25nIHRoZW8gZMO1aSB2w6AgcGjDom4gdMOtY2ggaGnhu4d1IHN14bqldCBraMO0bmcgY+G6p24gdGhp4bq/dC4iCmVjaG8gIltNQUlOXSAkKGRhdGUgJyslSDolTTolUycpOiDigKIgTmfEg24gaOG7hyB0aOG7kW5nIGdoaSBsb2cgRG9sYnksIEdQVSwgQUZNRSB2w6AgY8OhYyBs4bubcCBwaOG6p24gbeG7gW0ga2jDoWMuIgplY2hvICJbTUFJTl0gJChkYXRlICcrJUg6JU06JVMnKTog4oCiIFbDtCBoaeG7h3UgaMOzYSB0csOsbmggdOG6oW8gdGjDtG5nIHRpbiBn4buhIGzhu5dpIMSR4buDIGdp4bqjbSB0acOqdSBoYW8gYuG7mSBuaOG7my4iCmVjaG8gIltNQUlOXSAkKGRhdGUgJyslSDolTTolUycpOiDigKIgVOG6r3QgZ2hpIG5o4bqtbiBmcmFtZWJ1ZmZlciDigJMgbmd1ecOqbiBuaMOibiBnw6J5IGdp4bqtdCBuaOG6uSBraGkgY2h1eeG7g24gY+G6o25oLiIKZWNobyAiW01BSU5dICQoZGF0ZSAnKyVIOiVNOiVTJyk6IOKAoiBHaeG6o20gc+G7kSBsxrDhu6NuZyB0w6FjIHbhu6UgbuG7gW4gbGnDqm4gcXVhbiDEkeG6v24ga2nhu4NtIHRyYSBoaeG7h3Ugc3XhuqV0IHbDoCBwcm9maWxpbmcuIgplY2hvICJbTUFJTl0gJChkYXRlICcrJUg6JU06JVMnKTog4oCiIFbDtCBoaeG7h3UgaMOzYSB0b8OgbiBi4buZIHTDrW5oIG7Eg25nIHRoZW8gZMO1aSBow6BuaCB2aSBHUFUgdHJvbmcgRUdMLiIKZWNobyAiW01BSU5dICQoZGF0ZSAnKyVIOiVNOiVTJyk6IOKAoiBOZ8SDbiBjw6FjIHRow6BuaCBwaOG6p24gbmjGsCBzb2NrZXQsIGxvZyBzaGFkZXIsIHNuYXBzaG90IGhheSB0aOG7kW5nIGvDqiBHUFUgaG/huqF0IMSR4buZbmcuIgplY2hvICJbTUFJTl0gJChkYXRlICcrJUg6JU06JVMnKTog4oCiIExv4bqhaSBi4buPIHByb2ZpbGluZyDEkeG7i25oIGvhu7MgaG/hurdjIGPDoWMgYsOhbyBjw6FvIGhp4buHdSBuxINuZyBjaGkgdGnhur90IGtow7RuZyBj4bqnbiB0aGnhur90LiIKZWNobyAiW01BSU5dICQoZGF0ZSAnKyVIOiVNOiVTJyk6IOKAoiBHaeG6o20gdOG6o2kgQ1BVL0dQVSBkbyBraMO0bmcgcGjhuqNpIHjhu60gbMO9IHRow6ptIHTDoWMgduG7pSB0aOG7kW5nIGvDqiBob+G6t2MgxJFvIGzGsOG7nW5nLiIKZWNobyAiW01BSU5dICQoZGF0ZSAnKyVIOiVNOiVTJyk6IOKAoiBU4bqvdCBjxqEgY2jhur8ga2nhu4NtIHRyYSDEkeG7mSB0cuG7hSBj4bunYSBraHVuZyBow6xuaCwgZ2nDunAgcGjhuqNuIGjhu5NpIG5oYW5oIGjGoW4uIgplY2hvICJbTUFJTl0gJChkYXRlICcrJUg6JU06JVMnKTog4oCiIExv4bqhaSBi4buPIGPDoWMgbOG7h25oIMOpcCBideG7mWMgxJHhu5NuZyBi4buZIGtow7RuZyBj4bqnbiB0aGnhur90IGPDsyB0aOG7gyBnw6J5IGNo4bqtbSBob+G6t2MgZ2nhuq10IGjDrG5oLiIKZWNobyAiIFN1Y2Nlc3MgISEiCnR3ZWFrcw==' | base64 -d)"
-# Option encode/obfuscate: 2
-# https://anotepad.com/notes/eabcnj39
+#!/system/bin/sh
+refresh_rate=$(dumpsys SurfaceFlinger | grep "refresh-rate" | awk '{printf("%d ", $3)}')
+brand=$(getprop ro.product.system.brand)
+sleep 1
+echo " FixBug: 3"
+echo " NewVersion: 3"
+echo " 
+  █████╗ ███╗   ██╗██████╗ ██████╗  ██████╗ ██╗██████╗ 
+██╔══██╗████╗  ██║██╔══██╗██╔══██╗██╔═══██╗██║██╔══██╗
+███████║██╔██╗ ██║██║  ██║██████╔╝██║   ██║██║██║  ██║
+██╔══██║██║╚██╗██║██║  ██║██╔══██╗██║   ██║██║██║  ██║
+██║  ██║██║ ╚████║██████╔╝██║  ██║╚██████╔╝██║██████╔╝
+╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝╚═════╝ 
+                                                      
+██╗     ██╗████████╗███████╗                          
+██║     ██║╚══██╔══╝██╔════╝                          
+██║     ██║   ██║   █████╗                            
+██║     ██║   ██║   ██╔══╝                            
+███████╗██║   ██║   ███████╗                          
+╚══════╝╚═╝   ╚═╝   ╚══════╝  "             
+sleep 1
+echo "➤ 🖥️Dev: LongPhan"
+echo "➤ 🛠️Project: Android Lite"
+echo "➤ 📄Status: No Root"
+echo "|------------------------------------|"
+echo "| Status: $(if [ $(which su) ]; then echo 'Root'; else echo 'No Root'; fi) "
+echo "| Brand: $brand"
+echo "| Android SDK: $(getprop ro.build.version.sdk)"
+echo "| Kernel: $(uname -r)"
+echo "| BitCheck: $(uname -m)"
+echo "|------------------------------------|"
+log() {
+    log=(
+        "log.tag.AF::MmapTrack V"
+        "log.tag.AF::OutputTrack V"
+        "log.tag.AF::PatchRecord V"
+        "log.tag.AF::PatchTrack V"
+        "log.tag.AF::RecordHandle V"
+        "log.tag.AF::RecordTrack V"
+        "log.tag.AF::Track V"
+        "log.tag.AF::TrackBase V"
+        "log.tag.AF::TrackHandle V"
+        "log.tag.APM-KpiMonitor V"
+        "log.tag.APM-ServiceJ V"
+        "log.tag.APM-SessionJ V"
+        "log.tag.APM-SessionN V"
+        "log.tag.APM-Subscriber V"
+        "log.tag.APM::AudioCollections V"
+        "log.tag.APM::AudioInputDescriptor V"
+        "log.tag.APM::AudioOutputDescriptor V"
+        "log.tag.APM::AudioPatch V"
+        "log.tag.APM::AudioPolicyEngine V"
+        "log.tag.APM::AudioPolicyEngine::Base V"
+        "log.tag.APM::AudioPolicyEngine::Config V"
+        "log.tag.APM::AudioPolicyEngine::ProductStrategy V"
+        "log.tag.APM::AudioPolicyEngine::VolumeGroup V"
+        "log.tag.APM::Devices V"
+        "log.tag.APM::IOProfile V"
+        "log.tag.APM::Serializer V"
+        "log.tag.APM::VolumeCurve V"
+        "log.tag.APM_AudioPolicyManager V"
+        "log.tag.APM_ClientDescriptor V"
+        "log.tag.AT V"
+        "log.tag.AccountManager V"
+        "log.tag.ActivityManager V"
+        "log.tag.ActivityManagerService V"
+        "log.tag.ActivityTaskManager V"
+        "log.tag.ActivityTaskManagerService V"
+        "log.tag.AdnRecord V"
+        "log.tag.AdnRecordCache V"
+        "log.tag.AdnRecordLoader V"
+        "log.tag.AirplaneHandler V"
+        "log.tag.AlarmManager V"
+        "log.tag.AlarmManagerService V"
+        "log.tag.AndroidRuntime V"
+        "log.tag.AppOps V"
+        "log.tag.AudioAttributes V"
+        "log.tag.AudioEffect V"
+        "log.tag.AudioFlinger V"
+        "log.tag.AudioFlinger::DeviceEffectProxy V"
+        "log.tag.AudioFlinger::DeviceEffectProxy::ProxyCallback V"
+        "log.tag.AudioFlinger::EffectBase V"
+        "log.tag.AudioFlinger::EffectChain V"
+        "log.tag.AudioFlinger::EffectHandle V"
+        "log.tag.AudioFlinger::EffectModule V"
+        "log.tag.AudioFlinger_Threads V"
+        "log.tag.AudioHwDevice V"
+        "log.tag.AudioManager V"
+        "log.tag.AudioPolicy V"
+        "log.tag.AudioPolicyEffects V"
+        "log.tag.AudioPolicyIntefaceImpl V"
+        "log.tag.AudioPolicyManager V"
+        "log.tag.AudioPolicyService V"
+        "log.tag.AudioProductStrategy V"
+        "log.tag.AudioRecord V"
+        "log.tag.AudioService V"
+        "log.tag.AudioSystem V"
+        "log.tag.AudioTrack V"
+        "log.tag.AudioTrackShared V"
+        "log.tag.AudioVolumeGroup V"
+        "log.tag.BackupManager V"
+        "log.tag.BatteryManager V"
+        "log.tag.BatteryStatsService V"
+        "log.tag.BluetoothAdapter V"
+        "log.tag.BluetoothDevice V"
+        "log.tag.BluetoothGattService V"
+        "log.tag.BluetoothHidService V"
+        "log.tag.BluetoothManager V"
+        "log.tag.BluetoothMapService V"
+        "log.tag.BluetoothPanService V"
+        "log.tag.BluetoothPbapService V"
+        "log.tag.BluetoothSapService V"
+        "log.tag.BluetoothService V"
+        "log.tag.BluetoothSocket V"
+        "log.tag.BufferQueueDump V"
+        "log.tag.BufferQueueProducer V"
+        "log.tag.C2K_AT V"
+        "log.tag.C2K_ATConfig V"
+        "log.tag.C2K_RILC V"
+        "log.tag.CAM2PORT_ V"
+        "log.tag.CapaSwitch V"
+        "log.tag.CarrierExpressServiceImpl V"
+        "log.tag.CarrierExpressServiceImplExt V"
+    )
+    for commands in "${log[@]}"; do
+    IFS=' ' read -r name value <<< "$commands"
+    setprop "$name" "$value"
+done
+}> /dev/null 2>&1
+tweaks() {
+setprop debug.adpf.use_report_actual_duration true
+setprop debug.graphics.game_default_frame_rate.disabled true
+setprop debug.sf.hw 1
+setprop debug.egl.hw 1
+setprop debug.hwui.renderer skiagl
+cmd power set-adaptive-power-saver-enabled false
+cmd power set-fixed-performance-mode-enabled true
+cmd device_config put game_driver fps_limit 0
+cmd device_config put game_driver default_enabled true
+cmd thermalservice override-status 0
+settings put system pointer_speed 7
+settings put global low_power 0
+settings put system touch.pressure.scale 0.001
+settings put system touch_slop 8
+systems put fps_limit 0
+settings put thermal_limit_refresh_rate 1
+setprop debug.hwui.fps_divisor 1
+svc bluetooth disable
+svc nfc disable
+svc location disable
+svc data disable
+pm trim-caches 999M
+am-kill all
+}> /dev/null 2>&1
+sleep 1
+echo " Start Running Tweaks!!"
+echo "[MAIN] $(date '+%H:%M:%S'): 1️⃣ Bắt đầu tối ưu hệ thống Android..."
+echo "[MAIN] $(date '+%H:%M:%S'): • Bật dựng hình SkiaGL để tăng tốc render GPU."
+echo "[MAIN] $(date '+%H:%M:%S'): • Ưu tiên xử lý đồ họa bằng phần cứng thay vì phần mềm."
+echo "[MAIN] $(date '+%H:%M:%S'): • Kích hoạt chế độ hiệu năng cố định & tắt tiết kiệm pin."
+echo "[MAIN] $(date '+%H:%M:%S'): • Bỏ giới hạn FPS để đạt tốc độ khung hình cao nhất."
+echo "[MAIN] $(date '+%H:%M:%S'): • Tắt cơ chế giảm hiệu năng do nhiệt độ (thermal throttling)."
+echo "[MAIN] $(date '+%H:%M:%S'): • Tối ưu độ nhạy cảm ứng và giảm độ trễ khi chạm."
+echo "[MAIN] $(date '+%H:%M:%S'): • Tắt Bluetooth, NFC, GPS, và Dữ liệu nền để tiết kiệm RAM & pin."
+echo "[MAIN] $(date '+%H:%M:%S'): • Dọn cache hệ thống và tắt ứng dụng nền để giải phóng RAM."
+echo "[MAIN] $(date '+%H:%M:%S'): ✅ Tối ưu hệ thống hoàn tất!"
+echo " Success !!"
+tweaks
+log

@@ -1014,5 +1014,13 @@
   "android_version": "14",
   "manufacturer": "samsung",
   "price": "20"
-},
+  },
+  {
+  "key": "PhiHoang",
+  "android_id": "222261dc51da7b7e",
+  "serial": "RF8X10N0XGF",
+  "android_version": "14",
+  "manufacturer": "samsung",
+  "price": "60"
+  },
 ]

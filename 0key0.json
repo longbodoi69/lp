@@ -1023,12 +1023,4 @@
   "manufacturer": "samsung",
   "price": "60"
   },
-  {
-  "key": "MinhVu",
-  "android_id": "9c1ad5d9cb9f629e",
-  "serial": "10AE6U0MNN00109",
-  "android_version": "14",
-  "manufacturer": "vivo",
-  "price": "250"
-  },
 ]

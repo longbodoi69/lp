@@ -1023,4 +1023,12 @@
   "manufacturer": "samsung",
   "price": "60"
   },
+  {
+  "key": "VanTai",
+  "android_id": "f7c85c9f26d8e8dc",
+  "serial": "1187437476001266",
+  "android_version": "13",
+  "manufacturer": "TECNO",
+  "price": "20"
+  },
 ]

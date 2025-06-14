@@ -1039,4 +1039,12 @@
   "manufacturer": "Xiaomi",
   "price": "100"
   },
+  {
+  "key": "ThanhTan",
+  "android_id": "215eda8910763cd1",
+  "serial": "R58TA024GJF",
+  "android_version": "14",
+  "manufacturer": "samsung",
+  "price": "250"
+  },
 ]

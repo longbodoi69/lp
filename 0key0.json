@@ -1031,4 +1031,12 @@
   "manufacturer": "TECNO",
   "price": "20"
   },
+  {
+  "key": "VanHoa",
+  "android_id": "8a71ba9fabec58de",
+  "serial": "132a78b60013",
+  "android_version": "13",
+  "manufacturer": "Xiaomi",
+  "price": "100"
+  },
 ]

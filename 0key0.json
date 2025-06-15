@@ -1047,4 +1047,12 @@
   "manufacturer": "samsung",
   "price": "250"
   },
+  {
+  "key": "BuiThiLoan",
+  "android_id": "9049610c77d14020",
+  "serial": "d4eccaf3",
+  "android_version": "15",
+  "manufacturer": "Xiaomi",
+  "price": "50"
+  },
 ]

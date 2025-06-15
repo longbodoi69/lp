@@ -1063,4 +1063,12 @@
   "manufacturer": "vivo",
   "price": "100"
   },
+  {
+  "key": "DucKien",
+  "android_id": "7203bd6edc31a5d5",
+  "serial": "1509132410JA03D5",
+  "android_version": "11",
+  "manufacturer": "realme",
+  "price": "20"
+},
 ]

@@ -1055,4 +1055,12 @@
   "manufacturer": "Xiaomi",
   "price": "50"
   },
+  {
+  "key": "NgocHang",
+  "android_id": "4c399e59d0f7bff",
+  "serial": "3406682993000RT",
+  "android_version": "13",
+  "manufacturer": "vivo",
+  "price": "100"
+  },
 ]

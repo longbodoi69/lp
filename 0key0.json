@@ -1070,5 +1070,13 @@
   "android_version": "11",
   "manufacturer": "realme",
   "price": "20"
-},
+  },
+  {
+  "key": "NgocBao",
+  "android_id": "2d514d57a98d2f5a",
+  "serial": "IBGYQ4N7F64PDEGQ",
+  "android_version": "10",
+  "manufacturer": "OPPO",
+  "price": "60"
+  },
 ]

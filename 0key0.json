@@ -1095,4 +1095,12 @@
   "manufacturer": "Xiaomi",
   "price": "50"
   },
+  {
+  "key": "QuocBaoLL",
+  "android_id": "54b043de97e89199",
+  "serial": "BGE00108438",
+  "android_version": "11",
+  "manufacturer": "vsmart",
+  "price": "20"
+  },
 ]

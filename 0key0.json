@@ -1103,4 +1103,12 @@
   "manufacturer": "vsmart",
   "price": "20"
   },
+  {
+  "key": "BaoKhanh",
+  "android_id": "cf61dcafc653d7d9",
+  "serial": "SCIZ5PGMKFDY65JZ",
+  "android_version": "15",
+  "manufacturer": "Xiaomi",
+  "price": "50"
+  },
 ]

@@ -93,7 +93,7 @@ settings put secure default_refresh_rate "$refresh_rate"
 settings put secure refresh_default_rate "$refresh_rate"
 settings put secure NV_FPSLIMIT "$refresh_rate"
 settings put system display_refresh_rate "$refresh_rate"
-setting put system max_refresh_rate_for_gaming "$refresh_rate"
+settings put system max_refresh_rate_for_gaming "$refresh_rate"
 setprop debug.fps.target "$refresh_rate"
 setprop debug.egl.frame_rate "$refresh_rate"
 

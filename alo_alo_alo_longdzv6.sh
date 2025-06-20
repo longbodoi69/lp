@@ -611,8 +611,6 @@ tweaks() {
        "debug.hwui.use_threaded_renderer true"
        "debug.hwui.use_threaded_renderer true"
        "debug.sf.enable_adpf_cpu_hint true"
-       "debug.sf.auto_latch_unsignaled 0"
-       "debug.sf.latch_unsignaled 1"
        "debug.graphics.game_default_frame_rate.disabled true"
     )
     msaa=(
@@ -910,6 +908,7 @@ apply_vsync2
 apply_vsync3
 apply_ram_plus
 SurfaceFlinger
+
 echo "[WARNING] $(date '+%H:%M:%S'): All Tweaks Success"
 echo " Tác dụng thực tế game: đầm Tâm, giảm rung, nhẹ tâm, tối ưu, giảm lag, tăng mượt, tăng phản hồi, cải thiện giật lag"
 echo "[WARNING] $(date '+%H:%M:%S'): Vui lòng khởi động lại để có tác dụng"

@@ -1110,5 +1110,13 @@
   "android_version": "13",
   "manufacturer": "samsung",
   "price": "300"
-},
+  },
+  {
+  "key": "GiaLac",
+  "android_id": "ec108f10fc902626",
+  "serial": "f4f7ecd3",
+  "android_version": "15",
+  "manufacturer": "Xiaomi",
+  "price": "20"
+  },
 ]

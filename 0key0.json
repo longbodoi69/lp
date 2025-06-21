@@ -1127,4 +1127,12 @@
   "manufacturer": "OPPO",
   "price": "50"
   },
+  {
+  "key": "QuangVinhdz",
+  "android_id": "ca1149f1f706f446",
+  "serial": "RFCX7169B0N",
+  "android_version": "14",
+  "manufacturer": "samsung",
+  "price": "200"
+  },
 ]

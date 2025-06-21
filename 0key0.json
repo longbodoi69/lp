@@ -1103,4 +1103,12 @@
   "manufacturer": "Xiaomi",
   "price": "150"
   },
+  {
+  "key": "NguyenTam",
+  "android_id": "bb303a8a39750ed3",
+  "serial": "R58N734Y20F",
+  "android_version": "13",
+  "manufacturer": "samsung",
+  "price": "150"
+},
 ]

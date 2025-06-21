@@ -1119,4 +1119,12 @@
   "manufacturer": "Xiaomi",
   "price": "20"
   },
+  {
+  "key": "ThienPhudz",
+  "android_id": "d9a315bafc87b646",
+  "serial": "27c8cdd0",
+  "android_version": "15",
+  "manufacturer": "OPPO",
+  "price": "50"
+  },
 ]

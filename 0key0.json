@@ -1135,4 +1135,12 @@
   "manufacturer": "samsung",
   "price": "200"
   },
+  {
+  "key": "HoangDu",
+  "android_id": "9e0cd95c76b7f130",
+  "serial": "R7AWA05Q9EF",
+  "android_version": "14",
+  "manufacturer": "samsung",
+  "price": "20"
+  },
 ]

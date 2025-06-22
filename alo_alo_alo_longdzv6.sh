@@ -590,12 +590,20 @@ tweaks() {
        "debug.sf.hw 1"
        "debug.egl.hw 1"
        "debug.perf.tuning 1"
+       "debug.cpuprio 7"
+       "debug.gpuprio 7"
+       "debug.ioprio 7"
+       "debug.gralloc.disable_afbc 0"
        "debug.rs.use_fast_math 1"
-       "debug.sf.swapinterval 0"
+       "debug.egl.swapinterval 0"
+       "debug.gr.swapinterval 0"
+       "debug.sf.disable_hwc_vds 1"
        "debug.hwui.fps_divisor 1"
        "debug.overlayui.enable 1"
        "debug.composition.type c2d"
        "debug.composition.type gpu"
+       "debug.hwui.target_cpu_time_percent 100"
+       "debug.hwui.target_gpu_time_percent 100"
        "debug.qualcomm.sns.daemon 0"
        "debug.qualcomm.sns.hal 0"
        "debug.qualcomm.sns.libsensor1 0"
@@ -611,7 +619,10 @@ tweaks() {
        "debug.hwui.use_threaded_renderer true"
        "debug.hwui.use_threaded_renderer true"
        "debug.sf.enable_adpf_cpu_hint true"
+       "debug.sf.fp16_client_target 0"
+       "debug.hwui.use_hint_manager true"
        "debug.graphics.game_default_frame_rate.disabled true"
+       "debug.sf.latch_unsignaled 1"
     )
     msaa=(
         "debug.egl.force_msaa 0"
@@ -677,17 +688,12 @@ tweaks() {
         "low_power 0"
         "miui_cpu_model 2"
         "cached_apps_freezer enable"
-        "gfx_quality low"
-        "render_quality low"
-        "shadow_quality disable"
-        "texture_quality low"
-        "effects_quality low"
-        "graphics_quality low"
-        "lights_quality low"
-        "hader_quality low"
     )
     system=(
+        "POWER_BALANCED_MODE_OPEN 0"
+        "POWER_SAVE_MODE_OPEN 0"
         "POWER_PERFORMANCE_MODE_OPEN 1"
+        "speed_mode 1"
     )
     secure=(
         "high_priority 1"
@@ -698,30 +704,13 @@ tweaks() {
         "dalvik.vm.dex2oat-minidebuginfo false"
         "dalvik.vm.minidebuginfo false"
     )
-    touch_boost=( 
-        "dev.pm.dyn_samplingrate 0"
-        "debug.sf.layer_smoothness 0"
-        "debug.tracing.block_touch_buffer 0"
-    )
     cmd=(
         "set-adaptive-power-saver-enabled false"
         "set-fixed-performance-mode-enabled true"
     )
-    touch_sensi=(
-        "debug.min.fling_velocity 25000"
-        "debug.max.fling_velocity 25000"
-    )
     for commands in "${cmd[@]}"; do
     IFS=' ' read -r key value <<< "$commands"
     cmd power "$key" "$value"
-done
-    for commands in "${touch_sensi[@]}"; do
-    IFS=' ' read -r key value <<< "$commands"
-    setprop "$key" "$value"
-done
-    for commands in "${touch_boost@]}"; do
-    IFS=' ' read -r key value <<< "$commands"
-    setprop "$key" "$value"
 done
     for commands in "${cache[@]}"; do
     IFS=' ' read -r name value <<< "$commands"
@@ -760,18 +749,10 @@ done
     setprop "$name" "$value"
 done
     
-if [ -n "$(getprop ro.hardware.vulkan)" ]; then
-    renderer="skiavk" 
-    setprop ro.hardware.vulkan adreno
-elif [ -n "$(getprop ro.hardware.opengl)" ]; then
-    renderer="skiagl"
-else
-    renderer="skiagl"
-fi
-
-setprop debug.hwui.renderer "$renderer"
-setprop debug.gpu.renderer "$renderer"
-setprop debug.renderengine.backend skiagputhreaded
+setprop debug.hwui.renderer skiagl
+setprop debug.gpu.renderer skiagl
+setprop debug.renderengine.backend skiaglthreaded
+setprop debug.angle.overlay FPS:Skiagl*PipelineCache*
 setprop debug.composition.7x27A.type gpu
 setprop debug.composition.7x25A.type gpu
 
@@ -788,8 +769,8 @@ else
 echo "Thiết bị không hỗ trợ"
 fi
 
-device_config put game_overlay com.dts.freefireth mode=2,"$renderer"=true,fps="$refresh_rate",downscaleFactor=0.1,vsync=false,touchboost=1,gpuboost=3,gpuboost=3
-device_config put game_overlay com.dts.freefiremax mode=2,"$renderer"=true,fps="$refresh_rate",downscaleFactor=0.1,vsync=false,touchboost=1,gpuboost=3,gpuboost=3
+device_config put game_overlay com.dts.freefireth mode=2,angle=true,fps="$refresh_rate",downscaleFactor=0.1,loadingBoost=999999999
+device_config put game_overlay com.dts.freefiremax mode=2,angle=true,fps="$refresh_rate",downscaleFactor=0.1,loadingBoost=999999999
 
 cmd package compile -m speed-profile -f com.android.systemui
 cmd package compile -m speed-profile -f com.dts.freefiremax

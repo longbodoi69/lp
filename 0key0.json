@@ -257,7 +257,7 @@
   },
   {
     "key": "VuThiQuyen",
-    "android_id": "6cb2df08ce938479",
+    "android_id": "e57593203dc10062",
     "serial": "34002873860014S",
     "android_version": "12",
     "manufacturer": "Vivo",
@@ -265,7 +265,7 @@
   },
   {
     "key": "VuThiQuyen2",
-    "android_id": "6cb2df08ce938479",
+    "android_id": "e57593203dc10062",
     "serial": "34002873860014S",
     "android_version": "12",
     "manufacturer": "Vivo",
@@ -299,7 +299,7 @@
     "key": "AnhKietNguVcl",
     "android_id": "6ae334cba70ebdfa",
     "serial": "10HEC9F0YS000A1",
-    "android_version": "14",
+    "android_version": "15",
     "manufacturer": "vivo",
     "price": "250"
   },

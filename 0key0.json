@@ -1133,7 +1133,7 @@
   "serial": "RFCX7169B0N",
   "android_version": "14",
   "manufacturer": "samsung",
-  "price": "200"
+  "price": "300"
   },
   {
   "key": "HoangDu",
@@ -1143,4 +1143,5 @@
   "manufacturer": "samsung",
   "price": "20"
   },
+  
 ]

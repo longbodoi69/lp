@@ -1143,5 +1143,12 @@
   "manufacturer": "samsung",
   "price": "20"
   },
-  
+  {
+  "key": "GiaHung",
+  "android_id": "153ebd88bdc671e1",
+  "serial": "R9JN40L083J",
+  "android_version": "12",
+  "manufacturer": "samsung",
+  "price": "20"
+  },
 ]

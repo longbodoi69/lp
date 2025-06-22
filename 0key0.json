@@ -1151,4 +1151,12 @@
   "manufacturer": "samsung",
   "price": "20"
   },
+  {
+  "key": "HaiDang",
+  "android_id": "800877cf4783445",
+  "serial": "R93WA04A9KZ",
+  "android_version": "14",
+  "manufacturer": "samsung",
+  "price": "150"
+  },
 ]

@@ -1167,4 +1167,12 @@
   "manufacturer": "samsung",
   "price": "20"
   },
+  {
+  "key": "MiSang",
+  "android_id": "e808bf08d520a224",
+  "serial": "R9JN40HD3NJ",
+  "android_version": "12",
+  "manufacturer": "samsung",
+  "price": "50"
+},
 ]

@@ -1,4 +1,4 @@
-[
+ [
   {
     "key": "binh",
     "android_id": "4b46fddd26265d85",
@@ -1168,11 +1168,11 @@
   "price": "20"
   },
   {
-  "key": "MiSang",
+  "key": "MinhSang",
   "android_id": "e808bf08d520a224",
   "serial": "R9JN40HD3NJ",
   "android_version": "12",
   "manufacturer": "samsung",
   "price": "50"
-},
+  },
 ]

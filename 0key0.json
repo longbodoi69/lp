@@ -1159,4 +1159,12 @@
   "manufacturer": "samsung",
   "price": "150"
   },
+  {
+  "key": "GiaVi",
+  "android_id": "5e55144f2c4c6613",
+  "serial": "R58N827S1CK",
+  "android_version": "12",
+  "manufacturer": "samsung",
+  "price": "20"
+  },
 ]

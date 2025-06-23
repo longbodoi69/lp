@@ -1175,4 +1175,12 @@
   "manufacturer": "samsung",
   "price": "50"
   },
+  {
+  "key": "NgBao",
+  "android_id": "ec5f1b3a5d85f750",
+  "serial": "c5b158b37d73",
+  "android_version": "15",
+  "manufacturer": "Xiaomi",
+  "price": "150"
+},
 ]

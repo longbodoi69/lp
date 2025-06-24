@@ -1199,4 +1199,12 @@
   "manufacturer": "samsung",
   "price": "20"
   },
+  {
+  "key": "BuiLiu",
+  "android_id": "ea18d1679f476f56",
+  "serial": "RFCW41EG86B",
+  "android_version": "14",
+  "manufacturer": "samsung",
+  "price": "20"
+  },
 ]

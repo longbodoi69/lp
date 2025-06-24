@@ -1191,4 +1191,12 @@
   "manufacturer": "OPPO",
   "price": "300"
   },
+  {
+  "key": "MinhTien",
+  "android_id": "f742355fe3c8f532",
+  "serial": "R8YX70L8SMZ",
+  "android_version": "14",
+  "manufacturer": "samsung",
+  "price": "20"
+  },
 ]

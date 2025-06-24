@@ -1182,5 +1182,13 @@
   "android_version": "15",
   "manufacturer": "Xiaomi",
   "price": "150"
-},
+  },
+  {
+  "key": "KyserNgu ",
+  "android_id": "cce2d66cdbb06d75",
+  "serial": "c00df948",
+  "android_version": "11",
+  "manufacturer": "OPPO",
+  "price": "300"
+  },
 ]

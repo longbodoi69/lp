@@ -1215,4 +1215,12 @@
   "manufacturer": "samsung",
   "price": "50"
   },
+  {
+  "key": "HaiMinh",
+  "android_id": "c2e12804d70a3c06",
+  "serial": "d469e73a",
+  "android_version": "13",
+  "manufacturer": "Xiaomi",
+  "price": "20"
+  },
 ]

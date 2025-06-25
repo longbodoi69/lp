@@ -1207,4 +1207,12 @@
   "manufacturer": "samsung",
   "price": "20"
   },
+  {
+  "key": "HoangQuan",
+  "android_id": "82fdf73bae36a7e3",
+  "serial": "R59N10A07NY",
+  "android_version": "11",
+  "manufacturer": "samsung",
+  "price": "50"
+  },
 ]

@@ -1223,4 +1223,12 @@
   "manufacturer": "Xiaomi",
   "price": "20"
   },
+  {
+  "key": "NguyenThiLan",
+  "android_id": "36cda8e982800441",
+  "serial": "1B20293410CA1GV8",
+  "android_version": "11",
+  "manufacturer": "realme",
+  "price": "20"
+  },
 ]

@@ -1184,8 +1184,8 @@
   "price": "150"
   },
   {
-  "key": "KyserNgu",
-  "android_id": "b99f8309a1c8d641 ",
+  "key": "KyserDz",
+  "android_id": "b99f8309a1c8d641",
   "serial": "c00df948",
   "android_version": "11",
   "manufacturer": "OPPO",
@@ -1208,7 +1208,7 @@
   "price": "20"
   },
   {
-  "key": "HoangQuan",
+  "key": "HoangQuanDB",
   "android_id": "82fdf73bae36a7e3",
   "serial": "R59N10A07NY",
   "android_version": "11",

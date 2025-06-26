@@ -1247,4 +1247,12 @@
   "manufacturer": "Xiaomi",
   "price": "20"
   },
+  {
+  "key": "GiaTuong",
+  "android_id": "60362fadad0f9c23",
+  "serial": "454tyxucd6o7zdhe",
+  "android_version": "15",
+  "manufacturer": "Xiaomi",
+  "price": "50"
+  },
 ]

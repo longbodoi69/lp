@@ -1255,4 +1255,12 @@
   "manufacturer": "Xiaomi",
   "price": "50"
   },
+  {
+  "key": "NgKhoi",
+  "android_id": "707d178298c22c8b",
+  "serial": "R58T414TETE",
+  "android_version": "14",
+  "manufacturer": "samsung",
+  "price": "20"
+  },
 ]

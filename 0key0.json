@@ -1239,4 +1239,12 @@
   "manufacturer": "samsung",
   "price": "150"
   },
+  {
+  "key": "Khangxyz",
+  "android_id": "21fbcc6856d88b6c",
+  "serial": "459356d17d75",
+  "android_version": "14",
+  "manufacturer": "Xiaomi",
+  "price": "20"
+  },
 ]

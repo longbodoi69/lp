@@ -1263,4 +1263,12 @@
   "manufacturer": "samsung",
   "price": "20"
   },
+  {
+  "key": "NgCongDat",
+  "android_id": "6768d26055c48da5",
+  "serial": "RF8X30G9Y7H",
+  "android_version": "15",
+  "manufacturer": "samsung",
+  "price": "200"
+  },
 ]

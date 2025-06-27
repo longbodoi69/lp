@@ -1278,5 +1278,13 @@
   "android_version": "15",
   "manufacturer": "samsung",
   "price": "20"
-},
+  },
+  {
+  "key": "NhanCuBe",
+  "android_id": "f86b72a5b7e4928c",
+  "serial": "ba5b8368",
+  "android_version": "13",
+  "manufacturer": "Xiaomi",
+  "price": "150"
+  },
 ]

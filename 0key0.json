@@ -1271,4 +1271,12 @@
   "manufacturer": "samsung",
   "price": "200"
   },
+  {
+  "key": "QuangLinhxyz",
+  "android_id": "a374aa1f1d302123",
+  "serial": "R5CX72HLQWF",
+  "android_version": "15",
+  "manufacturer": "samsung",
+  "price": "20"
+},
 ]

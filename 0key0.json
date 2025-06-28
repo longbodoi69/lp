@@ -1295,4 +1295,12 @@
   "manufacturer": "OPPO",
   "price": "50"
   },
+  {
+  "key": "NguyenMinhQuan",
+  "android_id": "302d4b7c2a1c7dc2",
+  "serial": "10HD3J0AFZ000DX",
+  "android_version": "12",
+  "manufacturer": "vivo",
+  "price": "50"
+  },
 ]

@@ -1287,4 +1287,12 @@
   "manufacturer": "Xiaomi",
   "price": "150"
   },
+  {
+  "key": "PhanTanLoc",
+  "android_id": "f0f4ba327d977df6",
+  "serial": "GEXGQW99CI9LGE7X",
+  "android_version": "15",
+  "manufacturer": "OPPO",
+  "price": "50"
+  },
 ]

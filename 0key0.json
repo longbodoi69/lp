@@ -1310,5 +1310,13 @@
   "android_version": "15",
   "manufacturer": "samsung",
   "price": "20"
-},
+  },
+  {
+  "key": "MinhTruongxyz",
+  "android_id": "bcc5280485f8b7",
+  "serial": "RFCY40N7VLF",
+  "android_version": "15",
+  "manufacturer": "samsung",
+  "price": "300"
+  },
 ]

@@ -1303,4 +1303,12 @@
   "manufacturer": "vivo",
   "price": "50"
   },
+  {
+  "key": "QuangTrieuxyz",
+  "android_id": "2137fa814d955a7a",
+  "serial": "R5CY5217LSN",
+  "android_version": "15",
+  "manufacturer": "samsung",
+  "price": "20"
+},
 ]

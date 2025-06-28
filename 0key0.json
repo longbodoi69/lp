@@ -1319,4 +1319,12 @@
   "manufacturer": "samsung",
   "price": "300"
   },
+  {
+  "key": "BaHungXyz",
+  "android_id": "d5db4644416029ae",
+  "serial": "df473766",
+  "android_version": "15",
+  "manufacturer": "OPPO",
+  "price": "100"
+  },
 ]

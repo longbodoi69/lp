@@ -1327,4 +1327,12 @@
   "manufacturer": "OPPO",
   "price": "100"
   },
+  {
+  "key": "Long12345zyx",
+  "android_id": "d6b9009efb6b7f67",
+  "serial": "9fc1eccc",
+  "android_version": "12",
+  "manufacturer": "OPPO",
+  "price": "20"
+  },
 ]

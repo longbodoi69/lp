@@ -1335,4 +1335,12 @@
   "manufacturer": "OPPO",
   "price": "20"
   },
+  {
+  "key": "VanKhoixyz",
+  "android_id": "cd77bfcfabce1ea0",
+  "serial": "RF9NC00YRQN",
+  "android_version": "12",
+  "manufacturer": "samsung",
+  "price": "150"
+},
 ]

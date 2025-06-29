@@ -49,4 +49,9 @@
     "version": "Demo",
     "price": 0
   }
+  {
+   "name": "Uinstall",
+    "version": "1",
+    "price": 0
+  }
 ]

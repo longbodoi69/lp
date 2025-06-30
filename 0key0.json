@@ -1359,4 +1359,12 @@
   "manufacturer": "realme",
   "price": "20"
   },
+  {
+  "key": "NguyenBaDat" ,
+  "android_id": "391f34ce04cf2576",
+  "serial": "723134d8",
+  "android_version": "12",
+  "manufacturer": "OPPO",
+  "price": "100"
+  },
 ]

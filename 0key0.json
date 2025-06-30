@@ -1351,4 +1351,12 @@
   "manufacturer": "OPPO",
   "price": "20"
   },
+  {
+  "key": "PhamDucToan",
+  "android_id": "f8f3a515b8089f26",
+  "serial": "0N14207I23101FAA",
+  "android_version": "14",
+  "manufacturer": "realme",
+  "price": "20"
+  },
 ]

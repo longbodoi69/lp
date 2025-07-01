@@ -1391,4 +1391,12 @@
   "manufacturer": "samsung",
   "price": "20"
   },
+  {
+  "key": "DoTanDatxyz",
+  "android_id": "8a4a8c4e88a18a05",
+  "serial": "R58T32QK8PE",
+  "android_version": "13",
+  "manufacturer": "samsung",
+  "price": "50"
+  },
 ]

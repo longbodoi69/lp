@@ -1383,4 +1383,12 @@
   "manufacturer": "realme",
   "price": "50"
   },
+  {
+  "key": "VuTranDinhHai",
+  "android_id": "700605558e6ee9e4",
+  "serial": "RF8R91DPWCJ",
+  "android_version": "13",
+  "manufacturer": "samsung",
+  "price": "20"
+  },
 ]

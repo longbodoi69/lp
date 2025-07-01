@@ -1367,4 +1367,12 @@
   "manufacturer": "OPPO",
   "price": "100"
   },
+  {
+  "key": "NguyenTuanKiet",
+  "android_id": "768e5a18ab1b1194",
+  "serial": "PZEYHMJBPNH6VKS8",
+  "android_version": "14",
+  "manufacturer": "Xiaomi",
+  "price": "20"
+  },
 ]

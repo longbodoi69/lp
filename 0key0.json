@@ -1375,4 +1375,12 @@
   "manufacturer": "Xiaomi",
   "price": "20"
   },
+  {
+  "key": "DinhVanQuan",
+  "android_id": "8ea4dd1c21571ce2",
+  "serial": "e2a9ac28",
+  "android_version": "10",
+  "manufacturer": "realme",
+  "price": "50"
+  },
 ]

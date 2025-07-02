@@ -1399,4 +1399,12 @@
   "manufacturer": "samsung",
   "price": "50"
   },
+  {
+  "key": "NhatLongXyz",
+  "android_id": "b26eadf6ac549678",
+  "serial": "6a8c3ffa",
+  "android_version": "11",
+  "manufacturer": "OPPO",
+  "price": "50"
+  },
 ]

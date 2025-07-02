@@ -1407,4 +1407,12 @@
   "manufacturer": "OPPO",
   "price": "50"
   },
+  {
+  "key": "TanThinhabcd",
+  "android_id": "f79802ca84f1df3f",
+  "serial": "RF8X808YP9L",
+  "android_version": "15",
+  "manufacturer": "samsung",
+  "price": "20"
+  },
 ]

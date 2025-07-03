@@ -1415,4 +1415,12 @@
   "manufacturer": "samsung",
   "price": "20"
   },
+  {
+  "key": "DuyKhanhabc",
+  "android_id": "3534e0c8441e83d3",
+  "serial": "1B20293410CA1GHG",
+  "android_version": "11",
+  "manufacturer": "realme",
+  "price": "20"
+  },
 ]

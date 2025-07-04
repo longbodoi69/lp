@@ -1423,4 +1423,12 @@
   "manufacturer": "OPPO",
   "price": "20"
   },
+  {
+  "key": "DoanHuuLung",
+  "android_id": "513df83157f5e210",
+  "serial": "Q46XMV7HOZ7PDMFQ",
+  "android_version": "13",
+  "manufacturer": "Xiaomi",
+  "price": "50"
+  },
 ]

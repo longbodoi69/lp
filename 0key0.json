@@ -1415,4 +1415,12 @@
   "manufacturer": "realme",
   "price": "20"
   },
+  {
+  "key": "NguyenTrongBao",
+  "android_id": "d497d56e8c11dcac",
+  "serial": "5PJF7PPZAM794P8P",
+  "android_version": "11",
+  "manufacturer": "OPPO",
+  "price": "20"
+  },
 ]

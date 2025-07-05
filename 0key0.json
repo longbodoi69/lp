@@ -1431,4 +1431,12 @@
   "manufacturer": "Xiaomi",
   "price": "50"
   },
+  {
+  "key": "NguyenVuXYZ",
+  "android_id": "7123291be5d3174b",
+  "serial": "E6MZU8HILBWKHIZH",
+  "android_version": "11",
+  "manufacturer": "realme",
+  "price": "20"
+  },
 ]

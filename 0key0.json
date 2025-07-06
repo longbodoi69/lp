@@ -1447,4 +1447,12 @@
   "manufacturer": "Xiaomi",
   "price": "20"
   },
+  {
+  "key": "HuynhThucXyz",
+  "android_id": "3495203656341e85",
+  "serial": "db27821a",
+  "android_version": "15",
+  "manufacturer": "Xiaomi",
+  "price": "100"
+  },
 ]

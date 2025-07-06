@@ -1455,4 +1455,12 @@
   "manufacturer": "Xiaomi",
   "price": "100"
   },
+  {
+  "key": "PhuQuyXyz",
+  "android_id": "f425e277c94fb7eb",
+  "serial": "cen7wswsaqprxgon",
+  "android_version": "14",
+  "manufacturer": "Xiaomi",
+  "price": "20"
+  },
 ]

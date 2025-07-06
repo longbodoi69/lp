@@ -814,5 +814,5 @@ tweaks
 
 echo "[WARNING] $(date '+%H:%M:%S'): All Tweaks Success"
 echo "[WARNING] $(date '+%H:%M:%S'): Vui lòng khởi động lại để có tác dụng"
-echo "$(date '+%H:%M:%S'): Modules V3 Đã Chạy Thành Công" >> /sdcard/log.txt
+echo "$(date '+%H:%M:%S'): Modules V4 Đã Chạy Thành Công" >> /sdcard/log.txt
 cmd notification post -S bigtext -t '[WARNNING]: Vui lòng khởi động lại để có tác dụng ' 'Tag' 'Thanks'

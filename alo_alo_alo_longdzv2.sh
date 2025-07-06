@@ -7,7 +7,7 @@ hardware=$(getprop ro.hardware)
 brand=$(getprop ro.product.brand)
 sleep 1
 echo ""
-echo "🛠️Project Name: V1"
+echo "🛠️Project Name: V2"
 echo " 🖥️Developer: $dev"
 echo " 📄Status: $(if [ $(which su) ]; then echo 'Root'; else echo 'No Root'; fi) "
 sleep 1
@@ -654,49 +654,53 @@ for pkg in $packages; do
   cmd package compile -m speed-profile -f "$pkg"
 done
 }> /dev/null 2>&1
-echo " [ Sensitivity VIP ]"
+echo "[INFO] $(date '+%H:%M:%S'): Sensitivity VIP"
 sleep 1
-echo " [ Fix Delay VIP ] "
+echo "[INFO] $(date '+%H:%M:%S'): Fix Delay VIP "
 sleep 1
-echo " [ ON Fix Lag ]"
+echo "[INFO] $(date '+%H:%M:%S'): ON Fix Lag "
 sleep 1
-echo " [ Optimized Touch ]"
+echo "[INFO] $(date '+%H:%M:%S'): Optimized Touch "
 sleep 1
-echo " [ Disable LOG ]"
+echo "[INFO] $(date '+%H:%M:%S'): Disable LOG "
 sleep 1
-echo " [ Disable Vsync VIP ]"
+echo "[INFO] $(date '+%H:%M:%S'): Disable Vsync VIP "
 sleep 1
-echo " [ OFF Animation ]"
+echo "[INFO] $(date '+%H:%M:%S'): OFF Animation "
 sleep 1
-echo " [ Force Stop Anti-aliasing ] "
+echo "[INFO] $(date '+%H:%M:%S'): Force Stop Anti-aliasing  "
 sleep 1
-echo " [ Hight Performance VIP ]"
+echo "[INFO] $(date '+%H:%M:%S'): Hight Performance VIP "
 sleep 1
-echo " [ Boost CPU/GPU VIP ] "
+echo "[INFO] $(date '+%H:%M:%S'): Boost CPU/GPU VIP  "
 sleep 1
-echo " [ Smooth VIP ]"
+echo "[INFO] $(date '+%H:%M:%S'): Smooth VIP "
 sleep 1
-echo " [ Speed Up System and games ]"
+echo "[INFO] $(date '+%H:%M:%S'): Speed Up System and games "
 sleep 1
-echo " [ Reduce Resolution VIP ]"
+echo "[INFO] $(date '+%H:%M:%S'): Reduce Resolution VIP "
 sleep 1
-echo " [ ON Gamming Mode ]"
+echo "[INFO] $(date '+%H:%M:%S'): ON Gamming Mode "
 sleep 1
-echo " [ Clean Files VIP ]"
+echo "[INFO] $(date '+%H:%M:%S'): Clean Files VIP "
 sleep 1
-echo " [ ON Doze Mode VIP ] "
+echo "[INFO] $(date '+%H:%M:%S'): ON Doze Mode VIP  "
 sleep 1
-echo " [ High Fps VIP ]"
+echo "[INFO] $(date '+%H:%M:%S'): High Fps VIP "
 sleep 1
-echo " [ OFF Logcat VIP ]"
+echo "[INFO] $(date '+%H:%M:%S'): OFF Logcat VIP "
 sleep 1
-echo " [ ON RENDER if sp ]"
+echo "[INFO] $(date '+%H:%M:%S'): ON RENDER if sp "
 sleep 1
+echo "[INFO] $(date '+%H:%M:%S'): Fix Drop Fps "
+sleep 1
+echo "[INFO] $(date '+%H:%M:%S'): RAM VIP FOR 2/3/4GB"
 
 log
 sensi
 tweaks
 
-echo " All Tweaks Success"
-echo " vui lòng khởi động lại để có tác dụng"
-cmd notification post -S bigtext -t 'longdz' 'Tag' '#Thanks'
+echo "[WARNING] $(date '+%H:%M:%S'): All Tweaks Success"
+echo "[WARNING] $(date '+%H:%M:%S'): Vui lòng khởi động lại để có tác dụng"
+echo "[WARNING] $(date '+%H:%M:%S'): Modules V5 Đã Chạy Thành Công" >> /sdcard/log.txt
+cmd notification post -S bigtext -t '[WARNNING]: Vui lòng khởi động lại để có tác dụng ' 'Tag' 'Thanks'

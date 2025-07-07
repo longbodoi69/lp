@@ -1471,4 +1471,12 @@
   "manufacturer": "samsung",
   "price": "20"
   },
+  {
+  "key": "NguyenAnhVan",
+  "android_id": "6864871d496885f6",
+  "serial": "R58W81B8A6K",
+  "android_version": "13",
+  "manufacturer": "samsung",
+  "price": "50"
+  },
 ]

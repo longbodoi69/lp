@@ -1479,4 +1479,12 @@
   "manufacturer": "samsung",
   "price": "50"
   },
+  {
+  "key": "BachQuocBao",
+  "android_id": "ce154378c733d469",
+  "serial": "a64dc420",
+  "android_version": "13",
+  "manufacturer": "Xiaomi",
+  "price": "20"
+  },
 ]

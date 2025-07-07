@@ -1463,4 +1463,12 @@
   "manufacturer": "Xiaomi",
   "price": "20"
   },
+  {
+  "key": "DangQuocCuong",
+  "android_id": "6581302314fb6345",
+  "serial": "RF8R50Y1XYH",
+  "android_version": "13",
+  "manufacturer": "samsung",
+  "price": "20"
+  },
 ]

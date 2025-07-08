@@ -1,5 +1,10 @@
 [
   {
+    "name": "StabilizerExtra",
+    "version": "V1",
+    "price": 70
+  },
+  {
     "name": "SensiXPatch",
     "version": "V1",
     "price": 50

@@ -1,11 +1,11 @@
  [
   {
-    "key": "binh",
-    "android_id": "4b46fddd26265d85",
-    "serial": "2c3297a1371d7ece",
-    "android_version": "10",
-    "manufacturer": "samsung",
-    "price": "90"
+   "key": "binh",
+   "android_id": "4b46fddd26265d85",
+   "serial": "2c3297a1371d7ece",
+   "android_version": "10",
+   "manufacturer": "samsung",
+   "price": "90"
   },
   {
   "key": "admin",
@@ -1484,6 +1484,14 @@
   "android_id": "ce154378c733d469",
   "serial": "a64dc420",
   "android_version": "13",
+  "manufacturer": "Xiaomi",
+  "price": "20"
+  },
+  {
+  "key": "TuHuyAbc",
+  "android_id": "ebb83796a507d765",
+  "serial": "BAG6GQDMY95HFYJB",
+  "android_version": "12",
   "manufacturer": "Xiaomi",
   "price": "20"
   },

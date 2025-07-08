@@ -1503,4 +1503,12 @@
   "manufacturer": "Xiaomi",
   "price": "20"
   },
+  {
+  "key": "NguyenTheDuc",
+  "android_id": "23cc7751044432b2",
+  "serial": "R9JR30GC4PJ",
+  "android_version": "12",
+  "manufacturer": "samsung",
+  "price": "20"
+  },
 ]

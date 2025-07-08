@@ -1509,6 +1509,14 @@
   "serial": "R9JR30GC4PJ",
   "android_version": "12",
   "manufacturer": "samsung",
-  "price": "20"
+  "price": "50"
+  },
+  {
+  "key": "VanToanxyz",
+  "android_id": "f7c85c9f26d8e8dc",
+  "serial": "1187437476001266",
+  "android_version": "13",
+  "manufacturer": "TECNO",
+  "price": "100"
   },
 ]

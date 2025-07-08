@@ -1519,4 +1519,12 @@
   "manufacturer": "TECNO",
   "price": "100"
   },
+  {
+  "key": "TranSonxyz",
+  "android_id": "3a909352032c1b0b",
+  "serial": "R5CT30GFQ1Y",
+  "android_version": "14",
+  "manufacturer": "samsung",
+  "price": "20"
+  },
 ]

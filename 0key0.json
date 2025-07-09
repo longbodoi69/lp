@@ -1527,4 +1527,12 @@
   "manufacturer": "samsung",
   "price": "20"
   },
+  {
+  "key": "BuiCongChien",
+  "android_id": "2573367fb199ab49",
+  "serial": "9d1cbff4",
+  "android_version": "15",
+  "manufacturer": "OPPO",
+  "price": "20"
+  },
 ]

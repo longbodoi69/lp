@@ -1535,4 +1535,12 @@
   "manufacturer": "OPPO",
   "price": "20"
   },
+  {
+  "key": "NguyenMinhHuy",
+  "android_id": "41e357de80071bd",
+  "serial": "R58RB4B0KPM",
+  "android_version": "13",
+  "manufacturer": "samsung",
+  "price": "20"
+  },
 ]

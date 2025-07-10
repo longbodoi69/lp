@@ -165,7 +165,7 @@
     "serial": "4116fa11",
     "android_version": "15",
     "manufacturer": "Xiaomi",
-    "price": "20"
+    "price": "140"
   },
   {
     "key": "HuuLoc",
@@ -1549,6 +1549,14 @@
   "serial": "0e79f2647d73",
   "android_version": "15",
   "manufacturer": "Xiaomi",
+  "price": "70"
+  },
+  {
+  "key": "AnhTuanAbcd",
+  "android_id": "97873e62778cfe8a",
+  "serial": "1156625465001307",
+  "android_version": "14",
+  "manufacturer": "TECNO",
   "price": "70"
   },
 ]

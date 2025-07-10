@@ -1543,4 +1543,12 @@
   "manufacturer": "samsung",
   "price": "20"
   },
+  {
+  "key": "QuangDungXyzAbc",
+  "android_id": "cc79cca43c29e7ff",
+  "serial": "0e79f2647d73",
+  "android_version": "15",
+  "manufacturer": "Xiaomi",
+  "price": "70"
+  },
 ]

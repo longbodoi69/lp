@@ -1,3 +1,4 @@
+#!/system/bin/sh
 echo " *********************************"
 echo " ########################"
 echo " * ©Copyright By Long Phan"

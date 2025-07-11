@@ -1567,4 +1567,12 @@
   "manufacturer": "TECNO",
   "price": "70"
   },
+  {
+  "key": "MinhTriXyz",
+  "android_id": "d846e773d558c6fb",
+  "serial": "I75LGMGAAEHULRVG",
+  "android_version": "15",
+  "manufacturer": "realme",
+  "price": "70"
+  },
 ]

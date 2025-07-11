@@ -452,8 +452,8 @@ apply_properties() {
         "cached_apps_freezer enable"
     )
     overlay=(
-        "game_overlay com.dts.freefireth mode=2,angle=true,fps=$refresh_rate,downscaleFactor=0.5,loadingBoost=999999999"
-        "game_overlay com.dts.freefiremax mode=2,angle=true,fps=$refresh_rate,downscaleFactor=0.5,loadingBoost=999999999"
+        "game_overlay com.dts.freefireth mode=2,angle=true,fps=$refresh_rate,loadingBoost=999999999"
+        "game_overlay com.dts.freefiremax mode=2,angle=true,fps=$refresh_rate,loadingBoost=999999999"
     )
     secure=(
         "long_press_timeout 500"

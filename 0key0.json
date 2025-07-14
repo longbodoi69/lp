@@ -1599,4 +1599,12 @@
   "manufacturer": "samsung",
   "price": "300"
   },
+  {
+  "key": "LeHoangKhang",
+  "android_id": "ae53196df61f925f",
+  "serial": "8d3f72b",
+  "android_version": "12",
+  "manufacturer": "Xiaomi",
+  "price": "70"
+  },
 ]

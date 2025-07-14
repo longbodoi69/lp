@@ -1591,4 +1591,12 @@
   "manufacturer": "samsung",
   "price": "20"
   },
+  {
+  "key": "MuoiHai",
+  "android_id": "221328830ea8b5cb",
+  "serial": "R58R81B1VCM",
+  "android_version": "13",
+  "manufacturer": "samsung",
+  "price": "300"
+  },
 ]

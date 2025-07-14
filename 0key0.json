@@ -977,7 +977,7 @@
   },
   {
   "key": "LamHy",
-  "android_id": "4a471f96edd5541e",
+  "android_id": "d8ce3ffd0ddc9636",
   "serial": "VKQSH6VKAAWCFE4P",
   "android_version": "15",
   "manufacturer": "Xiaomi",
@@ -1574,5 +1574,21 @@
   "android_version": "15",
   "manufacturer": "realme",
   "price": "70"
+  },
+  {
+  "key": "MinhKhangAbc",
+  "android_id": "265b5dda6ac26d63",
+  "serial": "bed4c3d4",
+  "android_version": "15",
+  "manufacturer": "Xiaomi",
+  "price": "140"
+  },
+  {
+  "key": "ThuongNgu",
+  "android_id": "ed6f2ae2f3d9400e",
+  "serial": "R9HR205N4MJ",
+  "android_version": "12",
+  "manufacturer": "samsung",
+  "price": "20"
   },
 ]

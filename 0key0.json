@@ -1623,4 +1623,20 @@
   "manufacturer": "Xiaomi",
   "price": "20"
   },
+  {
+  "key": "PhuocThanh1",
+  "android_id": "9f3a39be291f6f1",
+  "serial": "95d903f6",
+  "android_version": "15",
+  "manufacturer": "OPPO",
+  "price": "20"
+  },
+  {
+  "key": "HuuHien",
+  "android_id": "b166445f1b428e10",
+  "serial": "KZTKLR8SKJI7VW8T",
+  "android_version": "12",
+  "manufacturer": "OPPO",
+  "price": "140"
+  },
 ]

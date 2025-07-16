@@ -1639,4 +1639,12 @@
   "manufacturer": "OPPO",
   "price": "140"
   },
+  {
+  "key": "TuanKhoiAbc",
+  "android_id": "3abac4dfff58c516",
+  "serial": "R9JN7190D0J",
+  "android_version": "12",
+  "manufacturer": "samsung",
+  "price": "70"
+  },
 ]

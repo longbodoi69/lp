@@ -1655,4 +1655,12 @@
   "manufacturer": "Xiaomi",
   "price": "20"
   },
+  {
+  "key": "TranNhatHoang",
+  "android_id": "a88223f3cc021a67",
+  "serial": "97929c2",
+  "android_version": "15",
+  "manufacturer": "Xiaomi",
+  "price": "20"
+  },
 ]

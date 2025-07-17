@@ -1663,4 +1663,20 @@
   "manufacturer": "Xiaomi",
   "price": "20"
   },
+  {
+  "key": "Blongcc",
+  "android_id": "fee3139f8ac7b175",
+  "serial": "wwskkvdqzhwsscjj",
+  "android_version": "15",
+  "manufacturer": "Xiaomi",
+  "price": "20"
+  },
+  {
+  "key": "MinhDatCc",
+  "android_id": "d45d4e376ffbd829",
+  "serial": "R9TX80DMDZF",
+  "android_version": "14",
+  "manufacturer": "samsung",
+  "price": "20"
+  },
 ]

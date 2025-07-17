@@ -1679,4 +1679,12 @@
   "manufacturer": "samsung",
   "price": "20"
   },
+  {
+  "key": "DuyMeSeGay",
+  "android_id": "e94a0fda5429e359",
+  "serial": "SG85GEK7OBW4VWTC",
+  "android_version": "14",
+  "manufacturer": "OPPO",
+  "price": "20"
+  },
 ]

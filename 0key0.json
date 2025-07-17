@@ -1687,4 +1687,12 @@
   "manufacturer": "OPPO",
   "price": "20"
   },
+  {
+  "key": "NguyenPhuongTin",
+  "android_id": "5e8d744a11085472",
+  "serial": "55KFUS6DZHRSJ7VW",
+  "android_version": "12",
+  "manufacturer": "vivo",
+  "price": "70"
+  },
 ]

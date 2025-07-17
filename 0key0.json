@@ -1695,4 +1695,12 @@
   "manufacturer": "vivo",
   "price": "70"
   },
+  {
+  "key": "MinhHoangGay",
+  "android_id": "f86551570e356e9c",
+  "serial": "a6fbc712",
+  "android_version": "15",
+  "manufacturer": "Xiaomi",
+  "price": "20"
+  },
 ]

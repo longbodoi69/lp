@@ -1703,4 +1703,12 @@
   "manufacturer": "samsung",
   "price": "70"
   },
+  {
+  "key": "HoangMinhGay",
+  "android_id": "34f9c8f4112b874b",
+  "serial": "RF9N704BEHX",
+  "android_version": "12",
+  "manufacturer": "samsung",
+  "price": "70"
+  },
 ]

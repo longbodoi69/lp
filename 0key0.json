@@ -1711,4 +1711,12 @@
   "manufacturer": "samsung",
   "price": "70"
   },
+  {
+  "key": "HaiDangGammer",
+  "android_id": "800877cf4783445",
+  "serial": "R93WA04A9KZ",
+  "android_version": "15",
+  "manufacturer": "samsung",
+  "price": "140"
+  },
 ]

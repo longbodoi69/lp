@@ -1725,6 +1725,14 @@
   "serial": "56e35d5",
   "android_version": "11",
   "manufacturer": "OPPO",
+  "price": "210"
+  },
+  {
+  "key": "NhatHuyGay",
+  "android_id": "6b73b4a3fe8d2e31",
+  "serial": "49Q4VWNJBM8HJFQG",
+  "android_version": "15",
+  "manufacturer": "OPPO",
   "price": "140"
   },
 ]

@@ -1719,4 +1719,12 @@
   "manufacturer": "samsung",
   "price": "140"
   },
+  {
+  "key": "ThuanDepZai",
+  "android_id": "4e8482f6b19ba3d9",
+  "serial": "56e35d5",
+  "android_version": "11",
+  "manufacturer": "OPPO",
+  "price": "140"
+  },
 ]

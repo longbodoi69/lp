@@ -1695,4 +1695,12 @@
   "manufacturer": "Xiaomi",
   "price": "20"
   },
+  {
+  "key": "NguyenTruongSang",
+  "android_id": "d9a5e2b7c7509c48",
+  "serial": "R5CX32M5M4H",
+  "android_version": "14",
+  "manufacturer": "samsung",
+  "price": "70"
+  },
 ]

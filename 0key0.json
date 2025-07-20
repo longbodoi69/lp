@@ -1743,4 +1743,20 @@
   "manufacturer": "samsung",
   "price": "70"
   },
+    {
+  "key": "KhKiet",
+  "android_id": "8ad37859dea38af4",
+  "serial": "5HY565D645HIBEJJ",
+  "android_version": "15",
+  "manufacturer": "Xiaomi",
+  "price": "70"
+  },
+  {
+  "key": "XuanPhatGayRovcl",
+  "android_id": "522b69872680dfe6",
+  "serial": "PB4XAQXWFECY59T8",
+  "android_version": "14",
+  "manufacturer": "OPPO",
+  "price": "210"
+  },
 ]

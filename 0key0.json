@@ -1645,7 +1645,7 @@
   "serial": "4472238a7d71",
   "android_version": "15",
   "manufacturer": "Xiaomi",
-  "price": "90"
+  "price": "150"
   },
   {
   "key": "TranNhatHoang",
@@ -1734,5 +1734,13 @@
   "android_version": "15",
   "manufacturer": "OPPO",
   "price": "140"
+  },
+  {
+  "key": "DucHieuGay",
+  "android_id": "6bef0391108562d",
+  "serial": "2122592332037ece",
+  "android_version": "10",
+  "manufacturer": "samsung",
+  "price": "70"
   },
 ]

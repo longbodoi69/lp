@@ -1737,7 +1737,7 @@
   },
   {
   "key": "DucHieuGay",
-  "android_id": "6bef0391108562d",
+  "android_id": "d4c6606464944337",
   "serial": "2122592332037ece",
   "android_version": "10",
   "manufacturer": "samsung",
@@ -1758,5 +1758,13 @@
   "android_version": "14",
   "manufacturer": "OPPO",
   "price": "300"
+  },
+  {
+  "key": "ThanhTanGay",
+  "android_id": "4d29f5b1d886aaf0",
+  "serial": "USDAR4FAYSZHJJZ5",
+  "android_version": "11",
+  "manufacturer": "OPPO",
+  "price": "20"
   },
 ]

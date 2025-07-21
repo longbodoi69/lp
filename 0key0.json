@@ -1767,4 +1767,12 @@
   "manufacturer": "OPPO",
   "price": "20"
   },
+  {
+  "key": "DangVanSon",
+  "android_id": "bb158159957946d5",
+  "serial": "RFCW50SBHXP",
+  "android_version": "14",
+  "manufacturer": "samsung",
+  "price": "20"
+  },
 ]

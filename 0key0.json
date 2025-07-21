@@ -1783,4 +1783,12 @@
   "manufacturer": "vivo",
   "price": "20"
   },
+  {
+  "key": "CaoTanTy",
+  "android_id": "69a553a63cc7ed01",
+  "serial": "GM9T7D99MZ5T9HU8",
+  "android_version": "14",
+  "manufacturer": "OPPO",
+  "price": "70"
+  },
 ]

@@ -1791,4 +1791,12 @@
   "manufacturer": "OPPO",
   "price": "70"
   },
+  {
+  "key": "VoVanMinh",
+  "android_id": "b1afa5444d2f9970", 
+  "serial": "q4zhucirwk85nzpr",
+  "android_version": "15",
+  "manufacturer": "Xiaomi",
+  "price": "20"
+  },
 ]

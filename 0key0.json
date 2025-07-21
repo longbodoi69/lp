@@ -1775,4 +1775,12 @@
   "manufacturer": "samsung",
   "price": "20"
   },
+  {
+  "key": "DoanTuanKiet",
+  "android_id": "7a185cd29bddfa75",
+  "serial": "8HIF4PHQBANJTKPR",
+  "android_version": "12",
+  "manufacturer": "vivo",
+  "price": "20"
+  },
 ]

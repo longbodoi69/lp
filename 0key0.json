@@ -1799,4 +1799,12 @@
   "manufacturer": "Xiaomi",
   "price": "20"
   },
+  {
+  "key": "HuyGay",
+  "android_id": "3f45b29334289e19",
+  "serial": "320545252855",
+  "android_version": "13",
+  "manufacturer": "ZTE",
+  "price": "20"
+  },
 ]

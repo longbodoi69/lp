@@ -1653,7 +1653,7 @@
   "serial": "97929c2",
   "android_version": "15",
   "manufacturer": "Xiaomi",
-  "price": "20"
+  "price": "70"
   },
   {
   "key": "Blongcc",
@@ -1835,6 +1835,14 @@
   "key": "HuyHoang83",
   "android_id": "5acf5e3eedb60eb7",
   "serial": "271c0e97",
+  "android_version": "15",
+  "manufacturer": "Xiaomi",
+  "price": "20"
+  },
+  {
+  "key": "PhamTienCl",
+  "android_id": "290204e7e0431d43",
+  "serial": "onbqjjnfi7z9ci9h",
   "android_version": "15",
   "manufacturer": "Xiaomi",
   "price": "20"

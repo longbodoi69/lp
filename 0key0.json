@@ -1805,6 +1805,14 @@
   "serial": "320545252855",
   "android_version": "13",
   "manufacturer": "ZTE",
-  "price": "20"
+  "price": "70"
+  },
+  {
+  "key": "DucHoangGay",
+  "android_id": "f91356da568335e",
+  "serial": "4c22bf8b",
+  "android_version": "13",
+  "manufacturer": "Xiaomi",
+  "price": "70"
   },
 ]

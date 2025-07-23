@@ -1847,4 +1847,12 @@
   "manufacturer": "Xiaomi",
   "price": "20"
   },
+  {
+  "key": "HoTrungQuan",
+  "android_id": "aad539783999f01c",
+  "serial": "R8YX70GR1NL",
+  "android_version": "14",
+  "manufacturer": "samsung",
+  "price": "20"
+  },
 ]

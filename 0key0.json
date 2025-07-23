@@ -1815,4 +1815,12 @@
   "manufacturer": "Xiaomi",
   "price": "70"
   },
+  {
+  "key": "HuyHoangDz",
+  "android_id": "193e10cbcd88217a",
+  "serial": "R58RC3W34QT",
+  "android_version": "13",
+  "manufacturer": "samsung",
+  "price": "140"
+  },
 ]

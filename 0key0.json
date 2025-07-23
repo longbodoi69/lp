@@ -1765,7 +1765,7 @@
   "serial": "USDAR4FAYSZHJJZ5",
   "android_version": "11",
   "manufacturer": "OPPO",
-  "price": "20"
+  "price": "70"
   },
   {
   "key": "DangVanSon",
@@ -1830,5 +1830,13 @@
   "android_version": "15",
   "manufacturer": "Xiaomi",
   "price": "140"
-},
+  },
+  {
+  "key": "HuyHoang83",
+  "android_id": "5acf5e3eedb60eb7",
+  "serial": "271c0e97",
+  "android_version": "15",
+  "manufacturer": "Xiaomi",
+  "price": "20"
+  },
 ]

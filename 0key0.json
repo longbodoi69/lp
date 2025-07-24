@@ -805,7 +805,7 @@
     "serial": "ee27ca74",
     "android_version": "11",
     "manufacturer": "OPPO",
-    "price": "60"
+    "price": "140"
   },
   {
     "key": "NhatLong",
@@ -1853,6 +1853,22 @@
   "serial": "R8YX70GR1NL",
   "android_version": "14",
   "manufacturer": "samsung",
+  "price": "20"
+  },
+  {
+  "key": "HungEm",
+  "android_id": "93bb2d6293542521",
+  "serial": "115662545H000425",
+  "android_version": "14",
+  "manufacturer": "TECNO",
+  "price": "70"
+  },
+  {
+  "key": "PhanTanPhu",
+  "android_id": "d2067c708b7503cf",
+  "serial": "9tqspjjbjrnbqwbm",
+  "android_version": "14",
+  "manufacturer": "Xiaomi",
   "price": "20"
   },
 ]

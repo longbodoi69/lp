@@ -1871,4 +1871,12 @@
   "manufacturer": "Xiaomi",
   "price": "20"
   },
+  {
+  "key": "NguyenDuyGiaBao",
+  "android_id": "5ea0d041facf6ead",
+  "serial": "ae308ad0",
+  "android_version": "15",
+  "manufacturer": "Xiaomi",
+  "price": "20"
+  },
 ]

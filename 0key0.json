@@ -1879,4 +1879,12 @@
   "manufacturer": "Xiaomi",
   "price": "20"
   },
+  {
+  "key": "HoangAi",
+  "android_id": "3d0727cacacea2d7",
+  "serial": "109943741A002408",
+  "android_version": "13",
+  "manufacturer": "TECNO",
+  "price": "20"
+  },
 ]

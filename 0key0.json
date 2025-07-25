@@ -1903,4 +1903,12 @@
   "manufacturer": "TECNO",
   "price": "70"
   },
+  {
+  "key": "TienNhatDz",
+  "android_id": "cf934b2b924366e6",
+  "serial": "d6a2f67",
+  "android_version": "15",
+  "manufacturer": "Xiaomi",
+  "price": "210"
+  },
 ]

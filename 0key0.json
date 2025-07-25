@@ -1887,4 +1887,12 @@
   "manufacturer": "TECNO",
   "price": "20"
   },
+  {
+  "key": "AnhChiuEmRoi",
+  "android_id": "e6b08c7c8cc4d59b",
+  "serial": "3cda90e5",
+  "android_version": "14",
+  "manufacturer": "Xiaomi",
+  "price": "70"
+  },
 ]

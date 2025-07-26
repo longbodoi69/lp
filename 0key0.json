@@ -1919,4 +1919,20 @@
   "manufacturer": "Xiaomi",
   "price": "140"
   },
+  {
+  "key": "QuocKhanhGay",
+  "android_id": "5dfa6b3ce9cad7aa",
+  "serial": "0H63611I451000E2",
+  "android_version": "14",
+  "manufacturer": "realme",
+  "price": "20"
+  },
+  {
+  "key": "NganQuocTuong",
+  "android_id": "9bf2f7d2181dc15b",
+  "serial": "4HZL49VG79Q8FEDE",
+  "android_version": "15",
+  "manufacturer": "Xiaomi",
+  "price": "20"
+  },
 ]

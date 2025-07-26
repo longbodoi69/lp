@@ -1943,4 +1943,12 @@
   "manufacturer": "samsung",
   "price": "20"
   },
+  {
+  "key": "LinhPhan",
+  "android_id": "5952e8cbc4b86306",
+  "serial": "431QHFGP224SG",
+  "android_version": "14",
+  "manufacturer": "meizu",
+  "price": "70"
+  },
 ]

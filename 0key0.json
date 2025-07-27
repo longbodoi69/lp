@@ -1951,4 +1951,12 @@
   "manufacturer": "meizu",
   "price": "70"
   },
+  {
+  "key": "NguyenTranHoang",
+  "android_id": "ecf46fb1ecdb0c8",
+  "serial": "NVXKU8BQAYCA5HU4",
+  "android_version": "13",
+  "manufacturer": "Xiaomi",
+  "price": "20"
+  },
 ]

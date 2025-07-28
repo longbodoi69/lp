@@ -1737,9 +1737,9 @@
   },
   {
   "key": "DucHieuGay",
-  "android_id": "d4c6606464944337",
+  "android_id": "bf233807149cb50c",
   "serial": "2122592332037ece",
-  "android_version": "10",
+  "android_version": "13",
   "manufacturer": "samsung",
   "price": "70"
   },
@@ -1957,6 +1957,22 @@
   "serial": "NVXKU8BQAYCA5HU4",
   "android_version": "13",
   "manufacturer": "Xiaomi",
+  "price": "20"
+  },
+  {
+  "key": "ChuBin",
+  "android_id": "2aaa91f678504076",
+  "serial": "R58N23XZ86L",
+  "android_version": "12",
+  "manufacturer": "samsung",
+  "price": "20"
+  },
+  {
+  "key": "DinhGiaPhuSexx",
+  "android_id": "1627beb4c206e141",
+  "serial": "R9JN40DFCGJ",
+  "android_version": "12",
+  "manufacturer": "samsung",
   "price": "20"
   },
 ]

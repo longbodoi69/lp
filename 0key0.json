@@ -1975,4 +1975,12 @@
   "manufacturer": "samsung",
   "price": "20"
   },
+  {
+  "key": "GiaKhanhSex",
+  "android_id": "5b26adb60c81052c",
+  "serial": "wgguw8mjmjz96h6x",
+  "android_version": "15",
+  "manufacturer": "Xiaomi",
+  "price": "20"
+  },
 ]

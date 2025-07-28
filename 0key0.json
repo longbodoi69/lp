@@ -1989,7 +1989,7 @@
   "serial": "R5CRA0FB06L",
   "android_version": "14",
   "manufacturer": "samsung",
-  "price": "20"
+  "price": "70"
   },
   {
   "key": "DoVuGay",
@@ -2021,6 +2021,14 @@
   "serial": "2568d0ae0401",
   "android_version": "12",
   "manufacturer": "Xiaomi",
+  "price": "20"
+  },
+  {
+  "key": "NguyenMinhVu",
+  "android_id": "5abbd9432c7e5718",
+  "serial": "1569000459000JA",
+  "android_version": "12",
+  "manufacturer": "vivo",
   "price": "20"
   },
 ]

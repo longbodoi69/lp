@@ -2055,4 +2055,20 @@
   "manufacturer": "vivo",
   "price": "20"
   },
+  {
+  "key": "TranCongGay",
+  "android_id": "8c4076bf8cd4d131",
+  "serial": "R8YY50L459L",
+  "android_version": "14",
+  "manufacturer": "samsung",
+  "price": "70"
+  },
+  {
+  "key": "NguyenDinhKhanh",
+  "android_id": "52e992630504cb9",
+  "serial": "RKZPU8N7AY4LLRG6",
+  "android_version": "15",
+  "manufacturer": "OPPO",
+  "price": "70"
+  },
 ]

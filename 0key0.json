@@ -1949,7 +1949,7 @@
   "serial": "431QHFGP224SG",
   "android_version": "14",
   "manufacturer": "meizu",
-  "price": "70"
+  "price": "140"
   },
   {
   "key": "NguyenTranHoang",
@@ -2038,14 +2038,6 @@
   "android_version": "12",
   "manufacturer": "vivo",
   "price": "70"
-  },
-  {
-  "key": "?",
-  "android_id": "e6a32fbc176cc275",
-  "serial": "10HE6TFCMU000TC",
-  "android_version": "15",
-  "manufacturer": "vivo",
-  "price": "?"
   },
   {
   "key": "LamPhuGay",

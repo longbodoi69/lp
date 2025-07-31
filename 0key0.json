@@ -2071,4 +2071,12 @@
   "manufacturer": "samsung",
   "price": "70"
   },
+  {
+  "key": "ThienStyle",
+  "android_id": "fdcdae8e33c958c9",
+  "serial": "R58N22Z474J",
+  "android_version": "11",
+  "manufacturer": "samsung",
+  "price": "140"
+  },
 ]

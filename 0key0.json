@@ -2063,4 +2063,12 @@
   "manufacturer": "OPPO",
   "price": "70"
   },
+  {
+  "key": "NguyenQuan",
+  "android_id": "62400777f797b56f",
+  "serial": "R5CTA1FNWML",
+  "android_version": "15",
+  "manufacturer": "samsung",
+  "price": "70"
+  },
 ]

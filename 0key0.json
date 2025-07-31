@@ -2079,4 +2079,12 @@
   "manufacturer": "samsung",
   "price": "210"
   },
+  {
+  "key": "ThaiBinhGay",
+  "android_id": "3b2e0ed9d3726cb1",
+  "serial": "R5CR4092N4V",
+  "android_version": "13",
+  "manufacturer": "samsung",
+  "price": "140"
+  },
 ]

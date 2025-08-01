@@ -2095,4 +2095,12 @@
   "manufacturer": "Xiaomi",
   "price": "140"
   },
+  {
+  "key": "LamMinhToan",
+  "android_id": "77126fb957523e83",
+  "serial": "10HE4MFLME0001D",
+  "android_version": "14",
+  "manufacturer": "vivo",
+  "price": "20"
+  },
 ]

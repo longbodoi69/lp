@@ -2103,4 +2103,12 @@
   "manufacturer": "vivo",
   "price": "20"
   },
+  {
+  "key": "VuongAdr",
+  "android_id": "3e917684230032aa",
+  "serial": "R58MC2NRKTF",
+  "android_version": "13",
+  "manufacturer": "samsung",
+  "price": "70"
+  },
 ]

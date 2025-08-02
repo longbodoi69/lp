@@ -2111,4 +2111,12 @@
   "manufacturer": "samsung",
   "price": "70"
   },
+  {
+  "key": "kailo",
+  "android_id": "54a373f85d73903d",
+  "serial": "10HBAE05L00002B",
+  "android_version": "12",
+  "manufacturer": "vivo",
+  "price": "50"
+  },
 ]

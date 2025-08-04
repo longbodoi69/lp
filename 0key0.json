@@ -2143,4 +2143,12 @@
   "manufacturer": "samsung",
   "price": "20"
   },
+  {
+  "key": "ThaiLand",
+  "android_id": "9a8d92d6b297b876",
+  "serial": "XSSOSCAQU8LZYP9H",
+  "android_version": "15",
+  "manufacturer": "OPPO",
+  "price": "70"
+  },
 ]

@@ -2119,4 +2119,12 @@
   "manufacturer": "vivo",
   "price": "50"
   },
+  {
+  "key": "ThanhVietGay",
+  "android_id": "86c315ece20069ab",
+  "serial": "b469ac8d",
+  "android_version": "15",
+  "manufacturer": "Xiaomi",
+  "price": "100"
+  },
 ]

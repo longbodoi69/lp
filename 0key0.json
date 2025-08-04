@@ -2151,4 +2151,12 @@
   "manufacturer": "OPPO",
   "price": "70"
   },
+  {
+  "key": "LeVanSon",
+  "android_id": "9f1f4d75cc5885a5",
+  "serial": "fqs8onjri7fypf9h",
+  "android_version": "15",
+  "manufacturer": "Xiaomi",
+  "price": "210"
+  },
 ]

@@ -2069,7 +2069,7 @@
   "serial": "R5CTA1FNWML",
   "android_version": "15",
   "manufacturer": "samsung",
-  "price": "70"
+  "price": "210"
   },
   {
   "key": "ThienStyle",
@@ -2182,5 +2182,13 @@
   "android_version": "11",
   "manufacturer": "Xiaomi",
   "price": "140"
+  },
+  {
+  "key": "HaiQuan",
+  "android_id": "f5a3a76588e17fb4",
+  "serial": "MBNF9LHQAMJBAMAE",
+  "android_version": "14",
+  "manufacturer": "OPPO",
+  "price": "70"
   },
 ]

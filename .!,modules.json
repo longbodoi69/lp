@@ -68,5 +68,10 @@
    "name": "Uinstall",
     "version": "Uinstall",
     "price": 0
+  },
+  {
+    "name": "test",
+    "version": "V1",
+    "price": 10
   }
 ]

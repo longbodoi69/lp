@@ -2159,4 +2159,20 @@
   "manufacturer": "Xiaomi",
   "price": "210"
   },
+  {
+  "key": "LeTanDatRog",
+  "android_id": "5d4e84b496ed940",
+  "serial": "R7AIOC342556GVE",
+  "android_version": "14",
+  "manufacturer": "asus",
+  "price": "210"
+  },
+  {
+  "key": "VoNhutNam",
+  "android_id": "ea293fb054ded1b5",
+  "serial": "ade82d7f",
+  "android_version": "11",
+  "manufacturer": "realme",
+  "price": "140"
+  },
 ]

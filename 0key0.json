@@ -2175,4 +2175,12 @@
   "manufacturer": "realme",
   "price": "140"
   },
+  {
+  "key": "GiaKhiemGay",
+  "android_id": "88a04120b6e2b31e",
+  "serial": "d7ac7173",
+  "android_version": "11",
+  "manufacturer": "Xiaomi",
+  "price": "140"
+  },
 ]

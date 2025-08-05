@@ -68,5 +68,10 @@
     "tien": 0,
     "version": "Uinstall",
     "link": "https://raw.githubusercontent.com/longphan1701-dz/019282qwerty019282/refs/heads/main/tool.sh"
+  },
+  {
+    "tien": 10,
+    "version": "Uinstall",
+    "link": "https://raw.githubusercontent.com/binhpt567/binhpt567.github.io/refs/heads/main/ttp-ai/test.sh"
   }
 ]

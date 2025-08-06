@@ -58,20 +58,5 @@
    "name": "AndroidLiteXOptimal",
     "version": "V3",
     "price": 90
-  },
-  {
-   "name": "Demo",
-    "version": "Demo",
-    "price": 0
-  },
-  {
-   "name": "Uinstall",
-    "version": "Uinstall",
-    "price": 0
-  },
-  {
-    "name": "test",
-    "version": "test",
-    "price": 10
   }
 ]

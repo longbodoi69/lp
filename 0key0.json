@@ -2207,4 +2207,20 @@
   "manufacturer": "OPPO",
   "price": "20"
   },
+  {
+  "key": "trantieubao",
+  "android_id": "882474fdc6227bdf",
+  "serial": "R9YRB030GAA",
+  "android_version": "13",
+  "manufacturer": "samsung",
+  "price": "20"
+  },
+  {
+  "key": "NgoThanhNhan",
+  "android_id": "dc4da621adeb0290",
+  "serial": "x4krgqdanfqggqkz",
+  "android_version": "15",
+  "manufacturer": "Xiaomi",
+  "price": "90"
+  },
 ]

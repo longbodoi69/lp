@@ -2191,4 +2191,12 @@
   "manufacturer": "OPPO",
   "price": "70"
   },
+  {
+  "key": "HuaYeu",
+  "android_id": "a11a819b50a389f3",
+  "serial": "GIKFM7PVRGIJZ5DE",
+  "android_version": "13",
+  "manufacturer": "Xiaomi",
+  "price": "70"
+  },
 ]

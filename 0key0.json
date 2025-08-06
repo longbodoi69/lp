@@ -2199,4 +2199,12 @@
   "manufacturer": "Xiaomi",
   "price": "70"
   },
+  {
+  "key": "HaoNgu",
+  "android_id": "82b477aa88f8603e",
+  "serial": "6TDQOBIN498DB6KB",
+  "android_version": "15",
+  "manufacturer": "OPPO",
+  "price": "20"
+  },
 ]

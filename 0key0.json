@@ -2223,4 +2223,20 @@
   "manufacturer": "Xiaomi",
   "price": "90"
   },
+  {
+  "key": "TruongGiaHung",
+  "android_id": "134baf284c58604a",
+  "serial": "26f9e255",
+  "android_version": "11",
+  "manufacturer": "OPPO",
+  "price": "20"
+  },
+  {
+  "key": "PhuMeSex",
+  "android_id": "10HE6TFCMU000TC",
+  "serial": "260942c77bb9a9c4",
+  "android_version": "15",
+  "manufacturer": "vivo",
+  "price": "70"
+  },
 ]

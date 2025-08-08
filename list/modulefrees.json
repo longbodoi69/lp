@@ -1,17 +1,17 @@
 [
-{
-   "name": "Demo",
-   "version": "Love",
-   "raw": "https://raw.githubusercontent.com/longphan1701-dz/019282qwerty019282/refs/heads/main/demo.sh"
-},
-{
-   "name": "Uninstall",
-   "version": "Go cai dat module",
-   "raw": "https://raw.githubusercontent.com/longphan1701-dz/019282qwerty019282/refs/heads/main/tool.sh"
+  {
+    "name": "Demo",
+    "version": "Love",
+    "raw": "https://raw.githubusercontent.com/longdeptrai269/modules/refs/heads/main/demo.sh"
+  },
+  {
+    "name": "Uninstall",
+    "version": "Go cai dat module",
+    "raw": "https://raw.githubusercontent.com/longdeptrai269/modules/refs/heads/main/tool.sh"
   },
   {
     "name": "test",
-     "version": "test",
-     "raw": "https://raw.githubusercontent.com/binhpt567/binhpt567.github.io/refs/heads/main/ttp-ai/test.sh"
-  }   
+    "version": "test",
+    "raw": "https://raw.githubusercontent.com/binhpt567/binhpt567.github.io/refs/heads/main/ttp-ai/test.sh"
+  }
 ]

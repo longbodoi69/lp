@@ -2246,5 +2246,13 @@
   "android_version": "15",
   "manufacturer": "Xiaomi",
   "price": "140"
+  },
+  {
+  "key": "Nhuyn",
+  "android_id": "44c32f056d356b8f",
+  "serial": "126941549S007358",
+  "android_version": "14",
+  "manufacturer": "TECNO",
+  "price": "20"
   }
 ]

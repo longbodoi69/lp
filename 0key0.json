@@ -2262,5 +2262,13 @@
   "android_version": "14",
   "manufacturer": "OPPO",
   "price": "70"
+  },
+  {
+  "key": "MinhKhanhGay",
+  "android_id": "1cff85c7a52f4b22",
+  "serial": "R58W81BL1AN",
+  "android_version": "14",
+  "manufacturer": "samsung",
+  "price": "70"
   }
 ]

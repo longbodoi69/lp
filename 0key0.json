@@ -2254,5 +2254,13 @@
   "android_version": "14",
   "manufacturer": "TECNO",
   "price": "20"
+  },
+  {
+  "key": "GiaHungGay",
+  "android_id": "5a01660aeb132529",
+  "serial": "44c81ac4",
+  "android_version": "14",
+  "manufacturer": "OPPO",
+  "price": "70"
   }
 ]

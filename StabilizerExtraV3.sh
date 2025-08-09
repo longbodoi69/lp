@@ -560,9 +560,9 @@ cmd thermalservice override-status 0
 setprop debug.hwui.renderer "$renderer"
 setprop debug.renderengine.backend skiagputhreaded
 setprop debug.sf.use_phase_offsets_as_durations true
-pm uninstall --user 0 com.samsung.android.game.gametools
-pm uninstall --user 0 com.samsung.android.game.gamehome
-pm uninstall --user 0 com.samsung.android.game.gos
+pm disable-user --user 0 com.samsung.android.game.gos
+pm disable-user --user 0 com.samsung.android.game.gametools
+pm disable-user --user 0 com.samsung.android.game.gamehome
 pm uninstall --user 0 com.xiaomi.glgm
 pm uninstall --user 0 com.xiaomi.joyose
 

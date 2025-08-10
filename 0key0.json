@@ -2302,5 +2302,29 @@
   "android_version": "13",
   "manufacturer": "Xiaomi",
   "price": "70"
+  },
+  {
+  "key": "HaiDuonggay",
+  "android_id": "771523352294d850",
+  "serial": "HM5PAUWSSOK7ORBQ",
+  "android_version": "15",
+  "manufacturer": "OPPO",
+  "price": "70"
+  },
+  {
+  "key": "ductrongsex",
+  "android_id": "3ccaa12e5739759c",
+  "serial": "R9HRC09JQWK",
+  "android_version": "13",
+  "manufacturer": "samsung",
+  "price": "60"
+  },
+  {
+  "key": "luyengay",
+  "android_id": "543daac3a76f95d8",
+  "serial": "MB7DSGJJO77DZTHI",
+  "android_version": "12",
+  "manufacturer": "OPPO",
+  "price": "70"
   }
 ]

@@ -2326,5 +2326,13 @@
   "android_version": "12",
   "manufacturer": "OPPO",
   "price": "70"
+  },
+  {
+  "key": "minhgay",
+  "android_id": "e9d8b350ec4fb315",
+  "serial": "e6d0487",
+  "android_version": "15",
+  "manufacturer": "OPPO",
+  "price": "20"
   }
 ]

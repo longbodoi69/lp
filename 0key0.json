@@ -2286,5 +2286,21 @@
   "android_version": "15",
   "manufacturer": "OPPO",
   "price": "20"
+  },
+  {
+  "key": "",
+  "android_id": "7c87a4d9a9b3f158",
+  "serial": "5H5LZ5C6DYD69DQ8",
+  "android_version": "13",
+  "manufacturer": "Xiaomi",
+  "price": "?"
+  },
+  {
+  "key": "minhtrunggay",
+  "android_id": "7c87a4d9a9b3f158",
+  "serial": "5H5LZ5C6DYD69DQ8",
+  "android_version": "13",
+  "manufacturer": "Xiaomi",
+  "price": "70"
   }
 ]

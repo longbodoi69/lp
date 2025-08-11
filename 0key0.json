@@ -2342,5 +2342,13 @@
   "android_version": "12",
   "manufacturer": "samsung",
   "price": "20"
+  },
+  {
+  "key": "NguyenMan",
+  "android_id": "8805f1b4e9e4160f",
+  "serial": "10830153C2000415",
+  "android_version": "13",
+  "manufacturer": "TECNO",
+  "price": "70"
   }
 ]

@@ -2374,5 +2374,13 @@
   "android_version": "11",
   "manufacturer": "Xiaomi",
   "price": "70"
+  },
+  {
+  "key": "ngocquyv",
+  "android_id": "762f85f1e42d79f6",
+  "serial": "9TFELREYFEXG4T6X",
+  "android_version": "13",
+  "manufacturer": "Xiaomi",
+  "price": "70"
   }
 ]

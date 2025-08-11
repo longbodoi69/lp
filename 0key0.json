@@ -2350,5 +2350,13 @@
   "android_version": "13",
   "manufacturer": "TECNO",
   "price": "70"
+  },
+  {
+  "key": "ngocminhdz",
+  "android_id": "3d9ea5959ce7e5eb",
+  "serial": "9d601a82",
+  "android_version": "13",
+  "manufacturer": "OPPO",
+  "price": "140"
   }
 ]

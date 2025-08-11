@@ -2358,5 +2358,13 @@
   "android_version": "13",
   "manufacturer": "OPPO",
   "price": "140"
+  },
+  {
+  "key": "baogia",
+  "android_id": "43f48ada4af2ab23",
+  "serial": "49LBVSWOKBVKG66L",
+  "android_version": "15",
+  "manufacturer": "OPPO",
+  "price": "20"
   }
 ]

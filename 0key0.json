@@ -2334,5 +2334,13 @@
   "android_version": "15",
   "manufacturer": "OPPO",
   "price": "20"
+  },
+  {
+  "key": "nthai",
+  "android_id": "94ef7cebbbfbc2df",
+  "serial": "R9HNC05PB5J",
+  "android_version": "12",
+  "manufacturer": "samsung",
+  "price": "20"
   }
 ]

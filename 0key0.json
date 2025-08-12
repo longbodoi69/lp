@@ -2382,5 +2382,13 @@
   "android_version": "13",
   "manufacturer": "Xiaomi",
   "price": "70"
+  },
+  {
+  "key": "khanhsegay",
+  "android_id": "99c050d86abd08fc",
+  "serial": "10HC8R0A1F00069",
+  "android_version": "12",
+  "manufacturer": "vivo",
+  "price": "210"
   }
 ]

@@ -2390,5 +2390,13 @@
   "android_version": "12",
   "manufacturer": "vivo",
   "price": "210"
+  },
+  {
+  "key": "phonggay",
+  "android_id": "11fd804cb31cf152",
+  "serial": "somf4tqg45q4ucxg",
+  "android_version": "15",
+  "manufacturer": "Xiaomi",
+  "price": "20"
   }
 ]

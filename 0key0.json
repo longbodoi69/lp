@@ -2414,5 +2414,13 @@
   "android_version": "13",
   "manufacturer": "TECNO",
   "price": "70"
+  },
+  {
+  "key": "hoanglonggay",
+  "android_id": "7fef02cdcfea3ed1",
+  "serial": "XG4PAE7PYLZ9V85L",
+  "android_version": "14",
+  "manufacturer": "realme",
+  "price": "210"
   }
 ]

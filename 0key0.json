@@ -2406,5 +2406,13 @@
   "android_version": "15",
   "manufacturer": "Xiaomi",
   "price": "210"
+  },
+  {
+  "key": "duonggay",
+  "android_id": "55649282f5b32dbd",
+  "serial": "10994373CC001161",
+  "android_version": "13",
+  "manufacturer": "TECNO",
+  "price": "70"
   }
 ]

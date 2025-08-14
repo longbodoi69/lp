@@ -2430,5 +2430,13 @@
   "android_version": "12",
   "manufacturer": "samsung",
   "price": "70"
+  },
+  {
+  "key": "minhquangayvc",
+  "android_id": "5133b5f40058158c",
+  "serial": "S4RCHE49GIXO4DPB",
+  "android_version": "14",
+  "manufacturer": "Xiaomi",
+  "price": "20"
   }
 ]

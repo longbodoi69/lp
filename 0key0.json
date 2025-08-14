@@ -2422,5 +2422,13 @@
   "android_version": "14",
   "manufacturer": "realme",
   "price": "210"
+  },
+  {
+  "key": "chikiengay",
+  "android_id": "fda2fe539ff68434",
+  "serial": "R58R764X5JM",
+  "android_version": "12",
+  "manufacturer": "samsung",
+  "price": "70"
   }
 ]

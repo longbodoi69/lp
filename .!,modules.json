@@ -20,36 +20,6 @@
     "price": 210
   },
   {
-    "name": "SensiXPatch",
-    "version": "V1",
-    "price": 50
-  },
-  {
-   "name": "SensiXPatch",
-    "version": "V2",
-    "price": 100
-  },
-  {
-   "name": "SensiXPatch",
-    "version": "V3",
-    "price": 150
-  },
-  {
-   "name": "SensiXPatch",
-    "version": "V4",
-    "price": 200
-  },
-  {
-   "name": "SensiXPatch",
-    "version": "V5",
-    "price": 250
-  },
-  {
-   "name": "SensiXPatch",
-    "version": "V6",
-    "price": 300
-  },
-  {
    "name": "AndroidLiteXOptimal",
     "version": "V1",
     "price": 20

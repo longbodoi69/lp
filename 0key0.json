@@ -2438,5 +2438,13 @@
   "android_version": "14",
   "manufacturer": "Xiaomi",
   "price": "20"
+  },
+  {
+  "key": "vietdun",
+  "android_id": "bf39e5e80ad62d51",
+  "serial": "8a4cd4990722",
+  "android_version": "13",
+  "manufacturer": "Xiaomi",
+  "price": "140"
   }
 ]

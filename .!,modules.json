@@ -15,6 +15,11 @@
     "price": 210
   },
   {
+    "name": "StabilizerExtra",
+    "version": "V4",
+    "price": 280
+  },
+  {
    "name": "AndroidLiteXOptimal",
     "version": "V1",
     "price": 20

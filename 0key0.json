@@ -2446,5 +2446,13 @@
   "android_version": "13",
   "manufacturer": "Xiaomi",
   "price": "140"
+  },
+  {
+  "key": "trigayngu",
+  "android_id": "cfcc89615bdc2381",
+  "serial": "bd3ada39",
+  "android_version": "14",
+  "manufacturer": "Xiaomi",
+  "price": "70"
   }
 ]

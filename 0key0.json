@@ -2462,5 +2462,13 @@
   "android_version": "15",
   "manufacturer": "samsung",
   "price": "70"
+  },
+  {
+  "key": "trungduong",
+  "android_id": "a87f855db7507974",
+  "serial": "4258a0d0",
+  "android_version": "15",
+  "manufacturer": "Xiaomi",
+  "price": "70"
   }
 ]

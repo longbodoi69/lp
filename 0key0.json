@@ -2454,5 +2454,13 @@
   "android_version": "14",
   "manufacturer": "Xiaomi",
   "price": "70"
+  },
+  {
+  "key": "bonngu",
+  "android_id": "32efd27c17b71133",
+  "serial": "R5CY53QC4TN",
+  "android_version": "15",
+  "manufacturer": "samsung",
+  "price": "70"
   }
 ]
